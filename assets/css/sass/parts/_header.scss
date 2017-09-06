@@ -33,14 +33,17 @@
   padding: 25px 30px;
   transform: translate3d(-300px, 0, 0);
   ul {
+    background-color: $white;
     padding: 15px 0 0;
-    margin: 0;
+    margin: 0 -30px 0 -30px;
     list-style: none;
 
     li {
       border-bottom: 1px solid $lighten-gray;
+      background-color: $white;
       a {
         display: block;
+        margin: 0 30px;
         padding: 15px 0;
         text-decoration: none;
         text-transform: uppercase;
