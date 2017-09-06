@@ -4,7 +4,7 @@ layout: home-page
 <ol class="post-card-box clearfix">
   {% for post in paginator.posts %}
   <li>
-    <div class="post-card{% cycle ' light-purple', ' light-gray', '', ' light-purple' %}">
+    <div class="post-card{% cycle ' light-purple', '', ' light-gray', ' light-pink' %}">
       <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image"{% if post.img %} style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"{% endif %}>
       </a>
 

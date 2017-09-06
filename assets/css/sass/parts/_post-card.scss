@@ -12,10 +12,13 @@
       opacity: 0.9;
     }
     & .light-gray {
-      background-color: $light-gray;
+      background-color: $lighten-gray;
     }
     & .light-purple {
       background-color: $light-purple;
+    }
+    & .light-pink {
+      background-color: $light-pink;
     }
   }
 }
