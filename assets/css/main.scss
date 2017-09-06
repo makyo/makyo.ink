@@ -53,6 +53,13 @@ hr {
         content: '§';
         display: block;
     }
+
+    &.fin::before {
+        content: '~ Fin ~';
+        font-variant: small-caps;
+        display: block;
+        font-style: italic;
+    }
 }
 
 img {

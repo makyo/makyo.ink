@@ -1,10 +1,22 @@
 ---
+author: Madison Scott-Clary
+counts:
+    characters_real: 58318
+    characters_total: 72227
+    file: _posts/2017-09-03-overclassification.md
+    paragraphs: 507
+    type: jekyll
+    words: 13794
+description: A chronically neat otter's life is thrown into disarray when she takes
+    a homeless ringtail in from the cold.
+img: null
 layout: post
+tags:
+- Sawtooth
+- Short Story
+- Furry
+- Rated R
 title: Overclassification
-description: A chronically neat otter's life is thrown into disarray when she takes a homeless ringtail in from the cold.
-img: # Add image post (optional)
-tags: [Sawtooth, Short Story, Furry, Rated R]
-author: # Add name author (optional)
 ---
 
 "Some would say that the primary goal of folkloristics is one of anthropology, of understanding a culture's view of itself. I, naturally, disagree." Professor Haswell's voice droned on even in sleep, even these many years later. Dani hated it, hated these dreams. "Folkloristics works from the other direction. It constructs a semiotic niche out of so many *umwelten*..."

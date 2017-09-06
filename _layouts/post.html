@@ -13,9 +13,19 @@ layout: default
       <div class="page-content">
         <div class="header-page">
           <h1 class="page-title">{{page.title}}</h1>
-          <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>
+          <div class="page-meta">
+              {{page.date | date: '%B %d, %Y'}}
+              {% if page.counts %} &bull; {{ page.counts.words }} words &bull; {{ page.counts.paragraphs }} paragraphs{% endif %}
+              {% if page.tags %}<br />
+              {% for tag in page.tags %}
+              <a href="{{site.baseurl}}/tags#{{tag}}">{{tag}}</a>
+              {% if forloop.last != true %}|{% endif %}
+              {% endfor %}
+              {% endif %}
+          </div>
         </div>
         {{page.content | markdownify}}
+        <hr class="fin" />
         <div class="page-footer">
           <div class="page-tag">
             <span>Tags:</span>
@@ -30,9 +40,11 @@ layout: default
             <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
           </div><!-- End Share -->
         </div>
+        {% comment %}
         {% include author-box.html %}
         {% include recent-post.html %}
         {% include newsletter.html %}
+        {% endcomment %}
         {% include disqus.html %}
       </div>
     </div> <!-- End Wrapper -->

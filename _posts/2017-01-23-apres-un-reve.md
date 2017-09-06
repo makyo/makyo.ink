@@ -1,10 +1,21 @@
 ---
+author: Madison Scott-Clary
+counts:
+    characters_real: 7968
+    characters_total: 9729
+    file: _posts/2017-01-23-apres-un-reve.md
+    paragraphs: 82
+    type: jekyll
+    words: 1735
+description: A young woman reluctantly goes through with the uploading procedure,
+    risky though it is, to reconnect with her lover.
+img: null
 layout: post
+tags:
+- Post-Self
+- Short Story
+- Rated G
 title: "Apr\xE8s un r\xEAve"
-description: A young woman reluctantly goes through with the uploading procedure, risky though it is, to reconnect with her lover.
-img: # Add image post (optional)
-tags: [Post-Self, Short Story, Rated G]
-author: # Add name author (optional)
 ---
 
 > *Dans un sommeil que charmait ton image  

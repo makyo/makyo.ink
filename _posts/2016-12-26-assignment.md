@@ -1,10 +1,21 @@
 ---
+author: Madison Scott-Clary
+counts:
+    characters_real: 6871
+    characters_total: 8421
+    file: _posts/2016-12-26-assignment.md
+    paragraphs: 56
+    type: jekyll
+    words: 1512
+description: Ioan Balan is a historian and blogger assigned to research a flash-cult.
+    Things go sideways, and he's left with more story than expected.
+img: null
 layout: post
-title: "Assignment"
-description: Ioan Balan is a historian and blogger assigned to research a flash-cult. Things go sideways, and he's left with more story than expected.
-img: # Add image post (optional)
-tags: [Post-Self, Short Story, Rated G]
-author: # Add name author (optional)
+tags:
+- Post-Self
+- Short Story
+- Rated G
+title: Assignment
 ---
 
 The feeling of an instance merging state back with the tracker would never NOT make Ioan Balan#tracker uneasy. It wasn't the differences in experiences, those could be anticipated, so much as the tiny changes in identity that resulted. Having to internalize a slightly different version of yourself was too close to experiencing a doppelg&auml;nger. Or perhaps hanging with a sib, fresh home from a semester abroad.
