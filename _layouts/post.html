@@ -22,6 +22,9 @@ layout: default
               {% if forloop.last != true %}|{% endif %}
               {% endfor %}
               {% endif %}
+              {% if page.pdf %}<br />
+              <a class="pdf" href="{{site.baseurl}}/assets/pdf/{{page.pdf}}"><i class="fa fa-print" aria-hidden="true"></i> Print version</a>
+              {% endif %}
           </div>
         </div>
         {{page.content | markdownify}}

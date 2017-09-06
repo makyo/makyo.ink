@@ -29,7 +29,7 @@
       color: $white;
   }
 
-  &.with-image {
+  .with-image & {
       margin-top: -80px;
       border-top-left-radius: 20px;
       border-top-right-radius: 20px;
@@ -37,9 +37,10 @@
 
   & > p {
       margin: 0;
-      &:not(first-of-type) {
-          text-indent: 2em;
-      }
+      text-indent: 2em;
+  }
+  p:first-of-type, hr + p {
+      text-indent: 0em;
   }
 }
 
@@ -63,6 +64,10 @@
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 300;
+
+    .pdf {
+        text-decoration: none;
+    }
   }
 }
 

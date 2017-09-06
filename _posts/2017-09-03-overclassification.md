@@ -9,7 +9,7 @@ counts:
     words: 13794
 description: A chronically neat otter's life is thrown into disarray when she takes
     a homeless ringtail in from the cold.
-img: null
+img: overclassification.jpg
 layout: post
 tags:
 - Sawtooth
