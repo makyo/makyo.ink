@@ -1,22 +1,47 @@
-title: Madison Scott-Clary
-email: makyo@drab-makyo.com
-description: > 
-    Writing projects by Madison Scott-Clary
-baseurl: ""
+title: The Writing of Madison Scott-Clary
+description: > # this means to ignore newlines until "baseurl:"
+  Madison is an author of fiction, non-fiction, and poetry living in Loveland, Colorado. Her interests lie in the realms of furry fiction and non-fiction, collaborative fiction, and hypertextual writing. She is a member (and president) of the Furry Writers' Guild, and editor for several projects, fiction and non-fiction. This site collects several of her written works.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# Author settings
+author: Madison Scott-Clary # add your name
+author-pic: headshot.jpg
+about-author: Madison Scott-Clary is a full-time software developer and part-time writer. She lives with her two dogs and her husband, who is also a dog.
+
+# Contact links
+email: makyo@drab-makyo.com
+phone: # Add your Phone number
+website: drab-makyo.com
+linkedin: # Add your Linkedin handle
+github: makyo # Add your Github handle
+twitter: '@makyo_writes' # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: writingdrabmakyo # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
 
 # Build settings
+sass:
+  sass_dir: assets/css/sass
 markdown: kramdown
-theme: minima
 plugins:
-    - jekyll-feed
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - .bundle
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
