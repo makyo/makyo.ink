@@ -4,71 +4,65 @@ title: About
 permalink: /about/
 ---
 <div class="small-wrapper">
-  <div class="about-container">
-    <section class="about-header">
-      <div class="author-image-container">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
-      </div>
-      <p class="subtitle">{{site.about-author}}</p>
-      <hr />
-      <p class="subtitle">{{site.description}}</p>
-    </section>
-    <section class="about-body">
-      <ul class="contact-list">
-      {% if site.email %}
-        <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
-      {% else %}
-        <li class="email"><a href="mailto:example.adam@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-      {% endif %}
+    <div class="about-container">
+        <section class="about-header">
+            <div class="author-image-container">
+                <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
+            </div>
+            <p class="subtitle">{{site.about-author}}</p>
+        </section>
+        <section class="about-body">
+            <p>If you're interested in supporting my writing work (and development work, if that's your bag!), I will be eternally grateful! I have a few mechanisms for support:</p>
+            <ul>
+                <li><a href="https://patreon.com/makyo"><strong>Patreon</strong></a> — I have this set up as a per-creation support, rather than a monthly. That might change, but for now, it’s super useful for me and really easy on patrons. We all have dry-spells, after all, and I’m no exception. I have a few support levels:
+                    <ul>
+                        <li>$1 — Behind the Scenes: get a patron-only perspective on my work with blog posts, polls, and early access.</li>
+                        <li>$5 — Draft Insider: all the above, plus access to early drafts.</li>
+                        <li>$10 — All Access: all the above, plus access to crazy things like notes, sketches, images, etc.</li>
+                        <li>$15 — Guide Me: all the above, plus a say in what I write. Suggest stories, give me characters, edit my stuff for me!</li>
+                    </ul>
+                </li>
+                <li><a href="https://gratipay.com/makyo/"><strong>Gratipay</strong></a> — Gratipay works more like a tip system, but it also allows users to pledge on a schedule. The benefit of this is that it’s super lightweight, and also works well with GitHub.</li>
+                <li><a href="https://ko-fi.com/drabmakyo"><strong>Ko-fi</strong></a> — Ko-fi is another tipping site, and is nicely integrated with PayPal. It’s also got a bit of a friendlier interface than Gratipay, one that folks are more used to.</li>
+            </ul>
+            <hr />
+            <ul class="contact-list">
+                {% if site.email %}
+                <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+                {% endif %}
 
-      {% if site.phone %}
-        <li class="phone"><a href="tel:{{site.phone}}"><i class="fa fa-phone"></i></a></li>
-      {% else %}
-        <li class="phone"><a href="tel:044 825 5523"><i class="fa fa-phone" aria-hidden="true"></i></a></li>
-      {% endif %}
+                {% if site.phone %}
+                <li class="phone"><a href="tel:{{site.phone}}"><i class="fa fa-phone"></i></a></li>
+                {% endif %}
 
-      {% if site.website %}
-        <li class="website"><a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i></a></li>
-      {% else %}
-        <li class="website"><a href="https://artemsheludko.github.io" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a></li>
-      {% endif %}
+                {% if site.website %}
+                <li class="website"><a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i></a></li>
+                {% endif %}
 
-      {% if site.linkedin %}
-        <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-      {% else %}
-        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-      {% endif %}
+                {% if site.linkedin %}
+                <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                {% endif %}
 
-      {% if site.github %}
-        <li class="github"><a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
-      {% else %}
-        <li class="github"><a href="http://github.com/artemsheludko" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-      {% endif %}
+                {% if site.github %}
+                <li class="github"><a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
+                {% endif %}
 
-      {% if site.twitter %}
-        <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
-      {% else %}
-        <li class="twitter"><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-      {% endif %}
+                {% if site.twitter %}
+                <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                {% endif %}
 
-      {% if site.facebook %}
-        <li class="facebook"><a href="https://facebook.com/{{site.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a></li>
-      {% else %}
-        <li class="facebook"><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-      {% endif %}
+                {% if site.facebook %}
+                <li class="facebook"><a href="https://facebook.com/{{site.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                {% endif %}
 
-      {% if site.instagram %}
-        <li class="instagram"><a href="https://instagram.com/{{site.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
-      {% else %}
-        <li class="instagram"><a href="https://instagram.com/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-      {% endif %}
+                {% if site.instagram %}
+                <li class="instagram"><a href="https://instagram.com/{{site.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                {% endif %}
 
-      {% if site.pinterest %}
-        <li class="pinterest"><a href="https://pinterest.com/{{site.pinterest}}" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-      {% else %}
-        <li class="pinterest"><a href="https://pinterest.com/" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-      {% endif %}
-      </ul>
-    </section> <!-- End About Body-->
-  </div> <!-- End About Container -->
+                {% if site.pinterest %}
+                <li class="pinterest"><a href="https://pinterest.com/{{site.pinterest}}" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                {% endif %}
+            </ul>
+        </section> <!-- End About Body-->
+    </div> <!-- End About Container -->
 </div> <!-- End Small Wrapper -->

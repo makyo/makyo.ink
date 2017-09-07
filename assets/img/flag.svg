@@ -1,0 +1,8 @@
+<svg width="500" height="300" viewbox="0 0 500 300"  xmlns="http://www.w3.org/2000/svg">
+    <!-- The blue symbolizes the sky -->
+    <path fill="blue" d="M 0,0 l 0,175 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l 0,-175 Z" />
+    <!-- The green symbolizes the earth as well as the fertility of the soil, which grows so many of Sawtooth's crops -->
+    <path fill="green" d="M 0,175 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l 0,175 l -500,0 Z" />
+    <!-- The yellow symbolizes both the sun rising over the Sawtooth range as well as the stone of the range itself -->
+    <path fill="yellow" d="M 0,150 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l 100,-50 l 0,50 l -100,50 l 0,-50 l -100,50 l 0,-50 l -100,50 l 0,-50 l -100,50 l 0,-50 l -100,50 l 0,-50 Z" />
+</svg>

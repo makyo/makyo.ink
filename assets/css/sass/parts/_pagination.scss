@@ -15,5 +15,13 @@
       opacity: .8;
       color: $dark-pink;
     }
+
+    .invert & {
+        color: $light-gray;
+
+        &:hover {
+            color: $light-pink;
+        }
+    }
   }
 }

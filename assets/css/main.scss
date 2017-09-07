@@ -30,6 +30,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   &.invert {
+      color: $white;
       background-color: $dark-gray;
   }
 }
@@ -52,6 +53,7 @@ hr {
     &::before {
         content: '§';
         display: block;
+        text-align: center;
     }
 
     &.fin::before {
@@ -59,6 +61,7 @@ hr {
         font-variant: small-caps;
         display: block;
         font-style: italic;
+        text-align: center;
     }
 }
 

@@ -9,7 +9,7 @@ counts:
     words: 1735
 description: A young woman reluctantly goes through with the uploading procedure,
     risky though it is, to reconnect with her lover.
-img: null
+img: post-self.png
 layout: post
 tags:
 - Post-Self

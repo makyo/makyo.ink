@@ -9,7 +9,7 @@ counts:
     words: 1512
 description: Ioan Balan is a historian and blogger assigned to research a flash-cult.
     Things go sideways, and he's left with more story than expected.
-img: null
+img: post-self.png
 layout: post
 tags:
 - Post-Self
