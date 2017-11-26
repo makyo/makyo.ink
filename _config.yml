@@ -27,7 +27,7 @@ analytics: # Google Analytics
 
 # Paginate
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /page/:num/
 
 # Build settings
 sass:
