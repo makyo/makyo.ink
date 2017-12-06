@@ -1,6 +1,6 @@
 title: The Writing of Madison Scott-Clary
 description: > # this means to ignore newlines until "baseurl:"
-  Madison is an author of fiction, non-fiction, and poetry living in Loveland, Colorado. Her interests lie in the realms of furry fiction and non-fiction, collaborative fiction, and hypertextual writing. She is a member (and president) of the Furry Writers' Guild, and editor for several projects, fiction and non-fiction. This site collects several of her written works.
+  Madison is an author of fiction, non-fiction, and poetry living in Loveland, Colorado. Her interests lie in the realms of furry fiction and non-fiction, collaborative fiction, and hypertextual writing. She is a member of the Furry Writers' Guild, and editor for several projects, fiction and non-fiction. This site collects several of her written works.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
