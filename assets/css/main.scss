@@ -174,7 +174,6 @@ pre {
 /* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
 @import "parts/pagination";
 
-
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */
 @import "parts/footer";
 
@@ -184,6 +183,9 @@ pre {
 /* = = = = = = = = = = Author Box Styles = = = = = = = = = = */
 @import "parts/author-box";
 
+/* = = = = = = = = = = Donate Box Styles = = = = = = = = = = */
+@import "parts/donate";
+
 /* = = = = = = = = = = About Page Styles = = = = = = = = = = */
 @import "parts/about";
 
@@ -191,7 +193,7 @@ pre {
 @import "parts/tags";
 
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
-@import "parts/animate";
+//@import "parts/animate";
 
 /* = = = = = = = = = = Media = = = = = = = = = = */
 @import "media"
