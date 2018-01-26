@@ -79,11 +79,11 @@ a {
 }
 
 blockquote {
-  border-left: 3px solid $dark-purple;
+  border-left: 3px solid $light-gray;
   padding-left: 18px;
   margin-left: 21px;
   font-style: italic;
-  color: $dark-purple;
+  color: $darken-gray;
 
   .invert & {
       border-left-color: $light-purple;
