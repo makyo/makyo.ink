@@ -39,7 +39,7 @@
       margin: 0;
       text-indent: 2em;
   }
-  p:first-of-type, hr + p {
+  p:first-of-type, hr + p, blockquote + p {
       text-indent: 0em;
   }
 }
