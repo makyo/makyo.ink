@@ -2,7 +2,7 @@
 author: Madison Scott-Clary
 categories:
 - Short Story
-- Rated x
+- Rated X
 counts:
     characters_real: 7802
     characters_total: 9785

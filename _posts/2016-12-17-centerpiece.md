@@ -3,7 +3,7 @@ author: Madison Scott-Clary
 categories:
 - Sawtooth
 - Short Story
-- Rated R
+- Rated X
 counts:
     characters_real: 18804
     characters_total: 23200
