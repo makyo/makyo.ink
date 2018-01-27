@@ -16,8 +16,8 @@ description: An exploration in grief, told through instant messages to the dead.
 img: flag.svg
 layout: post
 tags:
-- Death
 - Furry
+- Death
 title: You're Gone
 ---
 
