@@ -1,5 +1,9 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Sawtooth
+- Short Story
+- Rated R
 counts:
     characters_real: 44948
     characters_total: 56115
@@ -7,14 +11,14 @@ counts:
     paragraphs: 377
     type: jekyll
     words: 11068
-description: A weasel attempts to escape from her life in Sawtooth to Oregon, but finds her old life still tied to home.
+description: A weasel attempts to escape from her life in Sawtooth to Oregon, but
+    finds her old life still tied to home.
 img: disappearance-abbrev.png
 layout: post
 tags:
-- Sawtooth
-- Short Story
 - Furry
-- Rated R
+- Romance
+- Sexuality
 title: Disappearance
 ---
 

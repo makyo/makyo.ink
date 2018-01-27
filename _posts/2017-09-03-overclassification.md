@@ -5,12 +5,12 @@ categories:
 - Short Story
 - Rated R
 counts:
-    characters_real: 58318
-    characters_total: 72227
+    characters_real: 59986
+    characters_total: 74277
     file: _posts/2017-09-03-overclassification.md
-    paragraphs: 507
+    paragraphs: 513
     type: jekyll
-    words: 13794
+    words: 14160
 description: A chronically neat otter's life is thrown into disarray when she takes
     a homeless ringtail in from the cold.
 img: overclassification.jpg
@@ -19,7 +19,7 @@ tags:
 - Furry
 - Romance
 - Sexuality
-- Mental Health
+- Mental health
 title: Overclassification
 ---
 
