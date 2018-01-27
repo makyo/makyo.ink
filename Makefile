@@ -5,7 +5,7 @@ run:
 .PHONY: run-jekyll
 run-jekyll:
 	-rm .jekyll-metadata
-	bundle exec jekyll serve -wi -H 0.0.0.0
+	bundle exec jekyll serve -w -H 0.0.0.0
 
 .PHONY: watch-wordcounts
 watch-wordcounts:
