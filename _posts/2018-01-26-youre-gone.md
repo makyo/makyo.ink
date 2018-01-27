@@ -1,5 +1,10 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Short Story
+- Interactive
+- Sawtooth
+- Rated G
 counts:
     characters_real: 318
     characters_total: 405
@@ -10,6 +15,9 @@ counts:
 description: An exploration in grief, told through instant messages to the dead.
 img: flag.svg
 layout: post
+tags:
+- Death
+- Furry
 title: You're Gone
 ---
 

@@ -1,5 +1,9 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Sawtooth
+- Vignette
+- Rated G
 counts:
     characters_real: 4916
     characters_total: 6040
@@ -11,11 +15,8 @@ description: A coyote burns meaning into the world around him.
 img: flag.svg
 layout: post
 tags:
-- Sawtooth
-- Short Story
-- Vignette
 - Furry
-- Rated G
+- Magic
 title: 'Vignette: Acts of Intent'
 ---
 

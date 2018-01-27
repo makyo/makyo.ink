@@ -1,5 +1,9 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Sawtooth
+- Short Story
+- Rated R
 counts:
     characters_real: 58318
     characters_total: 72227
@@ -12,10 +16,10 @@ description: A chronically neat otter's life is thrown into disarray when she ta
 img: overclassification.jpg
 layout: post
 tags:
-- Sawtooth
-- Short Story
 - Furry
-- Rated R
+- Romance
+- Sexuality
+- Mental Health
 title: Overclassification
 ---
 

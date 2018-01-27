@@ -1,0 +1,26 @@
+---
+layout: home-page
+---
+
+<p><a href="{{site.baseurl}}/collections">&laquo; back to collections</a></p>
+
+<h1>Stories rated G</h1>
+
+<ol class="post-card-box clearfix">
+  {% for post in site.categories['Rated G'] %}
+  <li>
+    <div class="post-card{% cycle ' light-purple', '', ' light-gray', ' light-pink' %}">
+      <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image"{% if post.img %} style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"{% endif %}>
+      </a>
+
+      <div class="post-card-body">
+        {% for tag in post.tags %}
+        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
+        {% endfor %}
+        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
+      </div>
+
+    </div>
+  </li>
+  {% endfor %}
+</ol>

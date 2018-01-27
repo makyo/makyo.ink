@@ -1,5 +1,9 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Post-Self
+- Short Story
+- Rated G
 counts:
     characters_real: 6871
     characters_total: 8421
@@ -12,9 +16,10 @@ description: Ioan Balan is a historian and blogger assigned to research a flash-
 img: post-self.png
 layout: post
 tags:
-- Post-Self
-- Short Story
-- Rated G
+- Science fiction
+- Uploading
+- Mystery
+- Cult
 title: Assignment
 ---
 

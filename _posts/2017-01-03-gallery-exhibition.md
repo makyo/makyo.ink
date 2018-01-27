@@ -1,5 +1,10 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Post-Self
+- Short Story
+- Interactive
+- Rated G
 counts:
     characters_real: 627
     characters_total: 765
@@ -11,10 +16,9 @@ description: null
 img: gallery-exhibition.svg
 layout: post
 tags:
-- Post-Self
-- Short Story
-- Twine
-- Rated G
+- Romance
+- Science fiction
+- Uploading
 title: 'Gallery Exhibition: A Love Story'
 ---
 

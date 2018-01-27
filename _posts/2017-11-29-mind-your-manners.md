@@ -1,5 +1,9 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Sawtooth
+- Flash fiction
+- Rated G
 counts:
     characters_real: 1495
     characters_total: 1856
@@ -11,10 +15,8 @@ description: '[one big awful Canadian joke]'
 img: flag.svg
 layout: post
 tags:
-- Sawtooth
-- Flash fiction
 - Furry
-- Rated G
+- Humor
 title: 'Flash: Mind Your Manners'
 ---
 

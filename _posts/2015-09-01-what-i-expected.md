@@ -1,5 +1,9 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Rum and Coke
+- Short Story
+- Rated X
 counts:
     characters_real: 40294
     characters_total: 49562
@@ -12,10 +16,11 @@ description: Meeting for the first time is stressful enough, but all the more so
 img: rum-and-coke.png
 layout: post
 tags:
-- Rum and Coke
-- Short Story
 - Furry
-- Rated X
+- About furry
+- Convention
+- Gender
+- Sexuality
 title: What I Expected
 ---
 

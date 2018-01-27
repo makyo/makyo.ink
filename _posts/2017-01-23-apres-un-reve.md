@@ -1,5 +1,9 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Post-Self
+- Short Story
+- Rated G
 counts:
     characters_real: 7968
     characters_total: 9729
@@ -12,9 +16,9 @@ description: A young woman reluctantly goes through with the uploading procedure
 img: post-self.png
 layout: post
 tags:
-- Post-Self
-- Short Story
-- Rated G
+- Death
+- Science fiction
+- Uploading
 title: "Apr\xE8s un r\xEAve"
 ---
 

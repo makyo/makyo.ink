@@ -2,12 +2,12 @@
 layout: home-page
 ---
 
-<h1>Sawtooth</h1>
+<p><a href="{{site.baseurl}}/collections">&laquo; back to collections</a></p>
 
-<p>These stories take place in the shared world of Sawtooth, Idaho.</p>
-<p>Sawtooth is a town of approximately sixty thousand, and home to University of Idaho Sawtooth. The town is serviced by a prompt and organized public transit system. It is proud to host some of Idaho's largest companies as the tech capitol of the state.</p>
+<h1>Stories rated G</h1>
+
 <ol class="post-card-box clearfix">
-  {% for post in site.tags.Sawtooth %}
+  {% for post in site.categories['Rated R'] %}
   <li>
     <div class="post-card{% cycle ' light-purple', '', ' light-gray', ' light-pink' %}">
       <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image"{% if post.img %} style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"{% endif %}>

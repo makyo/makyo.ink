@@ -1,5 +1,9 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Sawtooth
+- Short Story
+- Rated R
 counts:
     characters_real: 69529
     characters_total: 85747
@@ -7,14 +11,15 @@ counts:
     paragraphs: 607
     type: jekyll
     words: 16131
-description: Living with obsessive-compulsive disorder is tough without a support network, so when Sélène's changes, stress runs high.
+description: "Living with obsessive-compulsive disorder is tough without a support\
+    \ network, so when S\xE9l\xE8ne's changes, stress runs high."
 img: flag.svg
 layout: post
 tags:
-- Sawtooth
-- Short Story
 - Furry
-- Rated R
+- Romance
+- Sexuality
+- Mental Health
 title: A Theory of Attachment
 ---
 

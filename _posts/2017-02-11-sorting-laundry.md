@@ -1,5 +1,8 @@
 ---
 author: Madison Scott-Clary
+categories:
+- Flash fiction
+- Rated G
 counts:
     characters_real: 902
     characters_total: 1117
@@ -10,8 +13,8 @@ counts:
 description: You always have to sort your laundry.
 layout: post
 tags:
-- Flash fiction
-- Rated G
+- Gender
+- Family
 title: 'Flash: Sorting Laundry'
 ---
 
