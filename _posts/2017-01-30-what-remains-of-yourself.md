@@ -5,12 +5,12 @@ categories:
 - Short Story
 - Rated x
 counts:
-    characters_real: 11991
-    characters_total: 14797
+    characters_real: 12013
+    characters_total: 14822
     file: _posts/2017-01-30-what-remains-of-yourself.md
-    paragraphs: 108
+    paragraphs: 109
     type: jekyll
-    words: 2794
+    words: 2797
 description: A cat heads to a party. What's usually a safe and comfortable group of
     friends is slowly dominated by a dog. A dog with plans.
 img: flag.svg
@@ -23,6 +23,8 @@ tags:
 - Drugs
 title: What Remains of Yourself
 ---
+
+<div class="cw">Drugging, dubious consent.</div>
 
 Boots? Check. Knee-high stompers with buckles from ankle to top. Dark enough brown to pass for black. Cradled the paws oh-so-nicely.
 
