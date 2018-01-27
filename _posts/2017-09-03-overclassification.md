@@ -5,12 +5,12 @@ categories:
 - Short Story
 - Rated R
 counts:
-    characters_real: 58318
-    characters_total: 72227
+    characters_real: 59986
+    characters_total: 74277
     file: _posts/2017-09-03-overclassification.md
-    paragraphs: 507
+    paragraphs: 513
     type: jekyll
-    words: 13794
+    words: 14160
 description: A chronically neat otter's life is thrown into disarray when she takes
     a homeless ringtail in from the cold.
 img: overclassification.jpg
@@ -19,7 +19,7 @@ tags:
 - Furry
 - Romance
 - Sexuality
-- Mental Health
+- Mental health
 title: Overclassification
 ---
 
@@ -29,31 +29,31 @@ How damning was it to have such boring dreams?
 
 Dani would write this one down on a fresh page in the morning, as she always did. The entry would be noted in the book's index. It would be given a series of tags. "School", "Haswell", "NNND" --- that boring category of "neither nightmare nor desire" --- and probably "work". Should she put "work"? Was the dream even worth it?
 
-Perhaps, one of these days, she would build her own folkloristic taxonomy of dreams. *Tonight, I'll dream 002.010.001 (work, current job, nonspecific), 004.011.001 (school, past, nonspecific), and 035.103.002 (person, school professor (own), important but no overt pressure),* she would think, and that would be it.
+Perhaps, one of these days, she would build her own folkloristic taxonomy of dreams. *Tonight,* she would think, *I'll dream 002.010.001 (work, current job, nonspecific), 004.011.001 (school, past, nonspecific), and 035.103.002 (person, school professor (own), important but no overt pressure),* and that would be it.
 
-Maybe if she reduced her dreams to a simple list, she could skip the actual process of dreaming them and wake up well-rested. An otter, sleek by design in all possible ways.
+Maybe if she reduced her dreams to a simple list, she could skip the actual process of dreaming them and wake up well-rested. An otter, sleek by design, efficient in all possible ways.
 
-By the time she had actually woken up, written her dream journal entry, and stretched her way out of bed, she was left with only the grumpiness. Coffee was the first order of business, and then grooming. Neither of those were dreams, both could be easily taken care of.
+By the time she had actually woken up, written her dream journal entry, and stretched her way out of bed, she was left with only the grumpiness. Coffee was the first order of business, and then grooming. Neither of those were dreams, both could be easily taken care of without over-thinking.
 
-The otter's apartment was small and, surprising no one, quite orderly. It wasn't neat, per se. It wasn't pretty or aesthetically pleasing, but there was some unnatural level of order to it that was immediately noticeable. Where many homes would slowly settle into a comfortable sort of entropy, into that "I know it's messy, but I know where everything is"-ness, Dani's seemed resistant to that particular form of entropy, in some intangible way.
+The otter's apartment was small and, surprising no one, quite orderly. It wasn't neat, per se. It wasn't pretty or aesthetically pleasing, but there was some unnatural level of order to it that was immediately noticeable. Where many homes would slowly settle into a comfortable sort of messiness, into that "I know it's messy, but I know where everything is"-ness, Dani's seemed resistant to that particular form of entropy, in some intangible way. It was occupied, but, as a space, gave no sense of being lived in.
 
-The kitchen was tight, and the plates stacked as one might stack plates, but in such a way as to not permit bowls in their proximity. The DVDs stacked on the shelf were of all sorts of genres, but one would be hard pressed to return one out of alphabetical order. Something about the vanity in the bathroom disinvited one from placing anything on its surface.
+The kitchen was tight, and the plates stacked as anyone might stack plates, but in such a way as to not permit bowls in their proximity. The DVDs stacked on the shelf were of all sorts of genres, but one would be hard pressed to return one out of alphabetical order. Something about the vanity in the bathroom disinvited one from placing anything on its surface.
 
 It wasn't the apartment, of course, it was Dani. Even that was obvious: one could no more place that blame on the apartment than one could place a dirty dish on the counter rather than in the sink.
 
-It wasn't OCD, her therapist had explained --- and she had explained to an ex-girlfriend --- so much as an aspect of personality.
+It wasn't OCD, her therapist had explained --- and she had explained in turn to an ex-girlfriend --- so much as an aspect of personality.
 
-This was back in her undergrad, and she'd initially been hesitant to accept that. Surely an ICD10 code would help. A bold *F42 --- Obsessive-Compulsive Disorder*. If only she could stack all her problems up into a banker's box and scrawl *F42* across the top in permanent marker. This felt like an indictment that she wasn't fixable, just weird.
+This was back in her undergrad, and she'd initially been hesitant to accept that. Surely an ICD10 code would help. A bold *F42 --- Obsessive-Compulsive Disorder*. If only she could stack all her problems up into a banker's box and scrawl *F42* across the top in permanent marker. That she couldn't felt like an indictment that she wasn't fixable, just weird.
 
-In grad school, she had met a vixen with OCD in one of the classes she TA'd, and she'd immediately dropped an pretenses of *F42*-dom for herself. She lacked the raw, primal anxiety that went along with such a thing.
+In grad school, she had met a vixen with OCD in one of the classes she TA'd, and she'd immediately dropped any pretenses of *F42*-dom for herself. She lacked the raw, primal anxiety that went along with such a thing.
 
 She was just weird.
 
-"Maybe not," her ex had said, at her explanation. "But that doesn't make you any less crazy."
+"Maybe it's not OCD," her ex had said, at her explanation. "But that doesn't make you any less crazy."
 
 Ah well, 'ex' was just another shelf onto which one could put a relationship.
 
-By the time she was coffeed and groomed, all dressed in the usual natty slacks-and-shirt-and-bowtie-and-peacoat, the otter was quite thoroughly sick of this glum mood. There was no reason to expect that work would change that, nor that Friday would bring any relief. None of the others had.
+By the time she was coffeed and groomed, all dressed in the usual natty slacks-and-shirt-and-bowtie-and-peacoat, the otter was quite thoroughly sick of this glum mood. There was no reason to expect that work would change that, nor that Friday would bring any relief. None of the countless others had.
 
 -----
 
@@ -69,15 +69,15 @@ The incident had been forgotten for years until a nineteen year old Dani announc
 
 The discovery of the utility of categorizing, sorting, and cataloging things --- an act which previously had felt so pointless --- had been validating in a way she could never explain to her mother. There were boxes. Things were put into them. Sometimes you had to work out which box to use, or if there were actually *two* boxes the thing went into.
 
-Her degree had turned into one focused on folkloristics, a field she desperately loved, but, unless she went hunting, dominated by the tireless Doctor Haswell. She'd declared a master's degree to be *Enough* and moved, full circle, to working in the campus library's archive department.
+Her degree had turned into one focused on folkloristics, a field she desperately loved, but, unless she went hunting out of state, one dominated by the tireless Doctor Haswell. She'd declared a master's degree to be quite enough and moved, full circle, to working in the campus library's archive department.
 
 It was fulfilling work, but, as predicted, did little to lift her mood. It was fulfilling without being good. Comfortable without being pleasant.
 
 She made it through the day, categorizing high-resolution scans of glass-plate negatives, and drove home to another night of plain dinner and a movie she'd seen dozens of times already.
 
-Her movie habit had started out of necessity for her degree, classifying the stories that she saw and how they were presented. Many of the movies that had wound up on her shelf had done so not out of enjoyment, so much as part of one assignment or another.
+Her movie habit had started out of necessity for her degree, classifying the stories that she saw and how they were presented. Many of the movies that had wound up on her shelf had done so not out of enjoyment, so much as for part of one assignment or another.
 
-She would be hard pressed to tell why she kept watching them, though. She'd park herself on her beanbag, rudder canted off to one side while she poked her way through a plate of pasta. The DVD would be set to play and she would...well, she didn't watch the movies.
+She would be hard pressed to tell why she kept watching them, though. She'd park herself on her beanbag, rudder canted off to one side while she poked her way through a plate of pasta. The DVD would be set to play and she would...well, she didn't really watch the movies.
 
 She didn't watch the movies, she didn't taste the food, she didn't think about whether or not she was comfortable. It was something more than a habit, but less than participation.
 
@@ -89,9 +89,9 @@ No amount of sound could drown out that sheer lack of feeling. No voices could a
 
 The otter washed her paws, and stood at the sink a while longer, toying with the stream of cold water, brushing it up along her forearms, and watching the way it beaded atop her fur.
 
-Her mother used to get her soap in the shape of crayons when she was only a kit. It give her a bright-red way to scrawl across the bathroom that was easy to wash off, and which --- theoretically --- got her clean in the process.
+She thought of how her mother used to get her soap in the shape of crayons when she was only a kit. It gave her a bright-red way to scrawl across the bathroom that was easy to wash off, and which --- theoretically --- got her clean in the process.
 
-Her mother had been furious when all Dani had done was draw that point of soap along the lines of grout between the tiles in the bathroom. It had turned the walls (and part of the floor) into a pleasing red grid. When pressed, her mom had grumbled about the grout being more difficult to clean than the tile itself.
+Her mother had been furious when all Dani had done was draw that point of soap crayon along the lines of grout between the tiles in the bathroom. It had turned the walls (and part of the floor) into a pleasing red grid. When pressed, her mom had grumbled about the grout being more difficult to clean than the tile itself.
 
 Dani had always wondered at that. Sometimes, she would stand in the shower, water beading along far more of her than just her forearms, and draw along the grout with a bar of soap she bought for such purposes. She never used the stuff, hated the very texture of it in her paws, but she did spend shower after shower seeing how well it rinsed out of the grout.
 
@@ -100,7 +100,7 @@ The dishes were finished, her paws were plenty clean, and still she stood, tryin
 > Life within a comfortable grid.  
 > Parallel lines  
 > &nbsp; &nbsp; Interrupting narrowing circles  
-> &nbsp; &nbsp; of birds in flight.
+> &nbsp; &nbsp; Of birds in flight.
 
 A snippet of poetry tugged at memory, some bit of drivel she'd written in her undergrad. Something to try and put into words just how her life was organized, how she made sense out of chaos.
 
@@ -109,7 +109,7 @@ A snippet of poetry tugged at memory, some bit of drivel she'd written in her un
 > Trace the roof of your mouth  
 > &nbsp; &nbsp; With wet tongue.
 
-She did that now, finding comfort in the ridges of her palate, each describing a successive concentric arc.
+She did that now, finding comfort in the ridges of her palate, each describing a successive concentric arc radiating from her throat.
 
 She turned the TV off and wafted into her bedroom, driven by some part of her she couldn't quite access for all that static. *002.010.001* she thought. *I'll dream of (work, current job, nonspecific).* A small mantra, or maybe a supplication to the Oneiroi: *may I dream less and rest more.*
 
@@ -123,33 +123,35 @@ Some days, it would give one a scant hour to prepare for the oncoming weather. A
 
 Dani had read that the scent of snow was actually the lack of scent, of an air too cold and dry for the nose to pick out anything in particular. The opposite of petrichor. She wasn't sure that she'd believed it. That study had all been canines, and had focused specifically on temperature.
 
-Today, there was none of the expectancy that came with the scent of snow. It was just a lingering miasma around town, that non-scent that spread on the breeze. There would be no snow, at least not yet. There would just be cold.
+Today, there was none of the expectancy that came with the scent. It was just a lingering miasma around town, that non-scent that spread on the breeze. There would be no snow, at least not yet. There would just be cold.
 
-Dani bundled up to take her usual walk. As otters went, she was bog standard. Lithe enough, a bit soft without being fat, with short, oily fur. None of that did anything to protect against the cold.
+Dani bundled up to take her usual walk. As otters went, she was bog standard. Lithe enough, a bit soft without being fat, with short, oily fur. None of which did anything to protect against the cold.
 
 A walk was a walk, though.
 
 She lived two blocks or so from the 13th street plaza, and every weekend, at least twice, she'd take a walk down to the plaza and, at the very least, walk it's length. Some days, she'd grab a coffee from the bookstore-cum-coffeehouse that anchored the far end of it.
 
-It was only three blocks long, with a fountain set, just outside the courthouse, in the middle of the middle block. Not really an arduous hike, but it was enough to get out of the apartment for a bit and stretch her legs, disengage from the monotony of a screen held at a fixed distance in front of her. In summer, she'd dangle her bare paws in the fountain, watching the streamers of water as she sat facing it.
+It was only three blocks long, with a fountain set in the middle of the middle block, just outside the courthouse. Not really an arduous hike, but it was enough to get out of the apartment for a bit and stretch her legs, disengage from the monotony of a screen held at a fixed distance in front of her. In summer, she'd dangle her bare paws in the fountain, watching the streamers of water as she sat facing it.
 
 The fountain was off now, of course. Nigh on February, and it was too cold to be running water through pipes outside.
 
+The plaza was empty, silent.
+
 Sawtooth liked to talk about its homelessness statistics. It was a strange thing to be proud of, these folks living without a place to call their own, but here the council was saying that only about a hundred and fifty were homeless out of sixty thousand.
 
-In the winter, this maxed out the homeless shelters in town and taxed the soup kitchens. Those who made it in were provided the barest of necessities, doubled up in the Open Door Mission and offered approximately fifteen hundred calories per day.
+In the winter, this maxed out the homeless shelters in town and taxed the soup kitchens. Those who made it in were provided the barest of necessities, doubled up in the Open Door Mission, and offered approximately fifteen hundred calories per day from Mercy Kitchens.
 
 In the summer, it seemed as though all hundred and fifty were out in front of the courthouse, making the benches their own, using the fountain for covert sponge baths.
 
 Dani talked with them. She readily admitted that she worked at a campus library and made less than she probably needed herself, so she had little to give, but she would talk.
 
-It was strange, when she thought about it, how few of them she knew. She'd talk, even wind up spending an hour or so talking with one person, and then seemingly never meet them again.
+It was strange, when she thought about it, how few of them she wound up knowing. She'd talk, sometimes spending an hour or so talking with one person, and then never meet them again.
 
 "You folks always go away," one had said, when she brought it up. "Talk's all well and good, but we can't ever expect to see you again. Y'all are, pardon, full of shit."
 
 Still, she kept at it. Or, perhaps, that was the wrong way to word it. She kept coming back. There was no conversion to be made, no minds to change, just a tacit agreement that it was best for both parties to talk to someone. No strings attached, just engagement.
 
-The scent of the oncoming snow had chased everyone indoors. Dani clutched at a mediocre coffee and wandered back to the beginning of the plaza, thinking of non-scents. Her eyes tracing the herringbone pattern of the walkway, she marveled at the dryness of it all. Maybe that's what the scientists had thought. The scent was the recognition of just how cold and dry the world was, not of anything so grand as snow.
+The scent of the oncoming snow had chased everyone indoors. Dani clutched at a mediocre coffee from The Book and the Bean and wandered back to the beginning of the plaza, thinking of non-scents. Her eyes tracing the herringbone pattern of the walkway, she marveled at the dryness of it all. Maybe that's what the scientists had thought. The scent was the recognition of just how cold and dry the world was, not of anything so concrete as snow.
 
 She made her way through a few cluttered shops, browsing the windows of the mod parlor and thinking of a movie she might pick up at the Discount Video at the corner near her apartment building.
 
@@ -159,7 +161,7 @@ She was sick of documentaries. She needed something false.
 
 Sunday was cold. Way cold.
 
-The weather had turned into a full-on cold snap. It was too dry for frost to form, but one didn't need to see that fine latticework on the windows to know that it was nearly thirty below outside. It was cold enough that one could walk past a window and pass into a brightly-lit shadow in the warmth of a room.
+The weather had turned into a full-on cold snap. It was too dry for frost to form, but one didn't need to see that fine latticework on the windows to know that it was nearly thirty below outside. It was cold enough that one could walk past a window and pass into a brightly-lit cold-shadow in the warmth of a room.
 
 Dani spent the day holed up within her apartment, curled on the couch with a movie playing. To keep herself from getting too bored, she set one running in a language other than her own, meaning her eyes had to track the subtitles. It kept her from wallowing into nothingness with the voices registering on some subconscious level.
 
@@ -167,7 +169,7 @@ The glum adherence to ridged lines had lessened, at least. She found herself wis
 
 All the same, a movie alone wasn't enough to keep her satisfied. There was no way that she knew to achieve such a feat.
 
-Still, once the movie started to bore her, the otter had stood up in a huff, donning her jacket and gloves --- gotta keep the webs warm, they vent so much heat --- so that she could head out on a walk.
+Once the movie started to bore her, the otter stood up in a huff, donning her jacket and gloves --- gotta keep the webs warm, they vent so much heat --- so that she could head out on a walk.
 
 *No sense languishing at home,* she thought. *Well, no sense in anything, but at least I'll be moving.*
 
@@ -191,13 +193,13 @@ The bundle un-bundled itself enough to become recognizable. There was a small...
 
 "Y-y-you're te-telling me." A snout poked out from beneath the hood of the coat, pointy and tan and masked. "Ch-change for c-coffee?"
 
-Dani shook her head vigorously. "Screw change, come on. I'll buy you a coffee." She pinned her ears back and added, murmuring, "And another layer of clothes."
+Dani shook her head vigorously. "Screw change, come on. I'll buy you five coffees." She pinned her ears back and added, murmuring, "And another layer of clothes."
 
 The laugh from within the coat was pained, desperate. "N-normally, I'd tell you to f-fuck off, but alright. I th-think I need it."
 
-The stammering speech seemed to be getting worse, and the shape shook awkwardly as it stretched out. The frame of the 'pack' under the form's anorak was a bundled up sleeping pad, a simple school backpack beneath that.
+The stammering speech seemed to be getting worse, and the shape shook awkwardly as it stretched out. The frame of the 'pack' under the form's anorak was a bundled up sleeping pad atop a simple school backpack beneath that.
 
-The young woman stood up, shaking violently. A banded tail bristled out from beneath the coat, curling as best as it could around tattered-jeans-covered legs.
+The young woman stood up, tottering and shaking. A banded tail bristled out from beneath the coat, curling as best as it could around tattered-jeans-covered legs.
 
 Dani reached out to help, then rushed in at the sight of the shaking. She wrapped her arms around the ringtail, rubbing her gloved paws briskly over the form's sides, unsure if that was actually helping. "Come on," she tutted. "Coffeeshop's only a block, then we can figure things out from there."
 
@@ -259,7 +261,7 @@ Neither Anne nor Malina seemed overly happy with this, but neither brought up an
 
 The walk --- or perhaps stumble --- back to Dani's apartment had been a rushed and urgent affair. After the coffeehouse and the spicy-sour-sweet tea, neither had wanted to go back out into the cold.
 
-Still, they'd made it, and while both were freezing by the time the otter had latched the door behind her, neither were frozen.
+Still, they'd made it, and while both were shivering by the time the otter had latched the door behind her, neither were frozen.
 
 Anne stood just inside the door, looking shy. Dani shrugged out of her peacoat and helped the ringtail out of her own to hang them both together by the door.
 
@@ -273,33 +275,31 @@ Anne tilted her head to the side and grinned, "Your place is kind of the opposit
 
 "I sometimes get extra organized," the otter demurred. "Make yourself comfortable, though."
 
-Anne nodded.
+Anne nodded. They stood for another few moments.
 
 The silence grew weird.
 
 "I, uh," Dani straightened her shirt. "I don't have anyone over all that much. Can I get you anything?"
 
-Anne moved cautiously to sit on the couch, perched at the edge of the seat. "If you have any...I mean, I don't want to trouble--" She shook her head and gave Dani a bashful smile. "Do you have any food I could have? I can work to pay you back."
+Anne moved cautiously to sit on the couch, perched at the edge of the seat. "If you have any...I mean, I don't want to trouble--" She shook her head and gave Dani a bashful smile. "Do you have anything to eat? I can work to pay you back."
 
 The otter straightened up and grinned, "Oh! Yes, sorry, and don't worry about paying me back."
 
-Dani cooked in silence. It was well past dinnertime by now, so she didn't feel too bad doing so. She usually cooked three portions anyway, and just wound up making one of her regular meals.
+Dani cooked in silence. It was well past dinnertime by now, it needed to be done. She usually cooked three portions anyway, so she just wound up making one of her regular meals.
 
 There was no getting around the strained tension in the apartment. Dani's place was small and neat, and obviously built for one and organized tightly to that one's specifications. She couldn't afford much, loans being what they were, and yet she felt obnoxiously wealthy, with a homeless girl sitting on her couch.
 
-She also felt obnoxiously awkward. It had been easy enough for her to help Anne out from the fountain to The Book and the Bean, and from there to her place, but now it was obvious that she really *didn't* have anyone over all that much. Or ever.
+She also felt obnoxiously awkward. It had been easy enough for her to help Anne from the fountain to The Book and the Bean, and from there to her place, but now it was obvious that she really *didn't* have anyone over all that much. Or at all.
 
-She suspected that neither her nor Anne were all that good at engaging with others, and each had led to its own outcome. Dani had buried herself in school and work as an attempt to cope with a disordered mind that wanted everything else to be in order, one that didn't really want others around. She was pretty sure that Anne wasn't all that keen on being around folks either, though she couldn't guess why.
+She suspected that neither she nor Anne were all that good at engaging with others, and each had led to its own outcome. Dani had buried herself in school and work as an attempt to cope with a disordered mind that wanted everything else to be in order, one that didn't really cope well with others around. She was pretty sure that Anne wasn't all that keen on being around folks either, though she couldn't guess why.
 
 Dani brought two plates piled high with pasta over to the couch where Anne had parked herself. "It's not much, but it'll be filling. Let me know if you need more, too. There's a whole other serving still on the stove."
 
 "Thank you," the ringtail said, whiskers and tail both bristled out at the opportunity for food. She seemed to be watching Dani for cues, but when the otter took a bite, she dug in. No prayers for either.
 
-It was easy to tell that Anne was doing her best to keep from just wolfing the food down. She looked like she was focusing on forking up reasonable amounts of pasta and chewing thoroughly, but her hunger showed in her movements.
+It was easy to tell that Anne was doing her best to keep from just wolfing the food down. She looked like she was focusing on forking up reasonable amounts of pasta and chewing thoroughly, but her hunger showed in her movements. And as predicted, she cleaned her plate.
 
-As predicted, she cleaned her plate.
-
-"Thanks again," she said, paws clutching at plate and fork. "For everything, I mean. I was colder than I thought out there. Fucking freezing."
+"Thanks again," she said, paws clutching at plate and fork tightly. "For everything, I mean. I was colder than I thought out there. Fucking freezing."
 
 Dani set her plate down on her lap and nodded, "I thought you were a backpack at first, all bundled up like that."
 
@@ -327,7 +327,7 @@ Anne frowned at her plate.
 
 Dani laughed. "Fair enough. Never been out of state myself."
 
-Anne nodded, "I seen a few, but mostly saw a lot of brown. I wanna go west, see all that green they have there."
+Anne nodded, "I seen a few, but mostly saw a lot of brown grass and pine trees. I wanna go west, see all that green they have there."
 
 "You, ah--" Dani hesitated, trying to think of the best way to ask. "Bussing? Hitching rides?"
 
@@ -337,9 +337,9 @@ Anne was loosening up with the food and warmth. Her speech coming more fluidly, 
 
 "So you landed here." Dani stood and took Anne's plate as the ringtail held it out to her. "Pretty cold time for hitching out west."
 
-"Yeah, it's crazy out. Been through cold snaps before, but not stuck out like that."
+"Yeah, it's crazy out. Been through cold snaps before, but not stuck out in one like that."
 
-Dani stacked the plates in the sink, right where they belonged, and thought of Anne. Here was this sudden ringtail-shaped kink in her life. She felt confused and anxious and tense. She'd have work tomorrow, and this wasn't how she'd picture'd her Sunday would go.
+Dani stacked the plates in the sink, right where they belonged, and thought of Anne. Here was this sudden ringtail-shaped kink in her life. She felt confused and anxious and tense. She'd have work tomorrow, and this wasn't how she'd pictured her Sunday would go.
 
 "Listen, I--"
 
@@ -359,7 +359,7 @@ Dani laughed and nodded.
 
 "Do you have any blankets for me? I'll tell you while you look."
 
-Dani nodded and padded to the hallway by the bathroom, opening the cabinet there to hunt around. Sometimes, she'd fall asleep on the beanbag rather than her bed. She'd always wake up with a weird kink in her tail or with memories of strange dreams, so she'd been trying to avoid it, recently. Still, she had some blankets of various thickness that had cycled through there.
+Dani nodded and padded to the hallway by the bathroom, opening the cabinet there to hunt around. Sometimes, she'd fall asleep on the beanbag rather than her bed. She'd always wake up with a weird kink in her tail or with memories of strange dreams, so she'd been trying to avoid it, recently. Still, she had some blankets of various thickness that she cycled through.
 
 Anne continued her story as she followed along, trying to help where she could. "She was neat, like I said. She and her husband. Her husband would make things a little messy, but she'd put them in order. It was weird. Their place wasn't super clean, they had a lot of stuff, it was just all organized"
 
@@ -367,7 +367,7 @@ Dani poked through the blankets, before giving up and just grabbing them all. It
 
 "Anyway, they were super nice. But the guy, her husband, he got sick. Cancer or something. He passed away. Killed us all, you know? We all loved the guy. Mostly, though, it killed us to watch her. Her tail got all droopy and her fur would get matted and dirty, like she couldn't be bothered to organize again."
 
-Dani wasn't sure where the story was going. It didn't sound like a flattering comparison to herself. Still, the ringtail seemed to be having a good time of it. She wasn't so bristled out anymore, was loosening up. "Did she wind up getting organized again?" Dani asked.
+Dani wasn't sure where the story was going. It didn't sound like a flattering comparison to herself. Still, the ringtail seemed to be having a good time telling it. She wasn't so bristled out anymore, and was loosening up. "Did she wind up getting organized again?" Dani asked.
 
 "Oh, definitely! You know, you get sad and stuff, and then things slowly get...I dunno, not easier. They get more comfortable. You can live with them better, you know?"
 
@@ -387,13 +387,13 @@ There was a bit of a pause as Anne decided on the beanbag over the couch. It loo
 
 Dani laughed and nodded. "Uh huh. Sixty five."
 
-Anne stopped fussing with the blankets and stared at Dani. "What? Sixty five?"
+Anne stopped fussing with the blankets and stared at her. "What? Sixty five?"
 
-Dani nodded again and, with the cabinet door shut, moved to help Anne set up her bed. "Yeah. Number sixty five. The suitors. A woman proves her loyalty by only dating those who look like her dead husband."
+Dani nodded again and, with the cabinet door shut, moved to help Anne set up her bed. "Yeah. Number sixty five. The suitors: woman proves her loyalty by only dating those who look like her dead husband."
 
 The ringtail plopped down on the edge of the beanbag. Dani sat on the other side. "What kinda craziness is that?"
 
-"You can organize stories. Take folktales and boil them down to their essences. The core to *that* story is number sixty five on the list of, er...folktale essences. A story which proves a wife's faithfulness by how she remembers her husband in every new guy she dates." Dani realized she'd been rambling and gave an apologetic grin, "Sorry, I studied this in school."
+"You can organize stories. Take folktales and boil them down to their essences. The core to *that* story is number sixty five on the list of, er...folktale essences. A story which proves a wife's faithfulness by how she remembers her husband in every new guy she dates." Dani realized she'd been rambling and smiled apologetically. "Sorry, I studied this in school."
 
 "Putting numbers to stories?" Anne laughed.
 
@@ -415,7 +415,7 @@ Alex grinned, "It'll do you good. And yeah, we tell stories a lot on the road. T
 
 "How do you figure?"
 
-"You didn't laugh until I told that one, did you?"
+"You didn't laugh or anything until I told that one, did you?"
 
 Dani thought for a moment, then shrugged. "You got me there."
 
@@ -425,7 +425,7 @@ Anne-- Alex grinned and nodded, "See? It works. Your turn, though."
 
 "Yeah, tell me a story."
 
-Dani froze. She knew stories. She knew tons of them. Each was stacked on a shelf, each had strings running from it to a list of motifs, each thoroughly cataloged.
+Dani froze. She knew stories. She knew tons of them. Each was stacked on a shelf of its own category, each had strings running from it to a list of motifs, each thoroughly cataloged.
 
 And all of them suddenly inaccessible.
 
@@ -435,7 +435,7 @@ Alex shook her head and laughed. "It's tough, don't worry. I'm good at this. Got
 
 Dani uncrossed her legs to get comfortable on the beanbag, leaning back against the couch where it was nearest, hips canted over to keep from resting solely on her tail. "About me? Hmm."
 
-Alex took her cue from the otter and stretched out on the beanbag. Dani felt strange emotions tugging at her. Here was someone she'd --- literally --- brought in from the cold, and now it felt like they were in the middle of a middle school sleepover.
+Alex took her cue from the otter and stretched out on the beanbag. Dani felt strange emotions tugging at her. Here was someone she'd --- literally --- brought in from the cold, and now it felt like they were in the middle of a high school sleepover.
 
 "Doesn't have to be you, I guess." Alex stretched out, then sat up and took her hoodie off, as though that were a serious barrier between her and comfort. Her shirt said 'Ladies is gender neutral'. "Mine wasn't about me. Just it's usually easier to talk about yourself."
 
@@ -445,7 +445,7 @@ Alex looked on thoughtfully, then nodded. "Clearly a three twenty eight."
 
 Dani snorted. "The treasures of a giant?"
 
-"Well, okay, I made that up. It's not wrong, is it?" Alex laughed. "You stole things from Miss Weaver."
+"Well, okay, I made that up." Alex laughed. "It's not wrong, though, is it? You stole things from Miss Weaver."
 
 "Usually it's something more important. Something you go out of your way to steal. Treasure and such."
 
@@ -459,7 +459,7 @@ Dani laughed and urged Alex on with a gesture.
 
 It was Alex's turn to laugh. "Alright. And so then you did it. You reached for your goal, and you took it in your hand. You were caught! Poor Dani, at the whim of a giant! Little did the giant know, you'd learn to master all of her organizational powers and unseat her!"
 
-Dani made as if to buff her claws, "And I did. Though Miss Weaver is still on the Library board here. I see her whenever we do archival work for them."
+Dani made as if to buff her claws, "And I did. Though Miss Weaver is still on the Sawtooth Library board here. I see her whenever we do archival work for them."
 
 "You grew up here?"
 
@@ -467,7 +467,7 @@ Dani made as if to buff her claws, "And I did. Though Miss Weaver is still on th
 
 Alex looked around the apartment, "You went to grad school and you live like this?"
 
-Dani rolled her eyes. "I owe more in student loans than this building is worth, I think."
+Dani rolled her eyes. "I probably owe more in student loans than this building is worth."
 
 "Yeowch."
 
@@ -479,7 +479,7 @@ This was a surprising feeling, this talking the hours away. She had gone into th
 
 And now here she was, chatting away like a kid again with, of all people, a homeless girl she'd rescued from the cold snap.
 
-There were problems to be sorted, of course. Dani basically trusted Anne/Alex. There was nothing for the ringtail to steal. She could take the TV, which would suck. She could take the DVDs and would probably be doing Dani a favor. This was no *Les Miserables*. Or maybe it was to a fault. If Alex was going to steal anything, Dani would forgive her. What use had she for the things she kept?
+There were problems to be sorted, of course. Dani was pretty sure she trusted Anne/Alex. There was nothing for the ringtail to steal. She could take the TV, which would suck. She could take the DVDs and would probably be doing Dani a favor. This was no *Les Miserables*. Or maybe it was to a fault. If Alex was going to steal anything, Dani would forgive her. What use had she for the things she kept? She would reorganize her life around the loss.
 
 Either way, they ought to find Alex something a little more permanent. Dani could certainly help with warmer clothing, as she had offered, and she certainly had no qualms in hosting the poor girl longer, if it left her feeling this good by the end of the night. Would it even be okay to ask her to stay?
 
@@ -513,7 +513,7 @@ Dani furrowed her brow and skipped to the second message.
 
 "--all employees and students. There will be an inclement weather closure on Monday the 30th of January. This closure affects all employees and students. There will be an inclement weather closure on--"
 
-The furrowed brow turned into an outright frown. Still standing in the middle of her cold room, she pulled up the university website on her phone. Right at the top of the page in bold, red text, an announcement.
+Her furrowed brow turned into an outright frown. Still standing in the middle of her cold room, she pulled up the university website on her phone. Right at the top of the page in bold, red text, an announcement.
 
 > **Inclement weather closure**  
 > Monday, January 30, 2017
@@ -531,7 +531,7 @@ She set about making the quietest cup of tea she could manage, waddling around t
 
 Alex grumbled from beneath the covers at the sound of the water boiling in the electric kettle, but, as far as Dani could tell, kept on sleeping.
 
-The otter spent the next few hours holed up in her bedroom, sipping her way through a mug of tea as she poked through news and stories on her phone, before pulling down the book of folklore classifications.
+The otter spent the next few hours holed up in her bedroom, sipping her way through a mug of tea. She poked through news and stories on her phone, before pulling down the book of folklore classifications.
 
 Her life was in disarray, she knew. Alex had thrown a wrench into things, into her neat little life and her neat little apartment. It brushed up against all sorts of weird desires to keep both life and home organized.
 
@@ -575,7 +575,7 @@ Alex shook her head, sipped gratefully at the bitter coffee.
 
 Alex laughed as Dani pulled her own shot. "Oh yeah? And which number is that?"
 
-Dani leaned back against the counter, wincing at the strain in her tail and clutching her little demitasse in her paws. "You got me. One hundred fourteen."
+Dani leaned back against the counter and laughed, wincing at the strain in her tail and clutching her little demitasse in her paws. "You got me. One hundred fourteen."
 
 The ringtail held onto her empty cup with one hand and leaned back onto the other, grinning up to the otter. "I'll give your delivery an eight out of ten, but the story needs work. Did you rehearse it?"
 
@@ -585,7 +585,7 @@ The ringtail held onto her empty cup with one hand and leaned back onto the othe
 
 "What about mine didn't work?"
 
-The ringtail shrugged and leaned forward to hand over her cup when the otter held out her paw.  "Your truth-to-lie ratio was good. Lemme guess," she said, tilting her head. "You got up with your dad, but don't have any siblings."
+The ringtail shrugged and leaned forward to pass over her cup when the otter held out her paw.  "Your truth-to-lie ratio was good. Lemme guess," she said, tilting her head. "You got up with your dad, but don't have any siblings."
 
 Dani laughed. "Yeah, that's it. How'd you guess?"
 
@@ -619,7 +619,7 @@ Alex nodded and kept quiet. She looked as though she were preparing to be kicked
 
 Dani hastened to clarify, "I don't even want to go out to the car. Plus, my tail hurts too bad to do much more than sit around. You alright just staying in until things warm up this afternoon? I can get you to Open Door or another place if you don't want to."
 
-The relief was writ plain on the ringtail's face. She nodded. "Yeah, that'd be good. I don't want to go out either. Really don't want to go to Open Door. Can I, uh...can I help out any? I don't have much to pay with, but I can do work or whatever."
+The relief was writ plain on the ringtail's face. She nodded. "Yeah, that'd be good. I don't want to go out either. Really don't want to go back to Open Door. Can I, uh...can I help out any? I don't have much to pay with, but I can do work or whatever."
 
 "There's not really much to be done, I don't think." Her expression softened. "You're just welcome to say until things warm up, Alex."
 
@@ -627,7 +627,7 @@ The relief was writ plain on the ringtail's face. She nodded. "Yeah, that'd be g
 
 Dani blinked.
 
-"You can call me Amy today," the ringtail grinned.
+"You can call me Amy today." The ringtail grinned.
 
 "First Anne, then Alex, now Amy?" Dani laughed.
 
@@ -665,7 +665,7 @@ The ringtail stared in disbelief, then motioned for her to continue.
 
 "I could tell."
 
-Dani smirked, then continued. "--and I like the way things can be categorized while still retaining the things that make them unique. Like, the five hundred from earlier? That's a vague classification that can be applied to many stories, which are all different from each other."
+Dani smirked, then continued. "--and I like the way things can be categorized while still retaining everything that makes them unique. Like, the five hundred from earlier? That's a vague classification that can be applied to many stories, which are all different from each other."
 
 "Sorta like putting things in a box, then?"
 
@@ -689,19 +689,19 @@ Dani shifted over onto her side enough to look at Amy more directly, trying to l
 
 "But, like...look at you. Everything about you is based around order, around the need for things to be in their place, all classified."
 
-"Well, sure," Dani demurred. "But OCD requires anxiety that I don't have. You have to feel anxiety about things that you obsess over, and you have to have the compulsion required to fix them. I don't have those. I just classify things. That's just what I do."
+"Well, sure," Dani demurred. "But OCD requires anxiety that I don't have. You have to feel anxiety about things that you obsess over, and you have to have the compulsion to fix them at all costs. I don't have those. I just classify things. That's just what I do."
 
-Amy looked thoroughly sorry for having brought the topic up. All the same, she persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as thought she were rushing to fill a hole she were digging herself into. "Maybe you have that? Obsessive-Compulsive, uh...personality disorder?"
+Amy looked thoroughly sorry for having brought the topic up. All the same, she persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as though she were rushing to fill a hole she was digging herself into. "Maybe you have that? Obsessive-Compulsive, uh...personality disorder?"
 
-Dani reached out a paw to rest on Amy's. None of this was too terribly surprising, it was all stuff that made sense. Still, Amy looked as though she had talked herself into a tizzy. The ringtail looked absolutely panicked. "Maybe," she allowed. "What does this version entail?"
+Dani reached out a paw to rest on Amy's. None of this was too terribly surprising, it was all stuff that made sense. Still, Amy had talked herself into a tizzy. The ringtail looked absolutely panicked. "Maybe," Dani allowed. "What does this version entail?"
 
-Amy took the hint from Dani's paw on her own. She smiled bashfully and made a show of calming down. "They, well," she straightened up, organizing her thoughts. "They are like the regular dis--er, they're like the regular ones, but without the anxiety. The life is as ordered, order is the obsession, but without, uh...without the anxiety."
+Amy took the hint from Dani's paw on her own. She smiled bashfully and made a show of calming down. "They, well," she straightened up, organizing her thoughts. "They are like the regular dis--er, they're like the regular ones, but without the anxiety. The life is ordered, order is the obsession, but without, uh...without the pain."
 
 The otter thought it over, spending a few seconds grooming her whiskers back. "I guess that makes sense. It's something that isn't eating me alive, but it's still a big part of me."
 
 Amy nodded, turning her paw up to let Dani's paw slip into her own, resting the her free paw on top of it. "I really do mean that in the best way."
 
-Dani laughed and rolled onto her side, letting her aching tail rest against the side of the beanbag, taking some of the weight off. "No, I get that. It really does make sense. I saw someone about it years ago, on an old girlfriend's suggestion."
+Dani laughed and rolled the rest of the way onto her side, letting her aching tail rest against the side of the beanbag, taking some of the weight off. "No, I get that. It really does make sense. I saw someone about it years ago, on an old girlfriend's suggestion."
 
 Amy tilted her head, though whether at the 'girlfriend' part or the 'seeing someone about chronic neatness' part, she couldn't tell.
 
@@ -725,13 +725,13 @@ The otter started counting mentally, then perked up. "In the bedroom, there's a 
 
 "Uh, me?"
 
-"Yeah, you." Dani laughed, "My tail hurts too much. I'm laying down and you're sitting. I'm older than you. Just because."
+"Yeah, you." Dani laughed, "My tail hurts too much. I'm laying down and you're sitting. I'm older than you, probably. Just because."
 
 -----
 
 "Okay. Fourteen seventy five."
 
-Dani had found a few comfortable spots on the beanbag, alternating between stretching out on her front and laying out on her back with her tail resting between the folds of the cushion. "Right, hm. Back when I was a kid, my dad used to take all of us to church. The preacher was a kind old guy, but one day, he got it into his head that it was best to keep it in the town.
+Dani had found a few comfortable spots on the beanbag, alternating between stretching out on her front and laying out on her back with her tail resting between the folds of the cushion. "Right, hmm. Back when I was a kid, my dad used to take all of us to church. The preacher was a kind old guy, but one day, he got it into his head that it was best to keep it in the town.
 
 "He saw us girls sitting in the front row and asked us all to come up on the stage. It was so embarrassing. He made us promise to God and the congregation that we weren't to be married to girls in other parishes.
 
@@ -739,13 +739,13 @@ Dani had found a few comfortable spots on the beanbag, alternating between stret
 
 Amy laughed and slapped her paws down on the page. "No, you're good! You came up with that better than I thought you would'a. You just got all stiff at the end, is all."
 
-Dani grinned. "Makes sense, I guess. I kinda get the rhythm, but it's hard for me to just pull it out of nothing. I get part way through and start thinking about my story too much, about what other categories it fills. I start thinking, *oh, that's four eighty, the kind and unkind girls* and then I'm totally lost."
+Dani grinned. "Makes sense, I guess. I kind of get the rhythm, but it's hard for me to just pull it out of nothing. I get part way through and start thinking about my story too much, about what other categories it fills. I start thinking, *oh, that's four eighty, the kind and unkind girls* and then I'm totally lost."
 
 "Yeah. I can tell. You get this look on your face when you get to let go. You get all confident lookin' and then you fall apart, and I can almost see the filing cabinets in your eyes."
 
 They laughed together.
 
-Contrary to expectations, the outside thermometer had pegged itself at thirty below for a few hours and then, around noon, started to drop even lower. They had eaten a late lunch. Amy asked if she could wash her clothes while she was here, and Dani had found her a shirt and pair of loose pants that would fit meanwhile. The temperature stayed cold through the afternoon.
+Contrary to expectations, the outside thermometer had pegged itself at thirty below for a few hours and then, around noon, started to drop even lower. They had eaten a late lunch. Amy asked if she could wash her clothes while she was here, and Dani had found her a shirt and pair of pants that would fit meanwhile. The temperature stayed cold through the afternoon.
 
 Neither were keen to go outside and see just how cold, so they'd parked themselves on the beanbag with the catalog of folktale types.
 
@@ -761,9 +761,9 @@ Amy grinned and launched right into the story. She would always win, so long as 
 
 "Yeah, that's the one! Daddy would always say hi to this guy as he walked his property. He used to walk the perimeter of his property and make sure all was okay, but it got him to talking with all his neighbors.
 
-"Anyway, one day, one of his neighbors takes a shine to his tail, says, *Dang, you know, I wish I had that tail. My wife left me some years ago, you know, and I bet the gals would be all over me, I had a tail like that.*  Dad would laugh, we'd all laugh at that. Poor old Mister Lincoln, he looked like a shadow in every picture, like someone had cut out someone, wherever he went.
+"Anyway, one day, one of his neighbors takes a shine to his tail, says, *Dang, you know, I wish I had that tail. My wife left me some years ago, you see, and I bet the gals would be all over me, I had a tail like that.*  Dad would laugh, we'd all laugh at that. Poor old Mister Lincoln, he looked like a shadow in every picture, like someone had cut out someone, wherever he went.
 
-"Now dad, he can sense Mister Lincoln starting to get more insistent about things, and one day, on a hunch, he grabs a handful of soot from the fireplace --- we hardly ran the thing these days, but the soot was still there --- and rubbed it into his tail."
+"Now dad, he can sense Mister Lincoln starting to get more insistent about things, and one day, on a hunch, he grabs a handful of soot from the fireplace --- we hardly ran the thing those days, but the soot was still there --- and rubbed it into his tail."
 
 Dani laughed, picturing Amy rubbing soot into her tail, turning the stripes all black.
 
@@ -781,7 +781,7 @@ Amy grinned. "So dad, he's got this all-black tail. It was nearing night, so it 
 
 Dani clapped her paws gleefully at the story. "Wonderful! You've got the entire thing set up, right there. I feel like I get close so often, but I just don't quite get it to stick the whole way through."
 
-The two were as two girls at a sleepover, stretched out on their fronts on a beanbag, a book propped up before them both.
+They were as two girls at a sleepover, stretched out on their fronts on a beanbag, a book propped up before them both.
 
 It was Amy's turn to laugh. "You do get close, yeah. You're just missing mechanics. Like, y'gotta start telling little side stories, no more than a sentence long, to buy yourself some time. We don't care what Mister Lincoln does with the stripes, but we make something up to give us time to, uh...stick our landing, I guess."
 
@@ -795,7 +795,7 @@ Amy shut down at this outburst, her expression going blank and her paws going sl
 
 The otter persisted. "You said, *It's so wonderful out now, I must be all set for the next year.*
 
-"But you were with someone, weren't you? Someone at Open Door? He had a home, something he could offer, he could..." Dani trailed off. "Shit, I'm sorry. I went way too far, there."
+"But you were with someone, weren't you? Someone at Open Door? He had a home, or money, something he could offer, he could..." Dani trailed off. "Shit, I'm sorry. I went way too far, there."
 
 The otter tried to tug her paws back to herself, to withdraw. Drunk on storytelling was a new sensation for her. She hadn't expected it would lead to such an overreach. She hadn't expected it to drop her barriers around classification.
 
@@ -807,9 +807,9 @@ The ringtail's grip tightened around Dani's paws.
 
 There was nothing the otter could say to continue.
 
-"So he pulls me aside, he says *we just need to keep ourselves warm.*" Amy's voice is quiet, hoarse. "And that sounds good to me. But I have to do something in return, so I think to myself, *Aha, I've got a plan.*"
+"So he pulls me aside, he says *we just need to keep ourselves warm.*" Amy's voice was quiet, hoarse. "And that sounds good to me. But I have to do something in return. Something for him. So I think to myself, *Aha, I've got a plan.*"
 
-Dani returned the squeeze of paws. Amy wasn't looking at her any longer, staring toward the blank wall with a smile that's more rictus than jolly.
+Dani returned the squeeze of paws. Amy wasn't looking at her any longer, staring toward the blank wall with a smile that's more rictus than the jolly grin her story would imply.
 
 "*Don't worry. I'll hold up the roof,* I tell him. So I hide myself away up in the attic, tell him I'm doing something useful, when all the while, I'm making sure I can get away without giving him everything he asks."
 
@@ -827,7 +827,9 @@ Dani stayed silent through the movie. Amy had chosen a thriller, something with 
 
 The ringtail had shrunk in size, Dani noticed, all her confidence drained away. The jokey story-telling exercise really had gone too far, and although she stood by her assessment, she realized she probably should have been a bit more careful of providing it.
 
-All of that openness she had grown over the past few hours, all of that was slowly unwound. She had built up this stanchion of confidence, only to find she'd planned the bridge in the wrong spot. She hadn't had a goal in this sleepover storytime, but even so, she'd fucked it up.
+All of that openness that had grown over the past few hours, all of that was slowly unwound. She had built up this stanchion of confidence, only to find she'd planned the bridge in the wrong spot. She'd hoped to understand Amy.
+
+She hadn't had a goal in this sleepover storytime, but even so, she'd fucked it up.
 
 She spent her time pretending to leaf through the book of motifs and tropes. Amy sat where she had been, watching the TV over Dani as the otter poked through her book. She didn't have quite what it took to look Amy in the eyes.
 
@@ -837,7 +839,7 @@ And yet they stayed there. Amy watched her movie, and Dani's eyes traced lines o
 
 Dani perked up enough to watch the climax of the movie, canting her ears back enough so that the movie isn't all she heard. She'd seen it dozens of times already. She was more interested in Amy's thoughts than in the movie itself.
 
-The denouement of the film was swift. A proper thriller, she decided long ago, should leave several threads hanging. Explain too much, and you get a detective story. Explain too little and you get...well, a mess. You get her life. Too many things independently explained which do nothing to provide a sense of the whole.
+The denouement of the film was swift. A proper thriller, she decided long ago, should leave several threads hanging. Explain too much, and you get a detective story. Explain too little and you get...well, a mess. You get her life. Too many things independently explained which do nothing to provide a sense of the whole, nothing that adds up to a plot.
 
 Amy seemed to melt beside her, slouching first toward one side, then stretching her legs out, and finally slipping down onto the beanbag. It was more of a collapse than a deliberate movement, but at least it was something.
 
@@ -845,9 +847,9 @@ Amy seemed to melt beside her, slouching first toward one side, then stretching 
 
 Nothing but the sounds of the ringtail settling into the beanbag bed. It was her bed, even. Dani's was around the corner in the bedroom.
 
-The otter carefully squirmed onto her side, doing all she can not to tweak her tail more than she already has. She'll need to get up to use the bathroom a some point, but for now, she considered herself stuck.
+The otter carefully squirmed onto her side, doing all she could not to tweak her tail more than she already had. She would need to get up to use the bathroom a some point, but for now, she considered herself stuck.
 
-*Might as well fix this, while we're at it.*
+*Might as well fix this, while we're here.*
 
 "You okay, Amy?"
 
@@ -857,13 +859,13 @@ Dani hesitated for a moment before murmuring, "Is that your name now?"
 
 "No, that's my name. Just Amber."
 
-The ringtail's voice was flat, her eyes downcast and even then focusing on nothing. It hurt to listen to.
+The ringtail's voice was flat, her eyes downcast, and even then focusing on nothing. It hurt to listen to.
 
-"Did I go to far?"
+"Did I go too far?"
 
 "No, you're fine."
 
-Dani watched the way Amber's eyes went in and out of focus. They never shifted the direction in which they were looking, but it was still plain enough to see the focus shifting.
+Dani watched the way Amber's eyes went in and out of focus. They never shifted the direction in which they were looking, but it was still plain enough to see her thoughts shifting instead.
 
 "You want to know something?" Dani asked.
 
@@ -873,13 +875,13 @@ The ringtail lifted her gaze enough to look at Dani properly. "Mm."
 
 Amy--Amber's ears tilted back. Short, sharp condemnations.
 
-Dani pressed on all the same. "You're the one who sees something on the far bank that she wants. You have a goal, something you could really desire. Not just a passing fancy."
+Dani pressed on all the same. She tried to pick up on the smooth confidence of Amber when she had told stories, tried to slip into the same casual language. "You're the one who sees something on the far bank that she wants. You have a goal, something you could really desire. Not just a passing fancy."
 
 Amber's expression softened.
 
 "So you think, *Ah, there we go! Just what I was after.* But it's on the far bank, right? So you look around and you see the crocodile. He's a good kid, you know. The type of person who would try to do right by you, even if he doesn't get the whole story.
 
-"Well now, you've got a means, and you've got a goal, but you don't have the influence to make it happen. So you sit down by the crocodile and you say, *Great day out here, really nice.* And he says, *Yup.* And it's not great and all, but you know it's gonna take a while to sway the crocodile's interests to align with yours.
+"Well now, you've got a means, and you've got a goal, but you don't have the influence to make it happen. So you sit down by the crocodile and you say, *Great day out here, really nice.* And he says, *Yup.* And it's not a great start and all, but you know it's gonna take a while to sway the crocodile's interests to align with yours.
 
 "*I always find myself thinking of the far bank, of what that would bring me, what I could gain by being there.* The croc frowns. Each bank is the same to him. The river is as valid as land, when it comes to crossing.
 
@@ -887,7 +889,7 @@ Amber's expression softened.
 
 Amber was grinning outright, though she stayed quiet to let Dani finish her telling.
 
-"And that crocodile, well, you know he was kinda of an asshole. All he was thinking about was what he'd get out of the deal. Sometimes that's good and all, like you want to get to the other side too, right?
+"And that crocodile, well, you know he was kind of an asshole. All he was thinking about was what he'd get out of the deal. Sometimes that's good and all, like you want to get to the other side too, right?
 
 "Still, you've got goals other than just *Hey, just looking for a lay.*"
 
@@ -899,7 +901,7 @@ Amber's grin gets tight, a bit mean, but no less earnest.
 
 "The croc laughs, and comes back at you with. *Why don't you just send her my way, then?*
 
-"*Well, it's not that easy, duh. I don't know the girl, I just know my guy, he says he knows all sorts of these girls.* You give this big, exasperated sigh. *Look, just get me over there, and I'll get this all sorted out. We both want that, right?*"
+"*Well, it's not that easy, duh, or I would'a. I don't know the girl, I just know my guy, he says he knows all sorts of these girls.* You give this big, exasperated sigh. *Look, just get me over there, and I'll get this all sorted out with my buddy. We both want that, right?*"
 
 The ringtail was fully engaged now, laughing and rolling her eyes and nodding along with Dani.
 
@@ -913,7 +915,7 @@ The ringtail was fully engaged now, laughing and rolling her eyes and nodding al
 
 Amber laughed outright at that last bit, and Dani grinned happily in response.
 
-"I'll give you an nine out of ten on delivery on that one," the ringtail said. "You sold me at the end there, but at the beginning, it sounded like an apology."
+"I'll give you a nine out of ten on delivery on that one," the ringtail said. "You sold me at the end there, but at the beginning, it sounded like an apology."
 
 "Yeah." Dani grinned sheepishly. "I'm sorry, Amber."
 
@@ -929,15 +931,15 @@ Dani laughed. "Oh yeah?"
 
 The otter went quiet at that, tilting her head. "How do you mean?"
 
-Amber shrugged. "I got here. I made it across the rockies, and I have a few more, uh...rivers to cross, but I got here with a bunch of help."
+Amber shrugged. "I got here. I made it across the Rockies, and I have a few more, uh...rivers to cross, but I got here with a bunch of help, like that dick back at the shelter."
 
 Dani nodded, waited.
 
 "It cost a lot. More than I want to say. But I can move on from that."
 
-The otter gathered up the ringtail's paws in her own and gave them a squeeze. "You sure you're okay?"
+The otter gathered up the ringtail's paws in her own and gave them a squeeze. "You sure you're okay? You safe from that guy?"
 
-"I think so, yeah." Amber nodded. "He's too interested in experiences, rather than people. He can go off and get more of those, while I get what I want."
+"I think so, yeah." Amber nodded. "He's too 'interested in experiences, rather than people.' He can go off and get more of those, while I get what I want."
 
 Dani nodded, and let the silence linger on. Finally, she screwed up the courage to add, "You can stay here, too, you know. Long as you need."
 
@@ -945,13 +947,13 @@ Amber laughed easily. "Thank you. You've done so much for me."
 
 "Does that make me your crocodile?" Dani shot back, grinning.
 
-The ringtail didn't respond verbally, but leaned in and give Dani a kiss.
+The ringtail didn't respond verbally, but rather leaned in and give Dani a kiss.
 
-The otter froze. It was completely out of the blue, though perhaps some part of Dani suspected it was coming. The tension had been a thing, of course, but had always been on her end. She hadn't expected a homeless girl to be giving her a kiss, no matter the stories that surrounded it.
+Dani froze. It was completely out of the blue, though perhaps some part of her suspected it was coming. The tension had been a thing, of course, but had always been on her end. She hadn't expected a homeless girl to be giving her a kiss, no matter the stories that surrounded it.
 
 All the same, the otter relented, shifting more onto her side and ignoring the twinge in her tail. When presented with a kiss, there was no further categorization to be done. They were kissing, and that was that.
 
-The moment shifted and so did Amber, leaning back away from Dani. The otter plastered her whiskers back against her muzzle. She couldn't hide just how much the kiss had affected her, but she could at least distract from the fact.
+The moment shifted, and Amber leaning back away from Dani. The otter plastered her whiskers back against her muzzle with a little 'huff'. She couldn't hide just how much the kiss had affected her, but she could at least distract from the fact.
 
 "Tell me your name."
 
@@ -961,13 +963,13 @@ Amber smiled. It was a soft and kind smile, open and honest. "Amber."
 
 "Would you like to?"
 
-Dani laughed. "Probably not. If your goal was to subvert me organizing everything too much, you did it. This, though--" and she leaned forward to give Amber another kiss. "I'd like to hold onto this."
+Dani laughed. "Probably not. If your goal was to subvert me organizing everything too much, you did it. This, though--" and she leaned forward to give Amber another quick kiss. "I'd like to hold onto this."
 
-The ringtail smiled, looking happier than before with nose nearly pressed in against Dani's. "'Amber's real. That's my true name."
+The ringtail smiled, looking happier than before, with nose nearly pressed in against Dani's. "'Amber's real, don't worry. That's my true name."
 
 Her whiskers bristling from the close contact, Dani smiled. "What power does that grant me, knowing that?"
 
-"What power would you like?" Amber grinned.
+"What power would you like?"
 
 "Flight?"
 
@@ -993,37 +995,39 @@ And so Dani did.
 
 The otter would ever be herself, and she owned that. It was her place in life to classify the things around her, and so she took up the reins and did as she was built to do.
 
-Amber, her fur was soft. It wasn't pillowy or silky, but it did fall into the category of soft, similar to the way silt was soft.
+Amber, her fur was soft under Dani's paws. It wasn't pillowy or silky, but it fell into the category of dry-soft, similar to the way silt was soft.
 
-*F.S03 --- fur, soft, dry and smooth*.
-{: class="text-right"}
+> *F:S.03 --- fur, soft, dry and smooth*.
 
-The ringtail was small --- she barely fit in Dani's clothes, and the otter wasn't large by any stretch of the imagination. But one can wear oversized clothing in a number of ways. Amber didn't seem young, like a girl wearing her father's clothes. She didn't seem like someone wearing ill-fitted clothing. She was just comfortably two sizes smaller than Dani, and was wearing that clothing while her clothing was being dried off. That had to be a trope of its own.
+Dani began her categorization with touch, as the two leaned in closer to each other. There had been the softness of Amber's paws in her own when they'd touched earlier, but now that they were leaning into more of an embrace, Dani's paws slipped up along the ringtail's arms, ruffling through clean fur, and then from arms to sides.
 
-*C.Sm.03 --- clothing, small, by necessity (cute)*.
-{: class="text-right"}
+The ringtail was small --- she barely fit in Dani's clothes, and the otter wasn't large by any stretch of the imagination. But one can wear oversized clothing in a number of ways. Amber didn't seem young, like a girl wearing her father's clothes. She didn't seem like someone trying ill-fitted clothing. She was just comfortably two sizes smaller than Dani, and was wearing that clothing while her clothing was being dried off. That had to be a trope of its own.
+
+> *S:Sm.03 --- size: small, by necessity (cute)*.
+
+Neither otters nor ringtails were burdened by long snouts like some of Dani's friends. All the same, when the kiss broke --- as kisses do --- Dani tucked her muzzle alongside Amber's, nosing her way through fur from cheek to neck. The scent of the ringtail's fur filled her nostrils.
 
 Sometimes, one comes out of the shower smelling not just clean, but bearing the Scent of Clean, patented and trademarked. Amber had just come out of the shower earlier in the day, but she smelled...not clean, but of herself, with nothing standing in the way of that.
 
-*Os.C.10 --- odor (self), clean, pleasant (not perfumed)*.
-{: class="text-right"}
+> *O:C.10 --- odor: clean, pleasant (not perfumed)*.
 
-She was responsive to Dani's touches. She didn't arch or buck her hips or do anything so silly, but neither was she totally passive. Dani felt that she could drag her paws down along the ringtail's sides and front, and trust that she would continue to feel that confidence. Not eager, but willing. Not slack, but still. Not passive, but soft. Available and open to Dani as the otter moved against her.
+Amber shifted up enough to let Dani settle onto her back. The otter slipped her arms around the ringtail's compact form. With clothing bunching up, her webbed fingers explored through soft fur, exploring the contours of Amber's back, lithe and strong.
 
-*R.5.05 --- responsiveness, consensual, familiar*.
-{: class="text-right"}
+She was responsive to Dani's touches. She didn't arch or wiggle or do anything so silly, but neither was she totally passive. Dani felt that she could drag her paws down along the ringtail's sides and front, and trust that she would continue to feel that confidence. Not eager, but willing. Not slack, but still. Not passive, but soft. Available and open to Dani as the otter moved against her.
+
+> *R:5.05 --- responsiveness: consensual, familiar*.
 
 Nose twitched, ears perked, paws touched. Dani explored and investigated, gleefully categorizing as she went. Amber was middling ticklish, more quiet than not, and prone to stretching when touched. When they interacted, they were neither verbose nor silent, neither shy nor bold; just a comfortable commingling that was sensual enough to be labeled as such without being lewd.
 
-Dani ignored the twinges of pain in her tail as she moved. It was more important to find the ways in which they fit together than to hold her tail still. There are things, she knew, that she would regret the next day: stretches, actions, words. Each of those was duly labeled and set aside.
+Dani ignored the twinges of pain in her tail as she moved. It was more important that she find the ways in which they fit together than to hold her tail still. There are things, she knew, that she would regret the next day: stretches, actions, words. Each of those was duly labeled and set aside.
 
-The otter focused instead on the things that made them both feel fulfilled. They were both all-in on this, they were both moving together, and that left her path clear: there were a limited set of choices she could make, and she made them.
+The otter focused instead on the things that made them both feel fulfilled. They were both all-in on this, they were both intent on one another, and that left her mind clear. There were a limited set of choices she could make --- to touch here and kiss there, to taste, to stroke, to clutch --- and she made them.
 
 By the time the two of them settled down together once more, panting and laughing, Dani knew that her classification of Amber had been wrong from start to finish. The act, the moment, the motions --- those had all been tagged and labeled, described and delineated.
 
 The ringtail: not at all.
 
-Amber had come into her life through both of their actions, as well as circumstances outside their control. Along each step of their journey, each had made choices and taken actions that wound up here, with each tangled in their own clothes, and both tangled with one another, sharing pleasure and breath.
+Amber had come into her life through both of their actions, as well as circumstances outside their control. Along each step of their journey, each had made choices and taken actions that wound up here, with each tangled in their own clothes and both tangled with one another, sharing pleasure and breath.
 
 Every step of the way had been noted and slotted into its own comfortable box.
 
@@ -1031,11 +1035,11 @@ Dani, as a person, was easily classified, but Amber...she was wholly uncategoriz
 
 -----
 
-When Dani awoke early the next morning --- very early, far before her alarms --- she was alone. Amber was gone.
+When Dani awoke early the next morning --- very early, far before even her alarms --- she was alone. Amber was gone.
 
-When she thought of the last few days, she wasn't totally surprised. The parable from the night before had been accurate enough: Amber had gotten to the other side of the cold snap. Dani would be left grappling with the Amber-that-was, the Amy and the Alex and the Anne, for a while yet.
+When she thought of the last few days, she wasn't totally surprised. The parable from the night before had been accurate enough: Amber had gotten to the other side of the cold snap. Dani would be left grappling with the Amber-that-was, the Amy and the Alex and the Anne, for a while yet, but Amber was on her way.
 
-Not surprised, but not happy. She had set aside that hindbrain need to categorize and order her life for someone, and now they were gone. Maybe that was good, though. Maybe she needed a bit less order in her life.
+Not surprised, but not happy. She had set aside that overarching need to categorize and order her life for someone, and now they were gone. It hadn't been a one-night stand, hadn't been a fling. It wasn't a relationship, though Dani would have welcomed that. It had been a closeness borne of cold and necessity.
 
 She clumsily paced her apartment for a few hours, that Tuesday. The university was still closed for the remainder of the cold snap, though the temperature was now well above zero. She suspected it was more of an issue about the boiler than the temperature. Either way, she was still all wobbly from the strain in her tail.
 
@@ -1049,4 +1053,8 @@ She put a movie to playing.
 
 She cleaned the kitchen and picked up all the blankets on the beanbag.
 
-She slowly reorganized her life around this Amber-shaped hole, and the only thing left missing was her catalog of folktales.
+She checked the clothes dryer, but it was empty, with the clothes she'd lent Amber piled beneath, so she did a load of laundry
+
+She slowly reorganized her life around this Amber-shaped hole, patching together feelings into a new whole.
+
+And the only thing missing was her catalog of folktales.
