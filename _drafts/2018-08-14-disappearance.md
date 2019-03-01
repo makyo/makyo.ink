@@ -13,7 +13,7 @@ counts:
     words: 12341
 description: A weasel attempts to escape from her life in Sawtooth to Oregon, but
     finds her old life still tied to home.
-img: disappearance-abbrev.png
+img: alley-cat.jpg
 layout: post
 pdf: disappearance.pdf
 tags:
