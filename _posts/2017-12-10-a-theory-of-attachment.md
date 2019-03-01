@@ -12,7 +12,7 @@ counts:
     type: jekyll
     words: 16131
 description: "Living with obsessive-compulsive disorder is tough without a support\
-    \ network, so when S\xE9l\xE8ne's changes, stress runs high."
+    \  network, so when S\xE9l\xE8ne's changes, stress runs high."
 img: flag.svg
 layout: post
 tags:

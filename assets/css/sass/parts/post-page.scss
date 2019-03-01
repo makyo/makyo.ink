@@ -68,9 +68,17 @@
   & > p {
       margin: 0;
       text-indent: 2em;
+
+      & > img {
+          margin-left: -2em;
+      }
   }
   p:first-of-type, hr + p, blockquote + p {
       text-indent: 0em;
+
+      & > img {
+          margin-left: 0;
+      }
   }
 }
 
