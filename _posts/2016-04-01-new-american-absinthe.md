@@ -10,7 +10,9 @@ counts:
     type: jekyll
     words: 8148
 date: 2016-04-01
+img: naa-all.jpg
 layout: post
+pdf: new-american-absinthe.pdf
 tags:
 - Alcohol
 title: New American Absinthe

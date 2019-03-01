@@ -12,7 +12,9 @@ counts:
     type: jekyll
     words: 4366
 date: 2016-12-17
+img: flag.svg
 layout: post
+pdf: centerpiece.pdf
 rating: X
 tags:
 - Furry

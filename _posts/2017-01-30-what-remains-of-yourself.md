@@ -15,6 +15,7 @@ description: A cat heads to a party. What's usually a safe and comfortable group
     friends is slowly dominated by a dog. A dog with plans.
 img: flag.svg
 layout: post
+pdf: what-remains-of-yourself.pdf
 tags:
 - Furry
 - Sexuality

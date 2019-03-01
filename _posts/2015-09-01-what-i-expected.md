@@ -15,6 +15,7 @@ description: Meeting for the first time is stressful enough, but all the more so
     things don't match up with what you expected.
 img: rum-and-coke.png
 layout: post
+pdf: rum-and-coke.pdf
 tags:
 - Furry
 - About furry

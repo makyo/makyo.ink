@@ -15,6 +15,7 @@ description: A chronically neat otter's life is thrown into disarray when she ta
     a homeless ringtail in from the cold.
 img: overclassification.jpg
 layout: post
+pdf: overclassification.pdf
 tags:
 - Furry
 - Romance

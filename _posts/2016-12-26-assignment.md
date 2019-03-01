@@ -15,6 +15,7 @@ description: Ioan Balan is a historian and blogger assigned to research a flash-
     Things go sideways, and he's left with more story than expected.
 img: post-self.png
 layout: post
+pdf: assignment.pdf
 tags:
 - Science fiction
 - Uploading

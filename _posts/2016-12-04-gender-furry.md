@@ -1,21 +1,22 @@
 ---
+categories:
+- Non-fiction
+- Rated G
 counts:
     characters_real: 23567
     characters_total: 28865
-    file: ./non-fiction/gender-furry/index.md
+    file: _posts/2016-12-04-gender-furry.md
     paragraphs: 89
     type: jekyll
     words: 5238
 date: 2016-12-04
 layout: post
-title: 'Gender: Furry - An investigation into the interplay of gender and fandom'
-categories:
-- Non-fiction
-- Rated G
+pdf: gender-furry.pdf
 tags:
 - Furry
 - About furry
 - Gender
+title: 'Gender: Furry - An investigation into the interplay of gender and fandom'
 ---
 
 _**Gender: Furry** was originally commissioned for and published in **Furries Among Us II**, released by Thurston Howl Publications_

@@ -15,6 +15,7 @@ description: A young woman reluctantly goes through with the uploading procedure
     risky though it is, to reconnect with her lover.
 img: post-self.png
 layout: post
+pdf: apres-un-reve.pdf
 tags:
 - Death
 - Science fiction

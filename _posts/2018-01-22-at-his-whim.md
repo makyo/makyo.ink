@@ -13,6 +13,7 @@ counts:
 description: A date turns into much, much more as a wolf takes everything from a cat,
     from words to memories.
 layout: post
+pdf: at-his-whim.pdf
 tags:
 - Furry
 - Sexuality
