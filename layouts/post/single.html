@@ -1,0 +1,39 @@
+{{ define "main" }}
+<article class="article-page">
+    {{ with .Params.img }}
+    <div class="page-image">
+        <div class="cover-image" style="background: url(/assets/img/{{.}}) center no-repeat; background-size: cover;"></div>
+    </div>
+    {{ end }}
+    <div class="wrapper{{ if .Params.img}} with-image{{ end }}">
+        <div class="page-content">
+            <div class="header-page">
+                <h1 class="page-title">{{ .Title }}</h1>
+                <div class="page-meta">
+                    {{ .PublishDate.Format "Jan 2, 2006" }}
+                    &bull; {{ .Page.WordCount }} words &bull; {{ .Page.ReadingTime }} minutes
+                    {{ with .Params.tags }}<br />
+                    {{ range . }}
+                    | <a href="/tags/{{ . | urlize }}/">{{.}}</a>
+                    {{ end }}
+                    {{ end }}
+                    {{ with .Params.series }}
+                    | from <a href="/series/{{ . | urlize }}/">{{.}}</a>
+                    {{ end }}
+                    {{ with .Params.ratings }}
+                    | <a href="/ratings/{{ . | urlize }}/">rated {{.}}</a>
+                    {{ end }}
+                    {{ if .Params.pdf }}<br />
+                    <a class="pdf" href="/assets/pdf/{{ .Params.pdf }}"><i class="fa fa-print" aria-hidden="true"></i> Print version</a>
+                    {{ end}}
+                </div>
+            </div>
+            {{ .Content }}
+            <hr class="fin" />
+            <div class="page-footer">
+                {{ partial "donate.html" }}
+            </div>
+        </div>
+    </div> <!-- End Wrapper -->
+</article>
+{{ end }}

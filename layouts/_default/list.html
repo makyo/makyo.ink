@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 6 }}
+{{ if eq $paginator.PageNumber 1 }}
+{{ .Content }}
+{{ end }}
+<h2>Recent pieces</h2>
+<ol class="post-card-box clearfix">
+    {{ range $paginator.Pages.ByPublishDate.Reverse }}
+    <li>
+        <div class="post-card">
+            <a href="{{ .Permalink }}" class="post-card-image"{{ with .Params.img }} style="background-image: url(/assets/img/{{.}} )"{{ end }}>
+            </a>
+
+            <div class="post-card-body">
+                {{ with .Params.tags }}
+                {{ range . }}
+                <a href="/tags/{{ . | urlize }}" class="tag">|&#32;{{ . }}</a>
+                {{ end }}
+                {{ end }}
+                <a href="{{ .Permalink }}" class="post-card-link"><h3 class="post-card-title">{{ .Title }}</h3></a>
+            </div>
+
+        </div>
+    </li>
+    {{ end }}
+</ol>
+<link rel="stylesheet" type="text/css" href="/css/pagination.css" />
+{{ template "_internal/pagination.html" . }}
+{{ end }}

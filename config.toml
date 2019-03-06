@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "The Writing of Madison Scott-Clary"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  rating = "ratings"
+  series = "series"
+
+[permalinks]
+  post = "/:filename/"
