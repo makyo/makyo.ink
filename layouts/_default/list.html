@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div class="content wrapper">
 {{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 6 }}
 {{ if eq $paginator.PageNumber 1 }}
 {{ .Content }}
@@ -26,4 +27,5 @@
 </ol>
 <link rel="stylesheet" type="text/css" href="/css/pagination.css" />
 {{ template "_internal/pagination.html" . }}
+</div>
 {{ end }}
