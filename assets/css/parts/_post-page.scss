@@ -5,7 +5,7 @@
   padding: 0;
   margin: 0;
   height: 500px;
-  background-color: $white;
+  background-color: $darken-gray;
   overflow: hidden;
 
   .cover-image {
@@ -20,17 +20,18 @@
   line-height: 1.75;
   margin-top: -5px;
   margin-bottom: 100px;
-  background-color: $white;
+  background-color: $darken-gray;
   padding: 20px 50px;
-  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.1);
 
   .verse {
       white-space: pre-wrap;
   }
 
   .invert & {
-      background-color: $darken-gray;
-      color: $white;
+      background-color: $white;
+      color: $black;
+      box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
   }
 
   .with-image & {
@@ -91,10 +92,10 @@
     font-size: 36px;
     text-align: center;
     margin: 0 0 20px;
-    color: $dark-purple;
+    color: $light-purple;
 
     .invert & {
-        color: $light-purple;
+        color: $dark-purple;
     }
   }
   .page-meta {
@@ -113,18 +114,18 @@
   margin-top: 30px;
   padding-bottom: 30px;
   padding-bottom: 30px;
-  border-bottom: 1px solid $lighten-gray;
+  border-bottom: 1px solid $dark-gray;
   .page-tag,
   .page-share {
     text-transform: uppercase;
     font-size: 12px;
-    color: $dark-purple;
+    color: $light-purple;
   }
   .page-tag {
     margin-bottom: 10px;
     a {
       text-decoration: none;
-      color: $dark-pink;
+      color: $light-pink;
       &:hover {
         opacity: .8;
       }
@@ -135,7 +136,7 @@
     text-align: center;
     a {
       text-decoration: none;
-      color: $light-gray;
+      color: $dark-gray;
       margin-left: 10px;
       font-size: 18px;
       &:hover {
@@ -152,7 +153,7 @@
   .recent-title {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: $dark-purple;
+    color: $light-purple;
     text-align: center;
     margin: 0 0 30px;
   }
@@ -170,7 +171,7 @@
         font-size: 12px;
         left: 2.5%;
         bottom: 10%;
-        color: $white;
+        color: $black;
       }
       &:hover {
         opacity: 0.8;
@@ -230,8 +231,8 @@
       height: 40px;
       font-size: 14px;
       text-align: center;
-      color: $white;
-      background-color: $dark-purple;
+      color: $black;
+      background-color: $light-purple;
       vertical-align: baseline;
       cursor: pointer;
       border: none;
@@ -239,7 +240,7 @@
       outline: none;
       transition: all .3s;
       &:hover {
-        background-color: $dark-pink;
+        background-color: $light-pink;
       }
     }
   }

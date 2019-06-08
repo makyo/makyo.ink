@@ -2,17 +2,17 @@
   margin: 100px 0 100px;
   .invert & {
       h1 {
-          color: $light-purple;
+          color: $dark-purple;
       }
       .tags li a {
-          color: $light-purple;
+          color: $dark-purple;
       }
       .tag-list {
           span a {
-              color: $light-pink;
+              color: $dark-pink;
           }
           small {
-              color: $light-purple;
+              color: $dark-purple;
           }
       }
   }
@@ -23,7 +23,7 @@
     font-size: 36px;
     text-align: center;
     margin: 0 0 30px;
-    color: $dark-purple;
+    color: $light-purple;
   }
   .tags {
     margin: 0;
@@ -32,7 +32,7 @@
     li {
       a {
         display: inline-block;
-        color: $dark-purple;
+        color: $light-purple;
         &:hover {
           opacity: .8;
         }
@@ -43,7 +43,7 @@
     span {
       a {
         display: inline-block;
-        color: $dark-pink;
+        color: $light-pink;
         text-decoration: none;
         text-transform: uppercase;
         font-size: 12px;
@@ -55,7 +55,7 @@
       }
     }
     small {
-      color: $dark-purple;
+      color: $light-purple;
     }
   }
 }

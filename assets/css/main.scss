@@ -20,25 +20,25 @@ html {
 
 body {
   font-family: 'Montserrat', sans-serif;
-  color: $dark-gray;
+  color: $white;
   margin: 0;
-  background-color: $white;
+  background-color: $darken-gray;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
   &.invert {
-      color: $white;
-      background-color: $dark-gray;
+      color: $darken-gray;
+      background-color: $white;
   }
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  color: $dark-purple;
+  color: $light-purple;
   font-weight: 400;
 
   .invert & {
-      color: $light-purple;
+      color: $dark-purple;
   }
 }
 
@@ -68,23 +68,23 @@ img {
 }
 
 a {
-  color: $dark-pink;
+  color: $light-pink;
 
   .invert & {
-    color: $light-pink;
+    color: $dark-pink;
   }
 }
 
 blockquote {
-  border-left: 3px solid $light-gray;
+  border-left: 3px solid $dark-gray;
   padding-left: 18px;
   margin-left: 21px;
   font-style: italic;
-  color: $darken-gray;
+  color: $lighten-gray;
 
   .invert & {
-      border-left-color: $light-purple;
-      color: $light-purple;
+      border-left-color: $dark-purple;
+      color: $dark-purple;
   }
 }
 
