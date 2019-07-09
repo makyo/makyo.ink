@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article class="article-page">
+    {{ with .Params.img }}
+    <div class="page-image">
+        <div class="cover-image" style="background: url(/assets/img/{{.}}) center no-repeat; background-size: cover;"></div>
+    </div>
+    {{ end }}
+    <div class="wrapper{{ if .Params.img }} with-image{{ end }}">
+        <div class="page-content">
+            <div class="header-page">
+                <h1 class="page-title">{{ .Title }}</h1>
+            </div>
+            {{ .Content }}
+            <div class="page-footer">
+                {{ partial "donate.html" }}
+            </div>
+        </div>
+    </div> <!-- End Wrapper -->
+</article>
+{{ end }}
