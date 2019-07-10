@@ -1322,6 +1322,15 @@ ul.pagination .page-item.active a {
     color: #cbb4da; }
 
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
+.center-list {
+  list-style-type: none;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0; }
+  .center-list li {
+    margin: 0.5rem 1rem;
+    display: inline-block; }
+
 /* = = = = = = = = = = Media = = = = = = = = = = */
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {

@@ -3,13 +3,15 @@ type: page
 title: Rum and Coke - Three Short Stories from a Furry Convention
 ---
 
-<img src="/assets/img/publications/rum-and-coke.jpg" style="margin: 0 auto; display: block; max-width: 500px" />
+<img src="/assets/img/publications/rum-and-coke.jpg" style="margin: 0 auto; display: block; width: 500pxm; max-width: 100%;" />
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-* <a class="gumroad-button" href="https://gum.co/rnc-furry-ebook" target="\_blank">Purchase  ebook</a>
-* <a class="gumroad-button" href="https://gum.co/rnc-furry-print" target="\_blank">Pre-order paperback</a>
-* [Purchase on Amazon](https://www.amazon.com/dp/B0160RTUWK)
+<ul class="center-list">
+<li><a class="gumroad-button" href="https://gum.co/rnc-furry-ebook" target="\_blank">Purchase  ebook</a></li>
+<li><a class="gumroad-button" href="https://gum.co/rnc-furry-print" target="\_blank">Pre-order paperback</a></li>
+<li><a href="https://www.amazon.com/dp/B0160RTUWK" target="\_blank">Purchase on Amazon</a></li>
+</ul>
 
 -----
 
