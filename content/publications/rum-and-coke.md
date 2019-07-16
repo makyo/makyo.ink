@@ -9,7 +9,7 @@ title: Rum and Coke - Three Short Stories from a Furry Convention
 
 <ul class="center-list">
 <li><a class="gumroad-button" href="https://gum.co/rnc-furry-ebook" target="\_blank">Purchase  ebook</a></li>
-<li><a class="gumroad-button" href="https://gum.co/rnc-furry-print" target="\_blank">Pre-order paperback</a></li>
+<li><a class="gumroad-button" href="https://gum.co/rnc-furry-print" target="\_blank">Purchase paperback</a></li>
 <li><a href="https://www.amazon.com/dp/B0160RTUWK" target="\_blank">Purchase on Amazon</a></li>
 </ul>
 
