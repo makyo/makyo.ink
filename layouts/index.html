@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="content wrapper">
-{{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 6 }}
+{{ $paginator := .Paginate (where .Site.Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 6 }}
 {{ if eq $paginator.PageNumber 1 }}
 {{ .Content }}
 {{ end }}
