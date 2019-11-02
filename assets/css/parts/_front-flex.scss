@@ -12,16 +12,19 @@
     .third {
         flex: 1 1 30%;
         padding: 0.5rem;
+        min-width: 300px;
     }
 
     .small {
         flex: 1 1 38%;
         padding: 0.5rem;
+        min-width: 300px;
     }
 
     .large {
         flex: 1 1 61%;
         padding: 0.5rem;
+        min-width: 300px;
     }
 
     .odd {
