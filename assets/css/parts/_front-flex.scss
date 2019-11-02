@@ -1,0 +1,21 @@
+.front-flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+
+    .hero {
+        display: flex;
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 1rem;
+    }
+
+    .small {
+        flex: 1 1 38%;
+        padding: 0.5rem;
+    }
+
+    .large {
+        flex: 1 1 61%;
+        padding: 0.5rem;
+    }
+}

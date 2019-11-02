@@ -1,11 +1,15 @@
 ---
-type: page
+type: rt
 title: Restless Town
 ---
 
-***Coming Soon!***
+Restless Town is a collection of ten furry short stories from the fictional town of Sawtooth, Idaho, exploring the themes of identity, sexuality, and mental health. ***Coming soon!***
 
-Restless Town is a collection of ten furry short stories from the fictional town of Sawtooth, Idaho, exploring the themes of identity, sexuality, and mental health.
+> *Restless Town* is an anthology about rebuilding. At its heart is grief, anxiety, and loss, and their intertwining with a life in transition. It's a living heart, wrought into words
+>
+> --- Kseno Fox
+
+### Contents
 
 * **The Fool** - A student and a motherly badger explore questions of identity through a tarot reading.
 * **Disappearance** - A weasel attempts to escape from her life in Sawtooth to Oregon, but finds her old life still tied to home.

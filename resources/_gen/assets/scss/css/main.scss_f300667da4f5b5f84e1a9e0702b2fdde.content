@@ -1331,6 +1331,21 @@ ul.pagination .page-item.active a {
     margin: 0.5rem 1rem;
     display: inline-block; }
 
+.front-flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch; }
+  .front-flex .hero {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 1rem; }
+  .front-flex .small {
+    flex: 1 1 38%;
+    padding: 0.5rem; }
+  .front-flex .large {
+    flex: 1 1 61%;
+    padding: 0.5rem; }
+
 /* = = = = = = = = = = Media = = = = = = = = = = */
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
