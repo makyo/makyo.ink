@@ -9,6 +9,11 @@
         padding: 1rem;
     }
 
+    .third {
+        flex: 1 1 30%;
+        padding: 0.5rem;
+    }
+
     .small {
         flex: 1 1 38%;
         padding: 0.5rem;
@@ -17,5 +22,9 @@
     .large {
         flex: 1 1 61%;
         padding: 0.5rem;
+    }
+
+    .odd {
+        background-color: rgba(255, 255, 255, 0.05);
     }
 }

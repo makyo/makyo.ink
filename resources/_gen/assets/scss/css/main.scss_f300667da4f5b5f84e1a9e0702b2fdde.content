@@ -1339,12 +1339,17 @@ ul.pagination .page-item.active a {
     display: flex;
     background-color: rgba(255, 255, 255, 0.1);
     padding: 1rem; }
+  .front-flex .third {
+    flex: 1 1 30%;
+    padding: 0.5rem; }
   .front-flex .small {
     flex: 1 1 38%;
     padding: 0.5rem; }
   .front-flex .large {
     flex: 1 1 61%;
     padding: 0.5rem; }
+  .front-flex .odd {
+    background-color: rgba(255, 255, 255, 0.05); }
 
 /* = = = = = = = = = = Media = = = = = = = = = = */
 /* Small Devices, Tablets */
