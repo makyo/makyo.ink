@@ -31,3 +31,14 @@
         background-color: rgba(255, 255, 255, 0.05);
     }
 }
+
+@media only screen and (max-width: 960px) {
+    .front-flex {
+         display: block;
+
+        div, div div {
+            display: inline-block;
+            width: 100%;
+        }
+    }
+}
