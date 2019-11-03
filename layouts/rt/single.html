@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    {{ $title := print .Title " | " .Site.Title }}
+    {{ if .IsHome }}
+        {{ $title = .Site.Title }}
+    {{ end }}
+    <title>{{ $title }}</title>
+    {{ .Hugo.Generator }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ if .IsHome }}
+        {{ with .Site.Params.homeMetaContent }}
+            <meta name="description" content="{{ . | plainify }}">
+        {{ end }}
+    {{ end }}
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta property="og:image" content="">
+    <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/assets/img/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicon/apple-touch-icon-114x114.png">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#311e3e">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#311e3e">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#311e3e">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="/assets/fonts/font-awesome/css/font-awesome.min.css">
+    <!-- Styles -->
+    {{ $style := resources.Get "css/main.scss" | resources.ToCSS }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <link rel="stylesheet" href="/publications/restless-town/main.css" />
+</head>
+
+    <body>
+        <div class="flex-container">
+            {{- partial "header.html" . -}}
+            <article class="article-page">
+                {{ with .Params.img }}
+                <div class="page-image">
+                    <div class="cover-image" style="background: url(/assets/img/{{.}}) center no-repeat; background-size: cover;"></div>
+                </div>
+                {{ end }}
+                <div class="wrapper{{ if .Params.img }} with-image{{ end }}">
+                    <div class="page-content">
+                        <div class="header-page">
+                            <h1 class="page-title">{{ .Title }}</h1>
+                        </div>
+                        {{ .Content }}
+                        <div class="page-footer">
+                            {{ partial "donate.html" }}
+                        </div>
+                    </div>
+                </div> <!-- End Wrapper -->
+            </article>
+            {{- partial "footer.html" . -}}
+            {{- partial "javascripts.html" . }}
+        </div>
+    </body>
+</html>
