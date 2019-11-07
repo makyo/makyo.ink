@@ -3,9 +3,16 @@ type: rt
 title: Restless Town
 ---
 
-Restless Town is a collection of ten furry short stories from the fictional town of Sawtooth, Idaho, exploring the themes of identity, sexuality, and mental health. ***Coming soon!***
+<script src="https://gumroad.com/js/gumroad.js"></script>
 
-> *Restless Town* is an anthology about rebuilding. At its heart is grief, anxiety, and loss, and their intertwining with a life in transition. It's a living heart, wrought into words
+<ul class="center-list">
+<li><a class="gumroad-button" href="https://gum.co/restless-town-print" target="\_blank">Pre-order paperback</a></li>
+<li><a class="gumroad-button" href="https://gum.co/restless-town-ebook" target="\_blank">Pre-order ebook</a></li>
+</ul>
+
+> I just need out of this town. This stupid fucking town. This brown and flat and sad town. This restless town. This home to ennui and melancholy. This scrub of buildings and people and emotions spilled in the middle of an apathetic landscape like hay from an overturned truck.
+
+Restless Town is a collection of ten furry short stories from the fictional town of Sawtooth, Idaho, exploring the themes of identity, sexuality, and mental health. ***Coming November 15!***
 
 ### Contents
 
@@ -19,3 +26,15 @@ Restless Town is a collection of ten furry short stories from the fictional town
 * **Every Angel is Terrifying** - Derek MacIver struggles to hold his life together through the ups and downs of bipolar disorder.
 * **What Defines Us** - Darren and his mother struggle with the rammifications of the past repeating itself.
 * **A Theory of Attachment** - Living with obsessive-compulsive disorder is tough without a support network, so when Sélène's changes, stress runs high.
+
+### Advance Praise
+
+> A glimpse at the inner turmoil cause by the modern world through a collection of unique characters exploring internal conflicts such as mental health, complex emotions, or the need for physical connection.
+>
+> -- Phosphor Wulf
+
+&nbsp;
+
+> Restless Town is an anthology about rebuilding. At its heart is grief, anxiety, and loss, and their intertwining with a life in transition. It’s a living heart, wrought into words.
+>
+> -- Anon.
