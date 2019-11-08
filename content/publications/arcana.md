@@ -1,10 +1,10 @@
 ---
-type: page
+type: rt
 title: Arcana - A Tarot Anthology
 img: publications/04-emperor.jpg
 ---
 
-<img src="/assets/img/publications/arcana.jpg" style="margin: 0 auto; display: block; width: 500pxm; max-width: 100%;" />
+<img src="/assets/img/publications/arcana.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />
 
 <ul class="center-list">
 <li><a href="http://thurstonhowlpub.storenvy.com/collections/1587098-anthologies/products/22227398-arcana-a-tarot-anthology" target="\_blank"><strong>Purchase from the publisher</strong></a></li>

@@ -4,9 +4,11 @@
 }
 @import url('https://fonts.googleapis.com/css?family=Gentium+Basic|Spectral&display=swap');
 
-h1, h2 {
+.header-page h1, h2 {
     font-family: "Tom's New Roman", sans-serif !important;
     font-weight: bold;
+    font-size: 3rem;
+    display: none;
 }
 
 h3, h4, h5, h6 {
