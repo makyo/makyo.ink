@@ -40,3 +40,7 @@ Restless Town is a collection of ten furry short stories from the fictional town
 > Restless Town is an anthology about rebuilding. At its heart is grief, anxiety, and loss, and their intertwining with a life in transition. It’s a living heart, wrought into words.
 >
 > -- Anon.
+
+-----
+
+Cover by [Julian Norwood](https://patreon.com/Cadmiumtea).
