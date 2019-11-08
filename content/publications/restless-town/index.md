@@ -3,6 +3,8 @@ type: rt
 title: Restless Town
 ---
 
+<img src="/assets/img/publications/restless-town.jpg" style="margin: 0 auto; display: block; width: 500pxm; max-width: 100%;" />
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
 <ul class="center-list">
