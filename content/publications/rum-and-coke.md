@@ -1,6 +1,7 @@
 ---
 type: rt
 title: Rum and Coke - Three Short Stories from a Furry Convention
+ogimg: /assets/img/publications/rum-and-coke.jpg
 ---
 
 <img src="/assets/img/publications/rum-and-coke.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />

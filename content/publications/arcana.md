@@ -2,6 +2,7 @@
 type: rt
 title: Arcana - A Tarot Anthology
 img: publications/04-emperor.jpg
+ogimg: /assets/img/publications/arcana.jpg
 ---
 
 <img src="/assets/img/publications/arcana.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />

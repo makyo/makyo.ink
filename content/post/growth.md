@@ -12,6 +12,7 @@ tags:
 - Transition
 - About furry
 title: Growth
+ogimg: /assets/img/growth.jpg
 ---
 
 ![Growth](/assets/img/growth.jpg)
