@@ -30,6 +30,10 @@ Restless Town is a collection of ten furry short stories from the fictional town
 * **What Defines Us** - Darren and his mother struggle with the rammifications of the past repeating itself.
 * **A Theory of Attachment** - Living with obsessive-compulsive disorder is tough without a support network, so when Sélène's changes, stress runs high.
 
+### Content warning
+
+Many stories contain frank descriptions of sensuality and sexuality; *Centerpiece* contains explicit decription of a BDSM party and some shaky negotiation; *You're Gone* contains frank discussion of grief and death; *Every Angel is Terrifying* contains explicit description of depression, self-harm, and suicidality; *What Defines Us* contains mentions of abuse; *A Theory of Attachment* contains explicit description of mental health issues and a mention of abuse.
+
 ### Advance Praise
 
 > A glimpse at the inner turmoil cause by the modern world through a collection of unique characters exploring internal conflicts such as mental health, complex emotions, or the need for physical connection.
