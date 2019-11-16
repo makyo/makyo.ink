@@ -9,13 +9,15 @@ ogimg: /assets/img/publications/restless-town.jpg
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
 <ul class="center-list">
-<li><a class="gumroad-button" href="https://gum.co/restless-town-print" target="\_blank">Pre-order paperback</a></li>
-<li><a class="gumroad-button" href="https://gum.co/restless-town-ebook" target="\_blank">Pre-order ebook</a></li>
+<li><a class="gumroad-button" href="https://gum.co/restless-town-print" target="\_blank">Buy paperback</a></li>
+<li><a class="gumroad-button" href="https://gum.co/restless-town-ebook" target="\_blank">Buy ebook</a></li>
+<li><a href="https://www.amazon.com/dp/1948743094" target="\_blank">Buy paperback on Amazon</a></li>
+<li><a href="https://www.amazon.com/dp/B0817C9GSX" target="\_blank">Buy ebook on Amazon</a></li>
 </ul>
 
 > I just need out of this town. This stupid fucking town. This brown and flat and sad town. This restless town. This home to ennui and melancholy. This scrub of buildings and people and emotions spilled in the middle of an apathetic landscape like hay from an overturned truck.
 
-Restless Town is a collection of ten furry short stories from the fictional town of Sawtooth, Idaho, exploring the themes of identity, sexuality, and mental health. ***Coming November 15!***
+Restless Town is a collection of ten furry short stories from the fictional town of Sawtooth, Idaho, exploring the themes of identity, sexuality, and mental health.
 
 ### Contents
 
