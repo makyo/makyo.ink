@@ -13,6 +13,7 @@ ogimg: /assets/img/publications/restless-town.jpg
 <li><a class="gumroad-button" href="https://gum.co/restless-town-ebook" target="\_blank">Buy ebook</a></li>
 <li><a href="https://www.amazon.com/dp/1948743094" target="\_blank">Buy paperback on Amazon</a></li>
 <li><a href="https://www.amazon.com/dp/B0817C9GSX" target="\_blank">Buy ebook on Amazon</a></li>
+<li><a href="https://www.barnesandnoble.com/w/restless-town-madison-scott-clary/1134807830?ean=9781948743099" target="\_blank">Buy at Barnes &amp; Noble</a></li>
 </ul>
 
 > I just need out of this town. This stupid fucking town. This brown and flat and sad town. This restless town. This home to ennui and melancholy. This scrub of buildings and people and emotions spilled in the middle of an apathetic landscape like hay from an overturned truck.
@@ -50,4 +51,6 @@ Many stories contain frank descriptions of sensuality and sexuality; *Centerpiec
 
 -----
 
-Cover by [Julian Norwood](https://patreon.com/Cadmiumtea).
+* Cover by [Julian Norwood](https://patreon.com/Cadmiumtea).
+* Print ISBN: 9781948743099
+* Ebook ISBN: 9781948743105
