@@ -12,7 +12,18 @@
     .third {
         flex: 1 0 30%;
         padding: 0.5rem;
-        min-width: 300px;
+        min-width: 200px;
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+
+            li {
+                margin: 0;
+                padding: 0.5rem 0;
+            }
+        }
     }
 
     .small {
