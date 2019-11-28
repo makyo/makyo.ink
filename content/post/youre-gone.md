@@ -32,7 +32,7 @@ Hard as that may be.
 
 -----
 
-### [Play the game](/assets/posts/youre-gone){: style="color: green; text-decoration: underline;" } (or [read the script](/assets/posts/youre-gone/script))
+### [**Play the game**](/assets/posts/youre-gone) (or [read the script](/assets/posts/youre-gone/script))
 
 *You're Gone* is a story as told through instant messages. It's playable in all modern browsers.
 
