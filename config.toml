@@ -10,3 +10,6 @@ title = "The Writing of Madison Scott-Clary"
 
 [permalinks]
   post = "/:filename/"
+
+[markup.goldmark.renderer]
+  unsafe= true

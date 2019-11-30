@@ -1,7 +1,8 @@
 ---
-type: rt
+type: page
 title: Restless Town
 ogimg: /assets/img/publications/restless-town.jpg
+extracss: /publications/restless-town/main.css
 ---
 
 <img src="/assets/img/publications/restless-town.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />

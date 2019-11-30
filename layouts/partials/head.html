@@ -4,7 +4,7 @@
     {{ if .IsHome }}
         {{ $title = .Site.Title }}
     {{ end }}
-    <title>{{ $title }}</title>
+    <title>{{ $title | plainify }}</title>
     {{ .Hugo.Generator }}
     <link rel="canonical" href="{{ .Permalink }}">
     {{ if .IsHome }}
@@ -14,7 +14,7 @@
     {{ end }}
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	
+
     {{- partial "seo.html" . -}}
 
 	<link rel="shortcut icon" href="/assets/img/favicon/favicon.ico" type="image/x-icon">
@@ -35,4 +35,7 @@
 	<!-- Styles -->
     {{ $style := resources.Get "css/main.scss" | resources.ToCSS }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
+	{{ with .Params.extracss }}
+		<link rel="stylesheet" href="{{.}}">
+	{{ end }}
 </head>

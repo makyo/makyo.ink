@@ -1,5 +1,5 @@
 <!-- OpenGraph metadata -->
-<meta property="og:title" content="{{ if .Params.title }}{{.Params.title }} | {{end}}The Writing of Madison Scott-Clary" />
+<meta property="og:title" content="{{ if .Params.title }}{{.Params.title | plainify }} | {{end}}The Writing of Madison Scott-Clary" />
 <meta property="og:site_name" content="The Writing of Madison Scott-Clary" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="{{ if .Params.ogimg }}{{ .Params.ogimg | absURL }}{{ else }}{{ if .Params.img }}{{ .Params.img | absURL }}{{ else }}{{ "/assets/img/headshot.jpg" | absURL }}{{ end }}{{ end }}" />
@@ -9,7 +9,7 @@
 <!-- Twitter Card metadata -->
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@makyo_writes" />
-<meta name="twitter:title" content="{{ if .Params.title }}{{.Params.title }} | {{end}}The Writing of Madison Scott-Clary" />
+<meta name="twitter:title" content="{{ if .Params.title }}{{.Params.title | plainify }} | {{end}}The Writing of Madison Scott-Clary" />
 <meta name="twitter:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}The Writing of Madison Scott-Clary{{ end }}" />
 <meta name="twitter:image" content="{{ if .Params.ogimg }}{{ .Params.ogimg | absURL }}{{ else }}{{ if .Params.img }}{{ .Params.img | absURL }}{{ else }}{{ "/assets/img/headshot.jpg" | absURL }}{{ end }}{{ end }}" />
 
@@ -19,7 +19,7 @@
         "@context": "http://schema.org",
         "@type": "WebSite",
         "name": "The Writing of Madison Scott-Clary",
-        "headline": "{{ if .Params.title }}{{.Params.title }} | {{end}}The Writing of Madison Scott-Clary",
+        "headline": "{{ if .Params.title }}{{.Params.title | plainify }} | {{end}}The Writing of Madison Scott-Clary",
         "description": "{{ if .Params.description }}{{ .Params.description }}{{ else }}The Writing of Madison Scott-Clary{{ end }}",
         "url": "{{ .Permalink }}"
     }

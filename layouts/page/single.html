@@ -8,9 +8,9 @@
     <div class="wrapper{{ if .Params.img }} with-image{{ end }}">
         <div class="page-content">
             <div class="header-page">
-                <h1 class="page-title">{{ .Title }}</h1>
+                <h1 class="page-title">{{ .Title | safeHTML }}</h1>
             </div>
-            {{ .Content }}
+            {{ .Content | safeHTML }}
             <div class="page-footer">
                 {{ partial "donate.html" }}
             </div>
