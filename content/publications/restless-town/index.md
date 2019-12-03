@@ -25,7 +25,7 @@ Restless Town is a collection of ten furry short stories from the fictional town
     <div class="third">
         <h3>Ebook</h3>
         <ul>
-        <li><a class="gumroad-button" href="https://gum.co/restless-town-print" target="\_blank">Buy direct</a></li>
+        <li><a class="gumroad-button" href="https://gum.co/restless-town-ebook" target="\_blank">Buy direct</a></li>
         <li><a href="https://baddogbooks.com/product/restless-town/" target="\_blank">Buy on Bad Dog Books</a></li>
         <li><a href="https://www.amazon.com/dp/B0817C9GSX" target="\_blank">Buy on Amazon</a></li>
         <li><a href="https://www.barnesandnoble.com/w/restless-town-madison-scott-clary/1134807830?ean=9781948743105" target="\_blank">Buy at Barnes &amp; Noble</a></li>
