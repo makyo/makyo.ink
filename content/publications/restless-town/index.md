@@ -35,6 +35,8 @@ Restless Town is a collection of ten furry short stories from the fictional town
         <h3>Audiobook</h3>
         <ul>
         <li><a class="gumroad-button" href="https://gum.co/restless-town-audio" target="\_blank">Buy direct</a></li>
+        <li><a href="https://www.audible.com/pd/B08292CSKQ/?source_code=AUDFPWS0223189MWT-BK-ACX0-174405&ref=acx_bty_BK_ACX0_174405_rh_us" target="\_blank">Buy on Audible</a></li>
+        <li><a href="https://www.amazon.com/Restless-Town/dp/B08292KQW2" target="\_blank">Buy on Amazon</a></li>
         </ul>
     </div>
 </div>
