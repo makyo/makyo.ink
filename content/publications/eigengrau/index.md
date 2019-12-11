@@ -26,6 +26,7 @@ With topics ranging from gender to mental health, flower language to dogs, these
     </div>
 </div>
 
+* Foreword by Lorxus
 * Poems from *Missives*
     * Though the flow're may bloom ere long
     * Delay, then, the morn
