@@ -13,7 +13,15 @@
         flex: 1 0 30%;
         padding: 0.5rem;
         min-width: 200px;
+    }
 
+    .half {
+        flex: 1 0 45%;
+        padding: 0.5rem;
+        min-width: 200px;
+    }
+
+    .third, .half {
         ul {
             list-style-type: none;
             margin: 0;

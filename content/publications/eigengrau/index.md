@@ -10,6 +10,22 @@ extracss: /publications/eigengrau/main.css
 
 With topics ranging from gender to mental health, flower language to dogs, these five years worth of selected poems by Madison Scott-Clary represent some of her best works, now collected in to one book. ***Coming January 1, 2020!***
 
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<div class="front-flex">
+    <div class="half">
+        <h3>Paperback</h3>
+        <ul>
+        <li><a class="gumroad-button" href="https://gum.co/eigengrau-print" target="\_blank">Pre-order Direct</a></li>
+        </ul>
+    </div>
+    <div class="half">
+        <h3>Ebook (PDF)</h3>
+        <ul>
+        <li><a class="gumroad-button" href="https://gum.co/eigengrau-pdf" target="\_blank">Pre-order Direct</a></li>
+        </ul>
+    </div>
+</div>
+
 * Poems from *Missives*
     * Though the flow're may bloom ere long
     * Delay, then, the morn
@@ -17,7 +33,7 @@ With topics ranging from gender to mental health, flower language to dogs, these
     * You find me at a disadvantage
     * A rose, single, now blooming
 * Unimportant verse about important people
-* Collect haiku
+* Collected haiku
 * Mental Health
     * There is too much fire in me
     * Heligoland
