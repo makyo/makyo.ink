@@ -2,6 +2,7 @@
 type: page
 title: '<span class="pink">Eigen</span><span class="gray">grau</span>'
 extracss: /publications/eigengrau/main.css
+ogimg: /assets/img/publications/eigengrau.png
 ---
 
 <h2 class="gray">Poems<br />2015 to 2020</h2>
