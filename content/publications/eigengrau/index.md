@@ -28,7 +28,7 @@ With topics ranging from gender to mental health, flower language to dogs, these
 
 * Foreword by Lorxus
 * Poems from *Missives*
-    * Though the flow're may bloom ere long
+    * Though the flow'r may bloom ere long
     * Delay, then, the morn
     * Thy gift
     * You find me at a disadvantage
