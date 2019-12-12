@@ -28,14 +28,21 @@ With topics ranging from gender to mental health, flower language to dogs, these
 </div>
 
 * Foreword by Lorxus
+* Solitary works
+    * The dogs assure me
+    * A year starts not on January first
+    * Growth
+    * When I fall, I will remain whole
+    * I know there's rest
+    * Every time I fall
+    * Meaning & Self
+* Unimportant verse about important people
 * Poems from *Missives*
     * Though the flow'r may bloom ere long
     * Delay, then, the morn
     * Thy gift
     * You find me at a disadvantage
     * A rose, single, now blooming
-* Unimportant verse about important people
-* Collected haiku
 * Mental Health
     * There is too much fire in me
     * Heligoland
@@ -48,14 +55,7 @@ With topics ranging from gender to mental health, flower language to dogs, these
     * Somehow, she's me
     * Post-op images
     * Fair and square
-* Miscellany
-    * The dogs assure me
-    * A year starts not on January first
-    * Growth
-    * When I fall, I will remain whole
-    * I know there's rest
-    * Every time I fall
-    * Meaning & Self
+* Collected haiku
 
 <div class="quip verse">Her hair is tied with a ribbon
     Saying "<span class="gray">This is not for you.</span>"
