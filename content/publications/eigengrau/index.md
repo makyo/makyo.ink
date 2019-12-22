@@ -13,16 +13,22 @@ With topics ranging from gender to mental health, flower language to dogs, these
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <div class="front-flex">
-    <div class="half">
+    <div class="third">
         <h3>Paperback</h3>
         <ul>
         <li><a class="gumroad-button" href="https://gum.co/eigengrau-print" target="\_blank">Pre-order Direct</a></li>
         </ul>
     </div>
-    <div class="half">
+    <div class="third">
         <h3>Ebook (PDF)</h3>
         <ul>
         <li><a class="gumroad-button" href="https://gum.co/eigengrau-pdf" target="\_blank">Pre-order Direct</a></li>
+        </ul>
+    </div>
+    <div class="third">
+        <h3>Audiobook</h3>
+        <ul>
+        <li><a class="gumroad-button" href="https://gum.co/eigengrau-audio" target="\_blank">Pre-order Direct</a></li>
         </ul>
     </div>
 </div>
