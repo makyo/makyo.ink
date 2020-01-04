@@ -16,19 +16,21 @@ With topics ranging from gender to mental health, flower language to dogs, these
     <div class="third">
         <h3>Paperback</h3>
         <ul>
-        <li><a class="gumroad-button" href="https://gum.co/eigengrau-print" target="\_blank">Pre-order Direct</a></li>
+        <li><a class="gumroad-button" href="https://gum.co/eigengrau-print" target="\_blank">Buy Direct</a></li>
+        <li><a href="https://www.amazon.com/Eigengrau-Poems-2015-Madison-Scott-Clary/dp/1948743140" target="\_blank">Buy on Amazon</a></li>
+        <li><a href="https://www.barnesandnoble.com/w/eigengrau-madison-scott-clary/1135534320?ean=9781948743143" target="\_blank">Buy at Barnes &amp; Noble</a></li>
         </ul>
     </div>
     <div class="third">
         <h3>Ebook (PDF)</h3>
         <ul>
-        <li><a class="gumroad-button" href="https://gum.co/eigengrau-pdf" target="\_blank">Pre-order Direct</a></li>
+        <li><a class="gumroad-button" href="https://gum.co/eigengrau-pdf" target="\_blank">Buy Direct</a></li>
         </ul>
     </div>
     <div class="third">
         <h3>Audiobook</h3>
         <ul>
-        <li><a class="gumroad-button" href="https://gum.co/eigengrau-audio" target="\_blank">Pre-order Direct</a></li>
+        <li><a class="gumroad-button" href="https://gum.co/eigengrau-audio" target="\_blank">Buy Direct</a></li>
         </ul>
     </div>
 </div>
