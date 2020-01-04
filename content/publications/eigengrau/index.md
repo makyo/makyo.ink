@@ -9,7 +9,7 @@ ogimg: /assets/img/publications/eigengrau.png
 
 <h3><span class="pink">Madison</span> <span class="gray">Scott-Clary</span></h3>
 
-With topics ranging from gender to mental health, flower language to dogs, these five years worth of selected poems by Madison Scott-Clary represent some of her best works, now collected in to one book. ***Coming January 1, 2020!***
+With topics ranging from gender to mental health, flower language to dogs, these five years worth of selected poems by Madison Scott-Clary represent some of her best works, now collected in to one book.
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <div class="front-flex">
