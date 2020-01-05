@@ -21,7 +21,7 @@ ogimg: /assets/img/growth.jpg
 
 -----
 
-<div class="verse">
+<pre class="verse">
 Used to be you and I daily would walk
 through the fields out back of the house and talk
 for hours, spilling words and emotions.
@@ -171,4 +171,4 @@ through the fields out back of the house and talk.
 Now, it's just me, alone, quiet, thinking
 of you by the shore, forever drinking
 of sweet water.
-</div>
+</pre>

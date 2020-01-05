@@ -10,7 +10,7 @@ tags:
 title: Beneath her coat was a whole identity
 ---
 
-<div class="verse">
+<pre class="verse">
 Beneath her coat was a whole identity:
 A subtle form of ideas under soft fur,
 A constantly shifting mass of meaning...
@@ -30,6 +30,6 @@ And slowly, she'd pick herself back up
 And find a brand new way to piece herself together
 And build herself a brand new smile
 And brush out her coat once more.
-</div>
+</pre>
 
 *First-place winner of the [Typewriter Emergencies Poetry Contest](https://www.typewriteremergencies.com/single-post/2018/02/13/Beneath-her-coat-was-a-whole-identity---1st-Place-Winner).*

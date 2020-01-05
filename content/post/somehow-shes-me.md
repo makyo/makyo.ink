@@ -10,7 +10,7 @@ tags:
 title: Somehow, she's me
 ---
 
-<div class="verse">
+<pre class="verse">
 Her hair is tied with a ribbon
     Saying "This is not for you."
 She wears a pendant of stamped brass
@@ -55,4 +55,4 @@ She never wanted to be
     What she became;
         The irony of which
             Is not lost on her.
-</div>
+</pre>

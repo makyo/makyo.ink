@@ -11,7 +11,7 @@ tags:
 title: Completed poems from "Missives"
 ---
 
-<div class="verse">
+<pre class="verse">
 Though the flow'r may bloom ere long
     and night recede unto the dawn,
 so yet may love's embrace grow fond
@@ -26,11 +26,11 @@ With so keen and fond a blade,
     There's naught to fear in life or death.
         So slay, then slay! For now, I care not how,
         I need for naught but that which love allow.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 Though every climax approach a denouement
 And every dawn a night,
 Every moment worth sharing
@@ -51,11 +51,11 @@ Pleasure may hurt, ache, burn,
 May steal hours of night.
     Were it with you,
     Delay, then, the morn.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 I reach for the ewer of water,
 I hope to quench the heat.
 I beg for yet another serving,
@@ -70,11 +70,11 @@ Though the heart may quicken --
 Though the tongue may lap --
 I shall sup no greater meal
 Than thy gift entrancing.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 On reading letters late received,
 I felt within: the fox --
 Yelping, yowling now, crying needfully --
@@ -84,11 +84,11 @@ You find me at a disadvantage --
 Panting and aswish --
 Would that distance be traversed as easily
 As hearts t'wards yearning hearts!
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 A rose, single, now blooming
     may indeed bless the stem,
 yet are not roses clipp'd and shown?
@@ -110,3 +110,4 @@ Must yearn forever for that grace.
     To watch that growth, to explore stem's turn,
         day by day would destroy, weakening one by the hour,
         A rose, single, now blooming, forever holds all pow'r.
+</pre>

@@ -10,7 +10,7 @@ tags:
 title: Meaning &amp; Self
 ---
 
-<div class="verse">
+<pre class="verse">
 There's some duality between sources of meaning,
     Between the types of stories we use to back identity.
 It's not quite good &amp; bad or light &amp; dark,
@@ -45,4 +45,4 @@ It's not a dichotomy at all, really,
     now that I think about it.
 It's something subtler, comfortably complex, a topic of its own.
     I guess it's just meaning &amp; self.
-</div>
+</pre>

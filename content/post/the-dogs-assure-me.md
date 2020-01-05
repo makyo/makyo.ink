@@ -10,7 +10,7 @@ tags:
 title: The Dogs Assure Me
 ---
 
-<div class="verse">
+<pre class="verse">
 The dogs assure me:
 There are volumes of meaning &mdash;
 Life and death &mdash;
@@ -26,7 +26,7 @@ The rich scent of meaning &mdash;
 Heady, intoxicating &mdash;
 Rises only from words
 And the way you rest your hands on the table.
-</div>
+</pre>
 
 -----
 

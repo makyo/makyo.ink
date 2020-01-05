@@ -9,7 +9,7 @@ tags:
 title: When I fall, I will remain whole
 ---
 
-<div class="verse">
+<pre class="verse">
 I keep hoping that, one day,  
 I'll spring palladial from the bole of a tree.  
 Fully formed, sexless,  
@@ -32,4 +32,4 @@ My vision will be clear and unclouded,
 My will affirming, strong, and sure.  
 And when I fall, I will remain whole,  
 Confident that I lived well and unapologetic.
-</div>
+</pre>

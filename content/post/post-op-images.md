@@ -11,7 +11,7 @@ tags:
 title: Post-op images
 ---
 
-<div class="verse">
+<pre class="verse">
 
 Saturday is for mechanics.
 Sunday is for terror.
@@ -152,4 +152,4 @@ What changed you?
     <em>Everything</em>
 What became of it?
     <em>I became who I am</em>
-</div>
+</pre>
