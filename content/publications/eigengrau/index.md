@@ -73,3 +73,9 @@ She wears a pendant of stamped brass
     She tells herself,
         As though that will somehow
             Explain her scars.</div>
+
+<div style="text-align: center"><strong><a href="https://www.goodreads.com/book/show/50284165-eigengrau">Rate on Goodreads</a></strong></div>
+
+-----
+
+* Print ISBN: 978-1-948743-14-3

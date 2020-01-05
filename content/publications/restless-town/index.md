@@ -72,6 +72,8 @@ Many stories contain frank descriptions of sensuality and sexuality; *Centerpiec
 >
 > -- Anon.
 
+<div style="text-align: center"><strong><a href="https://www.goodreads.com/book/show/48839037-restless-town">Rate on Goodreads</a></strong></div>
+
 -----
 
 * Cover by [Julian Norwood](https://patreon.com/Cadmiumtea).

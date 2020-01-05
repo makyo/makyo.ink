@@ -23,3 +23,5 @@ Much ink has been spent following the exploits of our furry characters, but some
 * Again - It’s not uncommon to see one’s ex has changed in interesting ways, but Michael is taken aback when his partner from years past shows up at the convention much different than before.
 
 These three short pieces of erotica explore the unique aspects of romance and sex within the furry fandom, focusing on queer stories and highlighting the complexities of meeting up for the first time, or at least the first time in many years.
+
+<div style="text-align: center"><strong><a href="https://www.goodreads.com/book/show/30368614-rum-and-coke">Rate on Goodreads</a></strong></div>
