@@ -74,6 +74,12 @@ Many stories contain frank descriptions of sensuality and sexuality; *Centerpiec
 
 ### Reviews
 
+> It seems strange to call a book 'gentle' when it comes with content warnings, but this collection earns the title with a series of introspective pieces in which thoughts and feelings are slowly and carefully explored.
+>
+> [Alice "Huskyteer" Dryden](https://www.goodreads.com/review/show/3066083728?book_show_action=true)
+
+&nbsp;
+
 > I expect that I will be carrying these stories in my heart and mind for quite some time. While not as heavy on anthropomorphic themes as some books I’ve read, the characters that drive these stories forward are all vibrant and fantastic. Restless Town gets a recommendation from me for anyone that wants to deeply examine emotions and understand the world from a different perspective. These stories have so much to offer, I look forward to reading more works from Madison Scott-Clary in the future!
 >
 > [Furry Book Review](https://furrybookreview.wixsite.com/blog/single-post/2020/02/15/Restless-Town-by-Madison-Scott-Clary)
