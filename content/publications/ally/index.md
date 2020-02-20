@@ -25,8 +25,11 @@ Myself, I guess.
 
 <p style="text-align: center">
     <script src="https://gumroad.com/js/gumroad.js"></script>
-    <a class="gumroad-button" href="https://gum.co/VVjeW" target="\_blank">Pre-order direct</a><br />
+    <a class="gumroad-button" href="https://gum.co/VVjeW" target="\_blank">Pre-order paperback</a><br />
     <em>Coming June 2020!</em>
+
+    <script src="https://gumroad.com/js/gumroad.js"></script>
+    <a class="gumroad-button" href="https://gum.co/rvof" target="\_blank">Pre-order PDF ebook</a>
 </p>
 
 **ally** is an autobiographical project. A lot of the information contained within is real, some of it isn't. Each page is structured as a conversation between myself and my ally, a mirror reflection of myself.
