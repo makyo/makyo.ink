@@ -23,12 +23,11 @@ Myself, I guess.
 
 -----
 
-*Coming soon! Available June, 2020*
-
-<div style="text-align: center">
+<p style="text-align: center">
     <script src="https://gumroad.com/js/gumroad.js"></script>
-    <a class="gumroad-button" href="https://gum.co/VVjeW" target="\_blank">Pre-order direct</a>
-</div>
+    <a class="gumroad-button" href="https://gum.co/VVjeW" target="\_blank">Pre-order direct</a><br />
+    <em>Coming June 2020!</em>
+</p>
 
 **ally** is an autobiographical project. A lot of the information contained within is real, some of it isn't. Each page is structured as a conversation between myself and my ally, a mirror reflection of myself.
 
