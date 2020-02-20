@@ -2,7 +2,7 @@
 type: page
 title: ally
 extracss: /publications/ally/main.css
-ogimg: /assets/img/publications/ally-front.png
+ogimg: /assets/img/publications/ally-front.jpg
 ---
 
 <img src="/assets/img/publications/ally-front.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />
