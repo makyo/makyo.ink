@@ -13,7 +13,7 @@ Like.
 
 It doesn't need to be totally true, and maybe some stuff gets pretty floaty, and maybe some stuff winds up as poetry, and maybe some of it is ergodic with scans of notes or bits of other projects scattered throughout, and maybe I just own the hypertextuality of the medium, but it's generally autobiographical.
 
-That might be neat
+That might be neat.
 
 > Who are you kidding?
 
@@ -24,9 +24,9 @@ Myself, I guess.
 -----
 
 <p style="text-align: center">
+    <em>Coming June 2020!</em><br />
     <script src="https://gumroad.com/js/gumroad.js"></script>
     <a class="gumroad-button" href="https://gum.co/VVjeW" target="\_blank">Pre-order paperback</a><br />
-    <em>Coming June 2020!</em>
 
     <script src="https://gumroad.com/js/gumroad.js"></script>
     <a class="gumroad-button" href="https://gum.co/rvof" target="\_blank">Pre-order PDF ebook</a>
