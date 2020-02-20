@@ -32,9 +32,9 @@ Myself, I guess.
     <a class="gumroad-button" href="https://gum.co/rvof" target="\_blank">Pre-order PDF ebook</a>
 </p>
 
-**ally** is an autobiographical project. A lot of the information contained within is real, some of it isn't. Each page is structured as a conversation between myself and my ally, a mirror reflection of myself.
+**ally** is an ergodic, arborescent, semiautobiographical work about identity, mental health, spirituality, and the mutability of the past.. A lot of the information contained within is real, some of it isn’t. Each page is structured as a conversation between myself and my ally, a mirror reflection of myself.
 
-Based off the interactive project at [**ally.id**](ally.id), this book explores different facets of my life --- some true, some embellished, some wholly fictitious --- in a non-linear, ergodic fashion, using color, page-layout, and mixed-media to create a book more experience than memoir.
+Based off the interactive project at [**ally.id**](https://ally.id), this book explores different facets of my life — some true, some embellished, some wholly fictitious — in a non-linear, ergodic fashion, using color, page-layout, and mixed-media to create a book more experience than memoir.
 
 ### Content warning
 
