@@ -5,6 +5,10 @@ extracss: /publications/ally/main.css
 ogimg: /assets/img/publications/ally-front.jpg
 ---
 
+<script>
+window.location.href = 'https://ally.id/book?pk_campaign=publications';
+</script>
+
 <img src="/assets/img/publications/ally-front.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />
 
 What if I tried to write a memoir?
@@ -28,11 +32,15 @@ Myself, I guess.
     <script src="https://gumroad.com/js/gumroad.js"></script>
     <a class="gumroad-button" href="https://gum.co/VVjeW" target="\_blank">Pre-order paperback</a><br />
 
+    <
+</p>
+
+<p style="text-align: center">
     <script src="https://gumroad.com/js/gumroad.js"></script>
     <a class="gumroad-button" href="https://gum.co/rvof" target="\_blank">Pre-order PDF ebook</a>
 </p>
 
-**ally** is an ergodic, arborescent, semiautobiographical work about identity, mental health, spirituality, and the mutability of the past.. A lot of the information contained within is real, some of it isn’t. Each page is structured as a conversation between myself and my ally, a mirror reflection of myself.
+**ally** is an ergodic, arborescent, semiautobiographical work about identity, mental health, spirituality, and the mutability of the past. A lot of the information contained within is real, some of it isn’t. Each page is structured as a conversation between myself and my ally, a mirror reflection of myself.
 
 Based off the interactive project at [**ally.id**](https://ally.id), this book explores different facets of my life — some true, some embellished, some wholly fictitious — in a non-linear, ergodic fashion, using color, page-layout, and mixed-media to create a book more experience than memoir.
 
