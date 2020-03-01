@@ -21,6 +21,7 @@ Restless Town is a collection of ten furry short stories from the fictional town
         <li><a href="https://furplanet.com/shop/item.aspx?itemid=1084" target="\_blank">Buy on FurPlanet</a></li>
         <li><a href="https://www.amazon.com/dp/1948743094" target="\_blank">Buy on Amazon</a></li>
         <li><a href="https://www.barnesandnoble.com/w/restless-town-madison-scott-clary/1134807830?ean=9781948743099" target="\_blank">Buy at Barnes &amp; Noble</a></li>
+        <li><a href="https://www.kobo.com/us/en/ebook/restless-town" target="\_blank">Buy at Kobo</a></li>
         </ul>
     </div>
     <div class="third">
