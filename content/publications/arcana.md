@@ -8,7 +8,7 @@ ogimg: /assets/img/publications/arcana.jpg
 <img src="/assets/img/publications/arcana.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />
 
 <ul class="center-list">
-<li><a href="http://thurstonhowlpub.storenvy.com/collections/1587098-anthologies/products/22227398-arcana-a-tarot-anthology" target="\_blank"><strong>Purchase from the publisher</strong></a></li>
+<li><a href="http://boundtales.storenvy.com/products/28517333-arcana-a-tarot-anthology" target="\_blank"><strong>Purchase from the publisher</strong></a></li>
 <li><a href="https://baddogbooks.com/product/arcana/" target="\_blank">Purchase ebook from Bad Dog Books</a></li>
 <li><a href="https://www.amazon.com/dp/B078324NWL/" target="\_blank">Purchase from Amazon</a></li>
 </ul>

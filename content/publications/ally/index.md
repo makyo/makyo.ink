@@ -9,6 +9,9 @@ ogimg: /assets/img/publications/ally-front.jpg
 window.location.href = 'https://ally.id/book?pk_campaign=publications';
 </script>
 
+You can find the **ally** book at [**ally.id/book**](https://ally.id/book?pk_campaign=publications).
+
+<!--
 <img src="/assets/img/publications/ally-front.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />
 
 What if I tried to write a memoir?
@@ -50,4 +53,4 @@ Several sections focus on suicide, self-harm, rape, sexual content, and poor men
 
 -----
 
-* ISBN: 9781948743150
+* ISBN: 9781948743150 -->
