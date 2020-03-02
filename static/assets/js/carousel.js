@@ -1,35 +1,40 @@
 function switchTab(e) {
   e.preventDefault();
+  const tab = window.location.hash.substring(1);
 
   // Unselect currently selected item.
-  document
-    .querySelector('.carousel-entry.on').classList.remove('on');
+  try {
+    document
+      .querySelector('.carousel-entry.on').classList.remove('on');
+  } catch(e) {
+    // pass
+  }
 
   // Select the new item.
   document
-    .querySelector(`.carousel-entry.${window.location.hash.substring(1)}`)
+    .querySelector(`.carousel-entry.${tab}`)
     .classList.add('on');
 
   // In case of back button, in some edge cases, scroll the element into view.
-  document.body.scrollTo(0, 0);
   document.querySelector('.carousel').scrollTo(
-    document.querySelector(window.location.hash).offsetLeft, 0);
+    document.querySelector(`.carousel-item.${tab}`).offsetLeft, 0);
+  document.body.scrollTo(0, 0);
 }
 
 function load() {
+  // Add a listener for the location changing if window width supports it.
   if (window.innerWidth >= 960) {
-    // Add a listener for the location changing if window width supports it.
     window.addEventListener('popstate', switchTab);
+    document.querySelector('.carousel nav').style.display = 'block';
   } else {
     window.removeEventListener('popstate', switchTab);
+    document.querySelector('.carousel nav').style.display = 'none';
   }
 }
 
 // If we enter the page with a hash, select the current item.
 window.addEventListener('load', () => {
-  document.querySelector(`.carousel-entry.${window.location.hash.substring(1)}`)
-    .classList.add('on');
-  document.body.scrollTo(0, 0);
+  switchTab({preventDefault: () => {}});
   load();
 });
 window.addEventListener('resize', load);
