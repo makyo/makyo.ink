@@ -1,0 +1,126 @@
+.carousel {
+    display: block;
+    overflow-x: hidden;
+    width: 100%;
+
+    nav {
+        position: absolute;
+        height: 5rem;
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        z-index: 1000;
+
+        ul {
+            list-style-type: none;
+            border-bottom: 1px solid $dark-gray;
+
+            li {
+                display: inline-block;
+                margin: 0;
+                padding: 0.5rem 1rem;
+
+                &.on {
+                    background-color: $dark-gray;
+                }
+
+                a {
+                    text-decoration: none;
+                    font-size: 16pt;
+                }
+            }
+        }
+    }
+
+    main {
+        width: 100%;
+        margin-top: 5rem;
+
+        article {
+            display: flex;
+            vertical-align: top;
+            flex-direction: row;
+            width: 500%;
+            overflow: hidden;
+
+            section.carousel-item {
+                display: flex;
+                flex-grow: 1;
+                flex-basis: 20%;
+                transition: transform 300ms ease;
+
+                &#recent, &#publications {
+                    display: inline-block;
+                }
+
+                h2 {
+                    display: none;
+                }
+
+                .third {
+                    flex: 1 0 30%;
+                    padding: 0.5rem;
+                    min-width: 200px;
+                }
+
+                .half {
+                    flex: 1 0 45%;
+                    padding: 0.5rem;
+                    min-width: 200px;
+                }
+
+                .third, .half {
+                    ul {
+                        list-style-type: none;
+                        margin: 0;
+                        padding: 0;
+
+                        li {
+                            margin: 0;
+                            padding: 0.5rem 0;
+                        }
+                    }
+                }
+
+                .small {
+                    flex: 1 0 38%;
+                    padding: 0.5rem;
+                    min-width: 300px;
+                }
+
+                .large {
+                    flex: 1 0 61%;
+                    padding: 0.5rem;
+                    min-width: 300px;
+                }
+
+                .odd {
+                    background-color: rgba(255, 255, 255, 0.05);
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    .carousel main article {
+        display: block;
+        width: 100%;
+
+        section.carousel-item {
+            display: inline-block !important;
+            width: 100%;
+            flex: none !important;
+
+            h2 {
+                display: block !important;
+            }
+
+            & > div {
+                display: inline-block !important;
+                flex: none !important;
+            }
+        }
+    }
+}
