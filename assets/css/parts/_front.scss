@@ -104,22 +104,32 @@
 }
 
 @media only screen and (max-width: 960px) {
-    .carousel main article {
-        display: block;
-        width: 100%;
+    .carousel {
+        nav {
+            display: none;
+        }
 
-        section.carousel-item {
-            display: inline-block !important;
-            width: 100%;
-            flex: none !important;
+        main {
+            margin-top: 0rem;
+            
+            article {
+                display: block;
+                width: 100%;
 
-            h2 {
-                display: block !important;
-            }
+                section.carousel-item {
+                    display: inline-block !important;
+                    width: 100%;
+                    flex: none !important;
 
-            & > div {
-                display: inline-block !important;
-                flex: none !important;
+                    h2 {
+                        display: block !important;
+                    }
+
+                    & > div {
+                        display: inline-block !important;
+                        flex: none !important;
+                    }
+                }
             }
         }
     }
