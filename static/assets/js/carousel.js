@@ -25,18 +25,14 @@ function load() {
   // Add a listener for the location changing if window width supports it.
   if (window.innerWidth >= 960) {
     window.addEventListener('popstate', switchTab);
-    document.querySelector('.carousel nav').style.display = 'block';
   } else {
     window.removeEventListener('popstate', switchTab);
-    document.querySelector('.carousel nav').style.display = 'none';
   }
 }
 
 // If we enter the page with a hash, select the current item.
-window.addEventListener('load', () => {
-  switchTab({preventDefault: () => {}});
-  load();
-});
+switchTab({preventDefault: () => {}});
+load();
 window.addEventListener('resize', load);
 
 // If we enter the page with no hash, select home.
