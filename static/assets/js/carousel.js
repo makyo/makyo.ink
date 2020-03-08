@@ -30,12 +30,12 @@ function load() {
   }
 }
 
-// If we enter the page with a hash, select the current item.
-switchTab({preventDefault: () => {}});
-load();
-window.addEventListener('resize', load);
-
 // If we enter the page with no hash, select home.
 if (!window.location.hash) {
   history.pushState({}, '', '#home');
 }
+
+// If we enter the page with a hash, select the current item.
+switchTab({preventDefault: () => {}});
+load();
+window.addEventListener('resize', load);

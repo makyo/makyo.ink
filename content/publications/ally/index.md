@@ -33,7 +33,7 @@ Myself, I guess.
 <p style="text-align: center">
     <em>Coming June 2020!</em><br />
     <script src="https://gumroad.com/js/gumroad.js"></script>
-    <a class="gumroad-button" href="https://gum.co/VVjeW" target="\_blank">Pre-order paperback</a><br />
+    <a class="gumroad-button" href="https://makyo-ink.square.site/product/ally-preorder-/5" target="\_blank">Pre-order paperback</a><br />
 
     <
 </p>

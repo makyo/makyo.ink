@@ -8,6 +8,7 @@ ogimg: /assets/img/publications/arcana.jpg
 <img src="/assets/img/publications/arcana.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />
 
 <ul class="center-list">
+<li><a href="https://makyo-ink.square.site/product/arcana-a-tarot-anthology/4" target="\_blank">Purchase direct</a><br><em>All copies ordered direct are signed!</em></li>
 <li><a href="http://boundtales.storenvy.com/products/28517333-arcana-a-tarot-anthology" target="\_blank"><strong>Purchase from the publisher</strong></a></li>
 <li><a href="https://baddogbooks.com/product/arcana/" target="\_blank">Purchase ebook from Bad Dog Books</a></li>
 <li><a href="https://www.amazon.com/dp/B078324NWL/" target="\_blank">Purchase from Amazon</a></li>
@@ -57,3 +58,7 @@ Included in this anthology are twenty-two works of furry fiction by authors with
 </ol>
 
 <div style="text-align: center"><strong><a href="https://www.goodreads.com/book/show/37368441-arcana">Rate on Goodreads</a></strong></div>
+
+-----
+
+* Print ISBN: 978-1-945247-26-2

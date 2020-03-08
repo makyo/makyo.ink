@@ -9,8 +9,8 @@ ogimg: /assets/img/publications/rum-and-coke.jpg
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
 <ul class="center-list">
+<li><a class="gumroad-button" href="https://makyo-ink.square.site/product/rum-and-coke-three-short-stories-from-a-furry-convention/2" target="\_blank">Purchase paperback</a><br /><em>All copies ordered direct are signed!</em></li>
 <li><a class="gumroad-button" href="https://gum.co/rnc-furry-ebook" target="\_blank">Purchase  ebook</a></li>
-<li><a class="gumroad-button" href="https://gum.co/rnc-furry-print" target="\_blank">Purchase paperback</a></li>
 <li><a href="https://www.amazon.com/dp/B0160RTUWK" target="\_blank">Purchase on Amazon</a></li>
 </ul>
 
@@ -25,3 +25,7 @@ Much ink has been spent following the exploits of our furry characters, but some
 These three short pieces of erotica explore the unique aspects of romance and sex within the furry fandom, focusing on queer stories and highlighting the complexities of meeting up for the first time, or at least the first time in many years.
 
 <div style="text-align: center"><strong><a href="https://www.goodreads.com/book/show/30368614-rum-and-coke">Rate on Goodreads</a></strong></div>
+
+-----
+
+* Print ISBN: 978-1-948743-11-2

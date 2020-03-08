@@ -58,31 +58,6 @@
                     display: none;
                 }
 
-                .third {
-                    flex: 1 0 30%;
-                    padding: 0.5rem;
-                    min-width: 200px;
-                }
-
-                .half {
-                    flex: 1 0 45%;
-                    padding: 0.5rem;
-                    min-width: 200px;
-                }
-
-                .third, .half {
-                    ul {
-                        list-style-type: none;
-                        margin: 0;
-                        padding: 0;
-
-                        li {
-                            margin: 0;
-                            padding: 0.5rem 0;
-                        }
-                    }
-                }
-
                 .small {
                     flex: 1 0 38%;
                     padding: 0.5rem;
@@ -103,6 +78,37 @@
     }
 }
 
+// There's gotta be a better way to do this...
+.front-flex, section.carousel-item {
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 20%;
+    .third {
+        flex: 1 0 30%;
+        padding: 0.5rem;
+        min-width: 200px;
+    }
+
+    .half {
+        flex: 1 0 45%;
+        padding: 0.5rem;
+        min-width: 200px;
+    }
+
+    .third, .half {
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+
+            li {
+                margin: 0;
+                padding: 0.5rem 0;
+            }
+        }
+    }
+}
+
 @media only screen and (max-width: 960px) {
     .carousel {
         nav {
@@ -111,7 +117,7 @@
 
         main {
             margin-top: 0rem;
-            
+
             article {
                 display: block;
                 width: 100%;
