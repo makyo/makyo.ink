@@ -25,15 +25,15 @@ Ey set aside eir work --- a simple bit of nothing for a blogging organization th
 
 -----
 
-Ioan Balan#{{ page.instance }} was forked on suggestion of one of Ioan#tracker's friends as a way to inspect and experience life among a flashcult. Although the lifespan of the group was likely to be measured in months, or even weeks, Ioan figured it was a worthwhile investigation. Ey had an investigative journalism gig that could use a story like this.
+Ioan Balan#5f39bd7 was forked on suggestion of one of Ioan#tracker's friends as a way to inspect and experience life among a flashcult. Although the lifespan of the group was likely to be measured in months, or even weeks, Ioan figured it was a worthwhile investigation. Ey had an investigative journalism gig that could use a story like this.
 
 The forking had gone quite according to plan. Ioan#tracker had no reason to expect otherwise, of course, and when the instance was rendered in front of em, the two shared a perfunctory handshake and went over notes one last time before the instance headed out to catch transit to as close to the flashcult as ey could get.
 
-\#{{ page.instance }} took little time to settle into life among the cultists. Ioan was affable, likable. It was part of why ey had found the work of an investigative journalist easy, and why ey had quickly gone from low to high reputation in the field. The problem ey kept running into was boredom, rather than burning out.
+\#5f39bd7 took little time to settle into life among the cultists. Ioan was affable, likable. It was part of why ey had found the work of an investigative journalist easy, and why ey had quickly gone from low to high reputation in the field. The problem ey kept running into was boredom, rather than burning out.
 
 -----
 
-Ioan#tracker was left feeling let down, as ey perused what ey had been left of #{{ page.instance }}'s state. Ey used a fairly standard, off-the-shelf algorithm to cut down on the sheer amount of state ey would have to sift through to gain something from the instance's brief --- ey checked the date --- three weeks, two days of existance. It was enough to gain most of the knowledge and a good portion of the emotional and intellectual slices from the state, which was all ey needed for eir work. A full merge would've taken too long, and may have even been counterproductive: ey needed an amanuensis, not a recording device, for eir reporting.
+Ioan#tracker was left feeling let down, as ey perused what ey had been left of #5f39bd7's state. Ey used a fairly standard, off-the-shelf algorithm to cut down on the sheer amount of state ey would have to sift through to gain something from the instance's brief --- ey checked the date --- three weeks, two days of existance. It was enough to gain most of the knowledge and a good portion of the emotional and intellectual slices from the state, which was all ey needed for eir work. A full merge would've taken too long, and may have even been counterproductive: ey needed an amanuensis, not a recording device, for eir reporting.
 
 The 'assignment', such as it was, had been fairly straightforward, and Ioan#tracker had expected little of interest from the state dump. The flashcult was strange, but not too out of the ordinary, so ey sped up eir perusal, skimming.
 
@@ -47,7 +47,7 @@ Ioan#tracker sat up straighter, brow furrowed. Ey skipped back through a few chu
 
 -----
 
-The flashcult was strange, but not too out of the ordinary. Ioan#{{ page.instance }}, with no journalistic duties, found eirself getting into the swing of things with ease.
+The flashcult was strange, but not too out of the ordinary. Ioan#5f39bd7, with no journalistic duties, found eirself getting into the swing of things with ease.
 
 It was a sort of weird vacation, performing weird rituals that slowly began to make a weird sort of sense, knowing that at some weird moment, ey would either get too bored and quit or receive a SIGTERM. When ey caught the signal, ey would either have have to acquiesce and quit right then, find a place to step aside and quit, or risk crashing. But mostly lots of loafing around.
 
@@ -57,7 +57,7 @@ It was during one of the rituals --- a call-and-response prayer wherein the memb
 
 Then she turned to em, grinned beatifically, and winked.  Winked!
 
-Ioan#{{ page.instance }} watched her raise her hand and call the ceremony to a halt, saying almost dreamily, "I found them."
+Ioan#5f39bd7 watched her raise her hand and call the ceremony to a halt, saying almost dreamily, "I found them."
 
 Faced turned toward em, all smiling that same, kind, peaceful smile.  Ey sat dumbly, looking from face to face.  "I...yes?" ey managed.
 
@@ -65,9 +65,9 @@ Faced turned toward em, all smiling that same, kind, peaceful smile.  Ey sat dum
 
 Another added, "The reporter. You're the reporter."
 
-There was a thrill of fear that ran up #{{ page.instance }}'s spine. It had never been a strictly undercover operation, but neither had ey been forthcoming about why ey were there in the first place.
+There was a thrill of fear that ran up #5f39bd7's spine. It had never been a strictly undercover operation, but neither had ey been forthcoming about why ey were there in the first place.
 
-Ioan#{{ page.instance }} lifted eir hands from eir lap, palms up in a placating fashion. "Well," ey began. "I am a reporter, no denying, but I'm not here on offic-*urk!*"
+Ioan#5f39bd7 lifted eir hands from eir lap, palms up in a placating fashion. "Well," ey began. "I am a reporter, no denying, but I'm not here on offic-*urk!*"
 
 There was a sharp blow to the back of eir neck, knocking em flat to the ground, then a weight settling solidly onto eir back. One of the other members had sat on em.
 
@@ -75,11 +75,11 @@ There was a sharp blow to the back of eir neck, knocking em flat to the ground, 
 
 "Three weeks and a day, getting better," another grinned, and others soon chimed in, reaching in to shake hands with the young woman who had originally pointed em out.
 
-Ioan#{{ page.instance }} picked out the face of the lector in the crowd, an older person of indeterminate sex who had always struck em as rather vacuous. It was a difficult task, from eir viewpoint on the ground, and since all the adherents wore identical clothing, there were few clues.
+Ioan#5f39bd7 picked out the face of the lector in the crowd, an older person of indeterminate sex who had always struck em as rather vacuous. It was a difficult task, from eir viewpoint on the ground, and since all the adherents wore identical clothing, there were few clues.
 
 "This is the tenth iteration. As we discussed before you arrived, we'll tell you, now."
 
-The fear continued to well within #{{ page.instance }}, growing in intensity.
+The fear continued to well within #5f39bd7, growing in intensity.
 
 -----
 
@@ -91,21 +91,21 @@ Ey closed eir eyes, and let memories wash over em.
 
 -----
 
-The fear continued to well within #{{ page.instance }}, growing in intensity.
+The fear continued to well within #5f39bd7, growing in intensity.
 
-"We're practicing, you see." The lector paced a slow circle around Ioan#{{ page.instance }} as they went on. "We start something interesting, wait for a reporter, and find them out. That's what we're practicing. Finding out who's watching, who's the reporter."
+"We're practicing, you see." The lector paced a slow circle around Ioan#5f39bd7 as they went on. "We start something interesting, wait for a reporter, and find them out. That's what we're practicing. Finding out who's watching, who's the reporter."
 
 Ana giggled once more, "It's a class, get it? An experiment, a dissection. You're the subject."
 
-The lector nodded and, having completed their circuit, leaned down to meet #{{ page.instance }}'s wide-eyed gaze. "And now we've got it reliably under a month. Time to make it known. What's your branch name?"
+The lector nodded and, having completed their circuit, leaned down to meet #5f39bd7's wide-eyed gaze. "And now we've got it reliably under a month. Time to make it known. What's your branch name?"
 
-"Ioan Balan#{{ page.instance }}," ey stuttered. "Bu-but why are you...what are...why are you doing this?"
+"Ioan Balan#5f39bd7," ey stuttered. "Bu-but why are you...what are...why are you doing this?"
 
 "We're looking for reliable ways to find out the reporters because," they paused, withdrawing a syringe from the billowy sleeve of their tunic. "Because some day we may not want to be seen."
 
 That wellspring of fear turned to a geyser.
 
-In the system, there was no real need for an actual syringe, so they had taken on a new, codified meaning of something that would modify an instance in some core fashion. Intent was thick in the air, so Ioan#{{ page.instance }} had no doubt that this was some sort of destructive virus.
+In the system, there was no real need for an actual syringe, so they had taken on a new, codified meaning of something that would modify an instance in some core fashion. Intent was thick in the air, so Ioan#5f39bd7 had no doubt that this was some sort of destructive virus.
 
 "Wait," ey gasped, finding eir breath coming in ragged, erratic bursts.
 
@@ -119,7 +119,7 @@ Ioan#tracker found eirself clutching at the arms of the deck chair, eir own brea
 
 What should ey do?
 
-A quick search showed ey couldn't turn over the instance. Little was actually 'recorded' in a useful fashion that any sort of authorities (such as there were) could use. The instances were eirs and eirs only. Ey certainly didn't want to confront the cultists, either as emself or through an instance. Ey didn't know how to change eir instances like some others did, so ey would just look like Ioan#{{ page.instance }} back from the dead.
+A quick search showed ey couldn't turn over the instance. Little was actually 'recorded' in a useful fashion that any sort of authorities (such as there were) could use. The instances were eirs and eirs only. Ey certainly didn't want to confront the cultists, either as emself or through an instance. Ey didn't know how to change eir instances like some others did, so ey would just look like Ioan#5f39bd7 back from the dead.
 
 Ey realized that all ey could really do was what ey knew how to do best.
 

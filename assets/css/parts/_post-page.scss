@@ -5,7 +5,7 @@
   padding: 0;
   margin: 0;
   height: 500px;
-  background-color: $darken-gray;
+  background-color: $i-lighttan; //$darken-gray;
   overflow: hidden;
 
   .cover-image {
@@ -20,7 +20,7 @@
   line-height: 1.75;
   margin-top: -5px;
   margin-bottom: 100px;
-  background-color: $darken-gray;
+  background-color: $i-lighttan; //$darken-gray;
   padding: 20px 50px;
   box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.1);
 
@@ -29,7 +29,7 @@
       font-family: 'Gentium Book Basic', serif !important;
   }
 
-  .invert & {
+  .invert & { // XXX
       background-color: $white;
       color: $black;
       box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
@@ -93,9 +93,9 @@
     font-size: 36px;
     text-align: center;
     margin: 0 0 20px;
-    color: $light-purple;
+    color: $i-darkbrown; //$light-purple;
 
-    .invert & {
+    .invert & { // XXX
         color: $dark-purple;
     }
   }
@@ -115,18 +115,18 @@
   margin-top: 30px;
   padding-bottom: 30px;
   padding-bottom: 30px;
-  border-bottom: 1px solid $dark-gray;
+  border-bottom: 1px solid $i-black; //$dark-gray;
   .page-tag,
   .page-share {
     text-transform: uppercase;
     font-size: 12px;
-    color: $light-purple;
+    color: $i-darkbrown; //$light-purple;
   }
   .page-tag {
     margin-bottom: 10px;
     a {
       text-decoration: none;
-      color: $light-pink;
+      color: $i-darkbrown; //$light-pink;
       &:hover {
         opacity: .8;
       }
@@ -137,7 +137,7 @@
     text-align: center;
     a {
       text-decoration: none;
-      color: $dark-gray;
+      color: $i-darkbrown; //$dark-gray;
       margin-left: 10px;
       font-size: 18px;
       &:hover {

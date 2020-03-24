@@ -14,7 +14,7 @@
 
         ul {
             list-style-type: none;
-            border-bottom: 1px solid $dark-gray;
+            border-bottom: 1px solid $i-darkbrown; //$dark-gray;
 
             li {
                 display: inline-block;
@@ -22,12 +22,17 @@
                 padding: 0.5rem 1rem;
 
                 &.on {
-                    background-color: $dark-gray;
+                    background-color: $i-darkbrown; //$dark-gray;
+
+                    a {
+                        color: $i-lighttan;
+                    }
                 }
 
                 a {
                     text-decoration: none;
                     font-size: 16pt;
+                    color: $i-darkbrown;
                 }
             }
         }
