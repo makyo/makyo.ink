@@ -24,4 +24,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-content {
     background-color: #16161d;
+    color: #ffffff;
+}
+
+a, h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+body {
+    background-color: #252525;
 }
