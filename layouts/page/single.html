@@ -9,6 +9,9 @@
         <div class="page-content">
             <div class="header-page">
                 <h1 class="page-title">{{ .Title | safeHTML }}</h1>
+                {{ with .Params.subtitle }}
+                <h2 class="page-title">{{.}}</h2>
+                {{ end }}
             </div>
             {{ .Content | safeHTML }}
             <div class="page-footer">
