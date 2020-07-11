@@ -20,9 +20,9 @@ html {
 
 body {
   font-family: 'Montserrat', sans-serif;
-  color: $i-black; //$white;
+  color: $darken-gray;
   margin: 0;
-  background-color: $i-lighttan;// $darken-gray;
+  background-color: $white;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
@@ -34,11 +34,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  color: $i-darkbrown;// $light-purple;
+  color: $dark-purple;
   font-weight: 400;
 
   .invert & { // XXX
-      color: $dark-purple;
+      color: $light-purple;
   }
 }
 
@@ -68,23 +68,23 @@ img {
 }
 
 a {
-  color: $i-darkbrown; //$light-pink;
+  color: $dark-pink;
 
   .invert & {
-    color: $dark-pink;
+    color: $light-pink;
   }
 }
 
 blockquote {
-  border-left: 3px solid $i-graytan; //$dark-gray;
+  border-left: 3px solid $light-gray;
   padding-left: 18px;
   margin-left: 21px;
   font-style: italic;
-  color: $i-darkbrown; //$lighten-gray;
+  color: $darken-gray;
 
   .invert & { // XXX
-      border-left-color: $dark-purple;
-      color: $dark-purple;
+      border-left-color: $light-purple;
+      color: $light-purple;
   }
 }
 

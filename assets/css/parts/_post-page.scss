@@ -5,7 +5,7 @@
   padding: 0;
   margin: 0;
   height: 500px;
-  background-color: $i-lighttan; //$darken-gray;
+  background-color: $white;
   overflow: hidden;
 
   .cover-image {
@@ -20,7 +20,7 @@
   line-height: 1.75;
   margin-top: -5px;
   margin-bottom: 100px;
-  background-color: $white; //$i-lighttan; //$darken-gray;
+  background-color: $white;
   padding: 20px 50px;
   box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.1);
 
@@ -37,8 +37,8 @@
 
   .with-image & {
       margin-top: -80px;
-      border-top-left-radius: 20px;
-      border-top-right-radius: 20px;
+      border-top-left-radius: 2px;
+      border-top-right-radius: 2px;
   }
 
   .cw {
@@ -92,10 +92,10 @@
     font-weight: 400;
     text-align: center;
     margin: 0 0 20px;
-    color: $i-darkbrown; //$light-purple;
+    color: $dark-purple;
 
     .invert & { // XXX
-        color: $dark-purple;
+        color: $light-purple;
     }
   }
   .page-meta {
@@ -114,18 +114,18 @@
   margin-top: 30px;
   padding-bottom: 30px;
   padding-bottom: 30px;
-  border-bottom: 1px solid $i-black; //$dark-gray;
+  border-bottom: 1px solid $lighten-gray;
   .page-tag,
   .page-share {
     text-transform: uppercase;
     font-size: 12px;
-    color: $i-darkbrown; //$light-purple;
+    color: $light-purple;
   }
   .page-tag {
     margin-bottom: 10px;
     a {
       text-decoration: none;
-      color: $i-darkbrown; //$light-pink;
+      color: $light-pink;
       &:hover {
         opacity: .8;
       }
@@ -136,7 +136,7 @@
     text-align: center;
     a {
       text-decoration: none;
-      color: $i-darkbrown; //$dark-gray;
+      color: $dark-gray;
       margin-left: 10px;
       font-size: 18px;
       &:hover {

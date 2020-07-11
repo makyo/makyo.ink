@@ -14,7 +14,7 @@
 
         ul {
             list-style-type: none;
-            border-bottom: 1px solid $i-darkbrown; //$dark-gray;
+            border-bottom: 1px solid $dark-gray;
 
             li {
                 display: inline-block;
@@ -22,7 +22,7 @@
                 padding: 0.5rem 1rem;
 
                 &.on {
-                    background-color: $i-darkbrown; //$dark-gray;
+                    background-color: $dark-gray;
 
                     a {
                         color: $i-lighttan;
