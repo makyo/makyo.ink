@@ -3,6 +3,14 @@ title: Vespertine Voices
 type: page
 ---
 
+<style>
+div img {
+    display: block;
+    margin: 0 auto;
+}
+</style>
+<div><img src="/assets/img/vespertine.jpg" /></div>
+
 *Vespertine Voices* is a planned podcast for sharing thoughtful and evocative furry writing, read for you by Madison Scott-Clary. I'm currently building up an initial backlog of recordings, and plan on releasing episodes every two weeks.
 
 ## What am I looking for?
