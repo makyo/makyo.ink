@@ -28,7 +28,7 @@ Word-counts of 2,000--15,000 are welcome. If your story is longer than that, ple
 Please email me with the following information:
 
 * Your name and pronouns as you would like to be addressed.
-* A description of yourself for the introduction of the episode, including a link if you have one.
+* A description of yourself for the introduction of the episode, including a link to a twitter or website if you wish.
 * The title of the story.
 * The word count.
 * Whether or not the story should be marked as 18+.
