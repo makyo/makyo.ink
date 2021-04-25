@@ -1,10 +1,12 @@
 {{ define "main" }}
 <div class="content wrapper">
-{{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 6 }}
+<link rel="stylesheet" type="text/css" href="/css/pagination.css" />
+<h2>{{ .Title }}</h2>
+{{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 10 }}
 {{ if eq $paginator.PageNumber 1 }}
 {{ .Content }}
 {{ end }}
-<h2>Recent pieces</h2>
+{{ template "_internal/pagination.html" . }}
 <ol class="post-card-box clearfix">
     {{ range $paginator.Pages.ByPublishDate.Reverse }}
     <li>
@@ -25,7 +27,6 @@
     </li>
     {{ end }}
 </ol>
-<link rel="stylesheet" type="text/css" href="/css/pagination.css" />
 {{ template "_internal/pagination.html" . }}
 </div>
 {{ end }}

@@ -9,30 +9,16 @@ ul.pagination {
 
 ul.pagination li {
     display: inline-block;
-    border: 1px solid $dark-gray;
     min-width: 2rem;
     text-align: center;
-    margin-right: -5px;
-}
-
-ul.pagination li:last-of-type {
-    border-top-right-radius: 2px;
-    border-bottom-right-radius: 2px;
-}
-
-ul.pagination li:first-of-type {
-    border-top-left-radius: 2px;
-    border-bottom-left-radius: 2px;
 }
 
 ul.pagination .page-item.disabled a {
     color: #666;
-    border: none;
     cursor: text;
 }
 
 ul.pagination .page-item.active a {
     text-decoration: none;
-    border: none;
     cursor: text;
 }

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Short Story
 - ARG

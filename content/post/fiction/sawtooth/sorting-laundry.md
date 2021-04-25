@@ -1,7 +1,7 @@
 ---
 author: Madison Scott-Clary
 categories:
-- Flash fiction
+- Flash Fiction
 series: Sawtooth
 ratings: G
 date: 2017-02-11
