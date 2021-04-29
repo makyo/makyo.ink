@@ -11,7 +11,7 @@ type: post
 tags:
 - Furry
 - Magic
-title: 'Vignette: Acts of Intent'
+title: 'Acts of Intent'
 ---
 
 > *Lines and curves, lines and curves. Beginning now.*
