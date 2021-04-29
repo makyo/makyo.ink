@@ -1,6 +1,7 @@
 ---
 type: post
 title: Every Angel is terrifying
+series: Sawtooth
 description: Derek MacIver struggles to hold his life together through the ups and downs of bipolar disorder.
 date: 2019-05-21
 categories:
