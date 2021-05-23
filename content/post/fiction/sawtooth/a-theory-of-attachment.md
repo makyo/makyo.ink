@@ -16,6 +16,7 @@ tags:
 - Sexuality
 - Mental Health
 title: A Theory of Attachment
+cw: Mental health (panic attack, OCD), sex scene, mention of abuse
 ---
 
 A cool, pale blue lightness sitting just behind her sternum, Sélène made what she promised herself would be a quick pass through the kitchen

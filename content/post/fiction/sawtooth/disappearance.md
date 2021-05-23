@@ -13,6 +13,7 @@ tags:
 - Romance
 - Sexuality
 title: Disappearance
+cw: Mental health (panic attack), sex scene
 ---
 
 "This is going to sting."

@@ -14,6 +14,7 @@ tags:
 - Sexuality
 - Kink
 title: Centerpiece
+cw: Sex and nudity, kink (BDSM, fertility play, humiliation), bad negotiation
 ---
 
 

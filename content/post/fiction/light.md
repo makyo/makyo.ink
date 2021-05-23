@@ -10,6 +10,7 @@ tags:
 - Romance
 description: A very old piece of erotica. I was on my bullshit even back this long ago.
 ratings: X
+cw: Sex scene
 ---
 
 A kiss. Light, and only to the cheek. Yes, that's how it would start, I suppose. I'd settle in behind him, and crane my neck over his shoulder to give him a kiss on the cheek. Light. A touch. I wouldn't hold him tight, either. Not squeezing, at least not now. Just slide my arms loosely around him, above the paunch, below the breasts, the place where the arms just rest, adding to him lightly instead of pressing.

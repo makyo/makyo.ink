@@ -15,6 +15,7 @@ tags:
 - Mystery
 - Cult
 title: Assignment
+cw: Cults, death
 ---
 
 The feeling of an instance merging state back with the tracker would never NOT make Ioan Balan#tracker uneasy. It wasn't the differences in experiences, those could be anticipated, so much as the tiny changes in identity that resulted. Having to internalize a slightly different version of yourself was too close to experiencing a doppelg&auml;nger. Or perhaps hanging with a sib, fresh home from a semester abroad.

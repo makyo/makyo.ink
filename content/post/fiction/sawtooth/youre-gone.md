@@ -12,6 +12,7 @@ tags:
 - Furry
 - Death
 title: You're Gone
+cw: Death, mourning, mention of abuse
 ---
 
 <style>

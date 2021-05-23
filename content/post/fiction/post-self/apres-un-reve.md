@@ -13,6 +13,7 @@ tags:
 - Science fiction
 - Uploading
 title: "Apr\xE8s un r\xEAve"
+cw: Surgery, death
 ---
 
 > *Dans un sommeil que charmait ton image  

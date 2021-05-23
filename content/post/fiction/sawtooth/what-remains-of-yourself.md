@@ -15,6 +15,7 @@ tags:
 - Dubious consent
 - Drugs
 title: What Remains of Yourself
+cw: Drugging, dubious consent, prelude to a sex scene
 ---
 
 <div class="cw">Drugging, dubious consent.</div>

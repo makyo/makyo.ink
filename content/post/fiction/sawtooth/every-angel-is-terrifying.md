@@ -11,6 +11,7 @@ tags:
 - Suicide
 - Mental Health
 - Furry
+cw: Mental health (bipolar II, self-harm, suicidality - no graphic description), mention of sex scene
 ---
 
 I take the bus to the edge of Sawtooth, basically as close as I can get to the highway on local transit. Beyond here it’s all industrial. All warehouses and junkyards and hulking, silent buildings painted gray or beige, or not painted at all. Machine shops, garages, or simply anonymous buildings with rows of doors and loading docks. Beyond here, there is no living. It is a liminal space.

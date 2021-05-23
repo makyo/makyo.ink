@@ -14,6 +14,7 @@ tags:
 - Sexuality
 - Mental health
 title: Overclassification
+cw: Mental health (depression), sex scene
 ---
 
 "Some would say that the primary goal of folkloristics is one of anthropology, of understanding a culture's view of itself. I, naturally, disagree." Professor Haswell's voice droned on even in sleep, even these many years later. Dani hated it, hated these dreams. "Folkloristics works from the other direction. It constructs a semiotic niche out of so many *umwelten*..."

@@ -15,7 +15,9 @@ tags:
 - Mental health
 - Anxiety
 - Sexuality
+- Polaymory
 title: How Many?
+cw: Mental health (OCD, panic attack), sex scene
 ---
 
 "Oh for pete's sake, quit fretting," Andrew chided, bumping his elbow against Ian's as they crowded into the too-narrow seats. Neither of them were all that skinny anymore, and Andrew was bordering on fat, to Ian's stocky.

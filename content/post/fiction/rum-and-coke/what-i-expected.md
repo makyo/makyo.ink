@@ -15,6 +15,7 @@ tags:
 - Gender
 - Sexuality
 title: What I Expected
+cw: Transphobia, sex scene
 ---
 
 Painting their nails had always calmed Sascha down. The simple act of dragging a brush slowly and carefully, following along the contours of the curved nails in smooth strokes, moving deliberately so as not to bump those nails already painted. The whole act seemed to be almost a meditation, calming to the core.

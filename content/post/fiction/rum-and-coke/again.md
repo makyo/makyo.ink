@@ -16,6 +16,7 @@ tags:
 - Kink
 - Sexuality
 title: Again
+cw: Kink (BDSM, altered states), sex scene
 ---
 
 Michael woke blearily to the sounds of muffled giggling, rubbing the sleep from his eyes and lifting his head off the pillow.  He couldn't quite make out what was going on in the bed next to his own, but it appeared to be quite fun, or at least funny.

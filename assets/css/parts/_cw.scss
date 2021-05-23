@@ -1,0 +1,14 @@
+.content-warning {
+    border-left: 5px dotted rgb(211, 123, 152);
+    border-right: 5px dotted rgb(211, 123, 152);
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+
+    &::before {
+        content: "⚠    ";
+        font-size: 20pt;
+        font-weight: bold;
+        color: rgb(211, 123, 152);
+    }
+}
