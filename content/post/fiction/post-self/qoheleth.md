@@ -16,9 +16,9 @@ tags:
 title: Qoheleth
 ---
 
-This is Qoheleth in its entirety. During the process of running Qoheleth, each chapter was reveiled as a step of a puzzle that readers had to solve. There is more to this than is exposed here, but is primarily of a technical nature. For information on that, please see [the repository](https://github.com/makyo/qoheleth).
+This is the original short story Qoheleth in its entirety, which took place as an ARG. During the process of running Qoheleth, each chapter was reveiled as a step of a puzzle that readers had to solve. There is more to this than is exposed here, but is primarily of a technical nature. For information on that, please see [the repository](https://github.com/makyo/qoheleth).
 
-The original post on [Post-Self](http://post-self.io) is available [here](http://post-self.io/entry/qoheleth)
+This version is quite old, and the story was expanded and repurposed into a novel by the same name, which you can find [here](https://qoheleth.makyo.ink).
 
 -----
 
