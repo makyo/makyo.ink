@@ -7,7 +7,7 @@ ratings: R
 date: 2021-06-14
 description: Sim and Ursula, two small time crooks, yearn for the straight life, each in their own way.
 type: post
-img:flag.svg
+img: flag.svg
 tags:
 - Furry
 - Crime
