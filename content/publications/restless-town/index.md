@@ -73,6 +73,8 @@ Many stories contain frank descriptions of sensuality and sexuality; *Centerpiec
 >
 > -- Anon.
 
+<!-- [Southpaws Podcast](https://www.podbean.com/media/share/pb-tcfzc-c91925) 1:18:25 -->
+
 ### Reviews
 
 > It seems strange to call a book 'gentle' when it comes with content warnings, but this collection earns the title with a series of introspective pieces in which thoughts and feelings are slowly and carefully explored.
