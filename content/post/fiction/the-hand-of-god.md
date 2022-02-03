@@ -175,18 +175,3 @@ And she felt growth accelerate as, bound now to the earth, her bones became wood
 And when the physicist awoke, he was the first to notice the botanist was gone. 
 
 And when the psychologist awoke, she was the first to notice the new tree, where ferns fingered the air and fronds like hands reached out to touch them.
-
-## The physicist
-
-Breathe.
-
-*Breathe.*
-
-"Come on."
-
-Hands clutched soil.
-Grasped for purchase, for solidity.
-Anything to help keep him anchored to reality.
-*Pin me to perception - or perception to me,* he begged air gone thrawn.
-
-His cries, nonverbal, were nonetheless beat back by some unseen force, some will bent on countering his own with mindless determination.
