@@ -13,13 +13,13 @@ tags:
 
 I quickly grow tired of my own footfalls. Those same padded feet hitting that same hard-packed path. Those same claws leaving those same indentations in the same dirt, that dirt that lies halfway between mud and stone. Was that the same stone? It must have been. There, beside it, those four dents in the earth, perfectly space for my own claws.
 
-I quickly grow tired of the same path, the same aspen leaves littering the ground, the same gnarled pine roots anchoring trees to earth. I grow tired of the scent of of slowly decaying pine needles in the air, and I grow tired of the burning in my eyes from having spent so long crying.
+I quickly grow tired of the same path, the same aspen leaves littering the ground, the same gnarled pine roots anchoring trees to earth. I grow tired of the scent of slowly decaying pine needles in the air, and I grow tired of the burning in my eyes from having spent so long crying.
 
 *Don't look up,* the sign had said, there, nailed to the tree just past the branching of paths.
 
 It had to have been a joke. It just had to be, right? Don't look up, right? In October of all months. Here, of all places, where pines mingle with aspen, halfway up a mountain whose name I no longer remember. It had to be a joke. It *had* to be. *It had to be.*
 
-No matter how much I say this to herself, how much I taste those words rolling along my tongue before being gated once more by sharp teeth, it was not. It couldn't be, could it? It couldn't be a joke.
+No matter how much I say this to myself, how much I taste those words rolling along my tongue before being gated once more by sharp teeth, it was not. It couldn't be, could it? It couldn't be a joke.
 
 I had read the sign, and had immediately fallen down into the space defined by that dichotomy, the gap between had-to-be and could-not-be. Dichotomy? Dialectic? There was no telling anymore, no matter how many times I'd tried to paste one word or the other onto the two phrases. Were 'dichotomy' and 'dialectic' a dichotomy or dialectic? Were my paws? My feet?
 
@@ -43,7 +43,7 @@ No, I look like a ghost. I look like one of those hollow, empty folk who has die
 
 Beyond that, there are signs. There is, for instance, the way that others out on their hikes steer around me without acknowledging me. It's deeper than that implies. It's not just that they walk around me without saying hi, but that they are unable to acknowledge me. They'll stumble, perhaps, claws skittering across a rounded stone or caught in a winding rootlet, and they'll lurch to the side such that they don't even bump against me. Or maybe a couple, walking side by side, will suddenly straighten out into single file as one falls ever so slightly behind. Or, and this is the most common, something out in the woods, something far more real than I, will catch their attention and they'll turn to look, ears perking, back straightening, and always they'll turn away from me. Some whim or breeze or subconscious twitch of muscle making their tails swish this way or that so that I don't brush up against them.
 
-Or, consider the fact that I don't know how many days I've been out here. I have have been walking for at least two, because I remember, whether or not it was dark, the glint of moon on some foot-polished root-knuckle, the way it differed in its silvering than that of the sun. How many times had I seen that root-knuckle, though? Dozens, perhaps. I can't look up into the sky to check the hours, nor look around me to check if I'm walking in circles (I must be, right?), so I just don't know. Time, as well as language, has lost all meaning to me.
+Or, consider the fact that I don't know how many days I've been out here. I  have been walking for at least two, because I remember, whether or not it was dark, the glint of moon on some foot-polished root-knuckle, the way it differed in its silvering than that of the sun. How many times had I seen that root-knuckle, though? Dozens, perhaps. I can't look up into the sky to check the hours, nor look around me to check if I'm walking in circles (I must be, right?), so I just don't know. Time, as well as language, has lost all meaning to me.
 
 And food? Water? I had brought with me a bit of jerky and a water bottle. Surely that would be enough for a two-hour hike, right?  Ten kilometers? The weather was cool, my coat is thick, my shirt is light. I wouldn't need any more than a few calories along the way and a half liter of water.
 
@@ -75,7 +75,7 @@ I am haunting these trails, these woods. That, too, is evidence. I am the fox wh
 
 And now, I realize, my feet no longer touch the ground. That is the final evidence. My claws no longer dent the dirt that is half mud, half stone. My pads crunch against some more numinous trail now, something less tangible and more real than the anchoring earth below.
 
-I am inches off the ground, now. How long until I am feet off the ground? How long until, as I perpetually look down to the dirt and rocks and roots, I am able to measure my distance to the ground in multiples of me? How long until I, too, walk at the level of the treetops?
+I am inches off the ground now. How long until I am feet off the ground? How long until, as I perpetually look down to the dirt and rocks and roots, I am able to measure my distance to the ground in multiples of me? How long until I, too, walk at the level of the treetops?
 
 Why bother thinking about this, though? Why try and understand? What is there to do about it but wait until some poor fool looks up to the heavens and sees a lonely ghost, meets my eyes, and lets me weep in pain and relief and pity?
 
