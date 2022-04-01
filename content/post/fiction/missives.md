@@ -206,15 +206,15 @@ I must offer my immediate and unconditional apology for any slight or dissatisfa
 
 I will expect no reply in return, but let my poor words stand in place of any further deed that I may do to you and your family. But by your request, you shall not hear from this repentant soul again.
 
-> A rose, single, now blooming
->  &nbsp;  &nbsp; may indeed bless the stem,
-> yet are not roses clipp'd and shown?
->  &nbsp;  &nbsp; Undoubted 'tis a blessing to them
-> who receive such a gift!
->  &nbsp;  &nbsp; Yet now unmade is the flow'r
-> which adorns thy mantle with its grace,
->  &nbsp;  &nbsp; and withers, however slowly, by the hour
->  &nbsp;  &nbsp;  &nbsp;  &nbsp; until 'tis faded to nothing and dust,
+> A rose, single, now blooming  
+>  &nbsp;  &nbsp; may indeed bless the stem,  
+> yet are not roses clipp'd and shown?  
+>  &nbsp;  &nbsp; Undoubted 'tis a blessing to them  
+> who receive such a gift!  
+>  &nbsp;  &nbsp; Yet now unmade is the flow'r  
+> which adorns thy mantle with its grace,  
+>  &nbsp;  &nbsp; and withers, however slowly, by the hour  
+>  &nbsp;  &nbsp;  &nbsp;  &nbsp; until 'tis faded to nothing and dust,  
 >  &nbsp;  &nbsp;  &nbsp;  &nbsp; though some scent remain forever amidst the must.
 
 I take well the meaning of your letter and the final gift of flowers within.
