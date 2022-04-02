@@ -49,7 +49,7 @@ Thus it was that I had to depart in haste, though I found our time together so e
 
 Though you declined to quote any of your favorite verse during our stroll through the garden, I hope that you do not mind the wandering words of your companion. A coyote finds much on his mind, surrounded by by books. Books! And yet there I was, enjoying a walk above all else.
 
-I've distracted myself, though. You mention the gloxinia, and I too think that such are quite the sight to behold. I don't believe that it was the type of blossom to be seen by any who had passed by, so a fox's gaze must be singularly acute. I will not hesitate to say that I think such flowers beautiful, as well:.
+I've distracted myself, though. You mention the gloxinia, and I too think that such are quite the sight to behold. I don't believe that it was the type of blossom to be seen by any who had passed by, so a fox's gaze must be singularly acute. I will not hesitate to say that I think such flowers beautiful, as well.
 
 How telling it is the things that we find pleasing to the eye!
 
