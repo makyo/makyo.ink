@@ -15,12 +15,6 @@ title: Growth
 ogimg: /assets/img/growth.jpg
 ---
 
-![Growth](/assets/img/growth.jpg)
-
-<small>"Growth" by <a href="https://www.patreon.com/Cadmiumtea">Julian Norwood</a></small>
-
------
-
 <pre class="verse">
 Used to be you and I daily would walk
 through the fields out back of the house and talk
@@ -172,3 +166,7 @@ Now, it's just me, alone, quiet, thinking
 of you by the shore, forever drinking
 of sweet water.
 </pre>
+
+![Growth](/assets/img/growth.jpg)
+
+<small>"Growth" by <a href="https://www.patreon.com/Cadmiumtea">Julian Norwood</a></small>
