@@ -367,7 +367,7 @@ A slow minute passes as the fisher meditates. At last, he opens his eyes and loo
 
 -----
 
-When Zita comes up from the village, bearing an armload of flatbread and a small basket full of spice cakes for Lyut, he had since ceased his conversation with Týw and had ceased meditating by laying on the ground, and had instead settled for sitting cross-legged in the entrance to his cave looking out. Zita sang as she walked, as she had for the last ten festival weeks that this had been her duty, and so Lyut hears her before he saw her.
+When Zita comes up from the village, bearing an armload of flatbread and a small basket full of spice cakes for Lyut, he had since ceased his conversation with me and had ceased meditating by laying on the ground, and had instead settled for sitting cross-legged in the entrance to his cave looking out. Zita sang as she walked, as she had for the last ten festival weeks that this had been her duty, and so Lyut hears her before he saw her.
 
 He debates for thirty heartbeats whether or not he is willing to keep his eyes open for her arrival. He debates whether or not he is willing to see, to perceive someone with senses other than those he had been born with.
 
@@ -427,7 +427,7 @@ Lyut lets his shoulders relax from a tenseness he had not known he was holding, 
 
 She bites into her cake and chews, her eyes focusing seemingly on nothing. Lyut can hardly read her expression, so new is his sight, so he remains silent. She swallows her cake and says: "I think that you are as holy now as you were at the beginning of the time of fasting. You have kept holy as have those who came before you, and the village has kept holy, and perhaps the whole world has kept holy, and now Ýng has provided for us a new thing."
 
-Lyut eats his spice cake and thinks on this. He thinks about what I had told him. He thinks about the shock of sight, still so new to him that the brightness and colors in the world sting his eyes and bring him to tears. He thinks of the newness in things that have always been there. He thinks of how overwhelmed he is by this mere fact, and he thinks about how small he is before Týw and smaller still before his lord.
+Lyut eats his spice cake and thinks on this. He thinks about what I had told him. He thinks about the shock of sight, still so new to him that the brightness and colors in the world sting his eyes and bring him to tears. He thinks of the newness in things that have always been there. He thinks of how overwhelmed he is by this mere fact, and he thinks about how small he is before me and smaller still before his lord.
 
 He thinks about how small he is and realizes that his devotion burns more strongly within him than it had ever before. And, though he does not know or understand my motives, he knows that any servant, that *every* servant of Ýng's is master of him, for the most holy are truly the servants of servants.
 
