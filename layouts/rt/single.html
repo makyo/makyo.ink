@@ -7,7 +7,6 @@
         {{ $title = .Site.Title }}
     {{ end }}
     <title>{{ $title }}</title>
-    {{ .Hugo.Generator }}
     <link rel="canonical" href="{{ .Permalink }}">
     {{ if .IsHome }}
         {{ with .Site.Params.homeMetaContent }}
