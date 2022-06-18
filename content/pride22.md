@@ -2,7 +2,7 @@
 title: Pride Month sale 2022!
 ---
 
-Hey! It's pride! Happy pride! Please enjoy some sales --- 10% off everything!
+Hey! It's pride! Happy pride! Please enjoy some sales --- 10% off paperbacks and 50% off ebooks!
 
 * Ebooks: <https://makyo.itch.io/pride22>
 * Paperbacks: <https://makyo-ink.square.site?cc=pride22>
