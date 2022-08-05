@@ -24,7 +24,7 @@ With topics ranging from gender to mental health, flower language to dogs, these
     <div class="third">
         <h3>Ebook (PDF)</h3>
         <ul>
-        <li><a class="gumroad-button" href="https://gum.co/eigengrau-pdf" target="\_blank">Buy Direct</a></li>
+        <li><a class="gumroad-button" href="https://makyo.itch.io/eigengrau" target="\_blank">Buy Direct</a></li>
         </ul>
     </div>
     <div class="third">
