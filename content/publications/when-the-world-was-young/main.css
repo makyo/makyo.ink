@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+h1, h2, h3, h4, h5, h6, h1.page-title {
+    font-family: 'Reggae One';
+}
+table {
+    margin: auto;
+}
+table td {
+    padding: 0.25rem 0.5rem;
+}
+tr td:nth-child(1) {
+    text-align: right;
+}
+p strong {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+}

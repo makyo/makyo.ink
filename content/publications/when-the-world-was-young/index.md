@@ -1,27 +1,10 @@
 ---
 title: When the World Was Young — A Prehistoric Anthology
 type: page
+extracss: /publications/when-the-world-was-young/main.css
 ---
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Reggae One';
-}
-table {
-    margin: auto;
-}
-table td {
-    padding: 0.25rem 0.5rem;
-}
-tr td:nth-child(1) {
-    text-align: right;
-}
-p strong {
-    display: block;
-    text-align: center;
-    text-indent: 0;
-}
 </style>
 
 The invention of writing postdates, invariably, the invention of storytelling. After all, what purpose is there be to writing, until you have something to write down?
