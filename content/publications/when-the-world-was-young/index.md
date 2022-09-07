@@ -6,7 +6,7 @@ extracss: /publications/when-the-world-was-young/main.css
 
 ## A Prehistoric Anthology
 
-The invention of writing postdates, invariably, the invention of storytelling. After all, what purpose is there be to writing, until you have something to write down?
+The invention of writing postdates, invariably, the invention of storytelling. After all, what purpose is there to writing, until you have something to write down?
 
 Excavate these writings, then. Decipher them carefully. Let them, at last, convince you to forget writing until instead they sit across the fire, speaking to you oral traditions, folktales, and of days long, long past *When the World Was Young*.
 
