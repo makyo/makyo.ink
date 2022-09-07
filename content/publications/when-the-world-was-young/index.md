@@ -10,6 +10,8 @@ The invention of writing postdates, invariably, the invention of storytelling. A
 
 Excavate these writings, then. Decipher them carefully. Let them, at last, convince you to forget writing until instead they sit across the fire, speaking to you oral traditions, folktales, and of days long, long past *When the World Was Young*.
 
+Proceeds will be donated to [First Nations Repatriation Institute](https://www.wearecominghome.org/) and [Indigenous Roots & Reparation Foundation](https://www.indigenousrrf.org/).
+
 -----
 
 **Coming December 1, 2022, available at Midwest FurFest!**
