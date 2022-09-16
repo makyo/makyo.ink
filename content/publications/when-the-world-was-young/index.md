@@ -43,7 +43,7 @@ Proceeds will be donated to [First Nations Repatriation Institute](https://www.w
    |   
 ---|---
 **J.S. Hawthorne** | "The Last Giant"
-**Huldra** | "Unmourned"
+**Haya Baru** | "Unmourned"
 **Pascal Farful** | "Requiem"
 **Casimir Laski** | "Mark of the Stranger"
 
