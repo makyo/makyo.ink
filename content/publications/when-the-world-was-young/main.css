@@ -19,3 +19,17 @@ p strong {
     text-align: center;
     text-indent: 0;
 }
+.buy {
+    text-align: center;
+    text-indent: 0;
+    margin-top: 0.5rem;
+}
+.buy a {
+    font-size: 14pt;
+    padding: 0.5rem;
+    background-color: #eee;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    box-shadow: 1px 1px 4px #222;
+    text-decoration: none;
+}
