@@ -1,6 +1,7 @@
 ---
 title: When the World Was Young
 type: page
+ogimg: /assets/img/publications/wtwwy-front.png
 extracss: /publications/when-the-world-was-young/main.css
 ---
 
