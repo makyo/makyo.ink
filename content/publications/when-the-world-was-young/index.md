@@ -32,7 +32,7 @@ Proceeds will be donated to [First Nations Repatriation Institute](https://www.w
 **Utunu** | "Lids"
 **Huskyteer** | "Worn-Out Tools"
 **J.F.R. Coates** | "Howling to the Moon"
-**NightEyes DaySpring** | "The Eyeshine of the Soothsayor"
+**NightEyes DaySpring** | "The Eyeshine of the Soothsayer"
 **Rose LaCroix** | "Daughter of Thunder or The Land of Many Deer"
 
 ### Bronze
