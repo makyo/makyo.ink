@@ -5,6 +5,8 @@ ogimg: /assets/img/publications/wtwwy-front.png
 extracss: /publications/when-the-world-was-young/main.css
 ---
 
+<script type="text/javascript">window.location.href = 'https://fhfs.ink/when-the-world-was-young';</script>
+
 ## A Prehistoric Anthology
 
 <img src="/assets/img/publications/wtwwy-front.png" style="margin: 0 auto; display: block; width: 500px; max-width: 100%; margin-bottom: 1rem;">
