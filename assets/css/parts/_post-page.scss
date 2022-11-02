@@ -41,6 +41,20 @@
       border-top-right-radius: 2px;
   }
 
+  #TableOfContents {
+      line-height: 1.2;
+      border: 1px solid #ccc;
+      width: max-content;
+      margin: 0 auto;
+
+      ul {
+          list-style-type: decimal;
+          &:first-child {
+              margin: 1rem;
+          }
+      }
+  }
+
   .cw {
       display: block;
       color: #300;

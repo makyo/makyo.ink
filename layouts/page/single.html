@@ -12,6 +12,9 @@
                 {{ with .Params.subtitle }}
                 <h2 class="page-title">{{.}}</h2>
                 {{ end }}
+                {{ if .Params.toc }}
+                {{ .TableOfContents }}
+                {{ end }}
             </div>
             {{ .Content | safeHTML }}
             <div class="page-footer">
