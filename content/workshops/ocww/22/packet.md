@@ -4,9 +4,44 @@ title: Oxfurred Comma Writing Workshop 2022 — MFA Packet
 toc: true
 ---
 
+<style>
+td {
+    border: 1px solid #ddd;
+    padding: 0.25rem;
+    vertical-align: top;
+}
+</style>
+
+In late October, I had the privilege of running a two day workshop for an online fandom writing convention, [Oxfurred Comma](https://oxfurredcomma.com). With the gracious support of the [Furry Writers' Guild](https://furrywritersguild.com) staff, I was able to run a critique-based workshop with three attendees, plus host two additional panels on the topics of mental health and plot structures.
+
 ## Preparations
 
+To prepare for the event, I discussed the possibility with the FWG staff, the FWG Telegram chat (open to members and non-members alike), and a loosely-related chat for [the Voice of Dog podcast](https://thevoice.dog), which releases audio versions of furry short fiction on a regular basis. Having the chance to talk through the possibility and some ideas for the workshop structure with others beforehand proved to be quite helpful, as my own experience with writing workshops was limited to fairly intensive ones --- [the Regional Anthropomorphic Writers' Retreat](https://rawr.community) and those that I've attended for school --- whereas it seemed like, given the limited schedule of a weekend, folks were interested in something with less overhead. I suspect that, had the convention been in person or run longer than two days, there would have been more interest in an intensive program. However, I'm happy with the way things worked out.
+
+The structure that I came up with was one focused on the art of giving and receiving critique. While I think a lot of people find use in editing and beta reads, I've found analysis and critique generally lacking within the furry fandom. We trade stories back and forth with some frequency, and the feedback we get rarely reaches the level of developmental edits. There's a lot of line/copy editing that happens, instead. I'm grateful for this, as I'm notoriously bad at such, myself, but one thing that I've been craving is feedback on how a story ticks, what makes it work or not for a reader, that sort of thing.
+
+To that end, I came up with a three-session workshop with the following structure:
+
+Before workshop | Friday evening | Saturday | Sunday | After workshop
+---|---|---|---|---
+Send participants' stories plus one additional story to the participants for them to begin the process of critiquing | Greetings, chat about critique and how the workshop will work, run through a group critique of the short story provided, provide a short (500-1,000 word) writing exercise as homework. | Critique the stories that each participant sent in, discuss how that felt, turn in writing exercises (evening). | Critique the short writing exercises to see how critique feels on a much earlier draft, discuss how the workshop went. | Fill out feedback forms.
+
+Due to the time limits provided by the convention the critique sessions would be run under a stricter format: each of the authors would receive critique from three people (myself plus the other two attendees), meaning that each person giving the critique would have approximately two minutes to provide their feedback. The author was to remain silent during this session --- a technique that I'm not totally sold on, but also one that keeps the workshop on track when it comes to time --- but would have a chance to respond to feedback afterwards. Additionally, I round-robin'd having authors summarize each others' stories without telling them who would be giving each summary, as I feel that a) having to give a summary provides a good sense of how well a story's structure works, and b) an element of randomness, which can be seen as kind of petty, does admittedly work on providing incentive to actually Doing The Thing™.
+
+I felt that this would allow for the following:
+
+* The ability to critique a piece by an outside author would give the participants a low-impact way to understand just how critique works and get into the rhythm of it without it being about any of their works in particular.
+* Having the participants submit stories ahead of time (the samples they submitted during the application process were used for the critique sessions) allowed them to select writing that they both felt was good enough that they were proud of, yet young enough that they might get something out of a critique.
+* Having a writing exercise with a strict time limit would allow the participants to give themselves permission to write something rough that they knew could use quite a bit of work through the workshopping process.
+* Critiquing work at multiple stages of completion would provide a broader understanding of what critique is and how it works.
+
+With all of this in mind, I drafted an application call and a few of the communications that would be sent throughout the process of the workshop. Having these lined up ahead of time made it easier for me to focus on offering my own critiques of the works and any moderation that was needed.
+
 ## Application and Applicants
+
+With all of this under my belt, I opened up applications for the Oxfurred Comma Writing Workshop. The application information was posted online and the link given both to the VoD and FWG Telegram groups. When applications lagged (I only received two, initially), I  extended the deadline and tweeted this out along with the help of a small fandom publisher, FurPlanet, and received two more applications.
+
+This was the application page's content:
 
 > Welcome to the Oxfurred Comma Writing Workshop! This is a place to learn from each other and writers around the world. In this course, 2--3 people will take part in two critique sessions and one writing assignment to learn more about the process of writing and critical reading. Pending FWG and applicants' responses, the Saturday and Sunday sessions will be presented as panels during Oxfurred Comma so that other attendees may view (though not participate in) the process of critiquing.
 > 
@@ -65,6 +100,10 @@ toc: true
 > ### About me
 > 
 > I'm Madison Scott-Clary (she/her), and I've been chilling in the furry writing community for a decade or so now. I was editor-in-chief of \[adjective\]\[species\], an online magazine exploring the social and demographic aspects of the furry subculture, and editor-in-chief of Hybrid Ink, a small publishing house focused on thoughtful LGBTQ+ writing. I am the author of the Post-Self cycle, the Sawtooth anthologies, and three other books, and have edited or helped edit the short story anthologies *Arcana --- A Tarot Anthology*, *When the World Was Young: a Prehistoric Anthology*, and *Clade*, an anthology of stories set in the Post-Self universe. I am currently studying for my MFA in creative writing at Cornell College, and this workshop is being held as part of that degree program.
+
+The four applications were all quite good, and the only reason I had settled on the number three was due to time limits. The fourth applicant withdrew their application due to time constraints, so I essentially wound up accepting everyone who applied. I'm thankful that the quality was so high.
+
+Unfortunately, due to the fact that time zones started clashing with schedules (we had one attendee from Australia), the Friday session was canceled and the interactive portions of the workshop were reduced to the two at-con sessions. This was addressed by setting up a Telegram group chat for the attendees and providing them with a video introduction of what would have been my first session's content in lieu, which is provided below.
 
 ## Lead up to First session
 

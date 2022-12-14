@@ -1,6 +1,6 @@
 ---
 url: /assets/posts/youre-gone/script
-layout: post
+type: post
 title: You're Gone
 ---
 
@@ -11,6 +11,11 @@ h3 {
     color: #aaa;
     font-style: italic;
     border-bottom: 1px solid #aaa;
+}
+p {
+    margin: 0.5rem 0 0.5rem 1em !important;
+    text-indent: -1em !important;
+    line-height: 1.3;
 }
 </style>
 
