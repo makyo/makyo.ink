@@ -65,3 +65,5 @@ Once you're all done, It's just time to hit the big green button and put your bo
 And there you go! You've published your anthology from start to finish, and now it's up for sale. You can market it however you wish, but again, that's a topic for a different essay.
 
 Running an anthology isn't always easy, but it's a rewarding project. Even if you have little experience, if you have an idea, it can be worth seeing through to the end. *Arcana* is something I'm really proud of, and I never would've gotten my hands on my very own book if I hadn't taken the plunge and just gotten to work!
+
+*This article appeared in [From Paw to Print: Essays About Writing in the Furry Fandom](https://boundtales.storenvy.com/products/30392965-from-paw-to-print-essays-about-writing-in-the-furry-fandom).*
