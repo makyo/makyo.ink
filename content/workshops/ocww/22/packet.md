@@ -134,7 +134,11 @@ Unfortunately, due to the fact that time zones started clashing with schedules (
 
 ## Sessions
 
+During the time leading up to the convention, the Friday panel was canceled due to a misunderstanding about schedules. With one participant joining from Australia and the convention not actually beginning until Saturday, the participants weren't able to meet. However, the two sessions on Saturday and Sunday went off as planned.
+
 ### Video in Lieu of Friday Session
+
+Due to the canceled Friday session, I recorded a short video with the introduction to critique that I had planned. The participants found this quite useful, though a few got stressed due to missed expectations as to what critique actually was.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_HKqGY1fiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -188,19 +192,29 @@ Unfortunately, due to the fact that time zones started clashing with schedules (
 
 ### Other Sessions
 
+During the convention, I ran two additional panels (a third was offered in case there were not enough panels from others, but there was a sudden surge of submissions a few days before the con began).
+
 #### Writing and Mental Health
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i9btAkkoGzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Panel notes](https://writing.drab-makyo.com/writing-and-mental-health/)
 
 #### Plot Threads
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1SEKD2IAhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Panel document](https://makyo.wiki/assets/romance-caduceus.pdf)
+
 ## Feedback
 
 ### Feedback During
 
+I ran into an issue with expectations around critique. A few of the members were confused as to what that meant and just how much work needed to be done. For instance, Kayodé wound up running through the stories several times as he learned more about what was expected of him, starting first with line editing, then with points that he wanted the authors to focus on that he felt were too specific and would have taken up too much time. As I posted the video for session 0, that wound up giving a much better idea of what the critique sessions would look like. This is probably something that I'll keep in mind moving forward, and may hunt down some good resources to provide participants with for future workshops.
+
 ### Feedback Survey
+
+After the workshop, I provided the participants with a short survey to see if they had any particular feedback, positive or negative, about the whole experience as well as particular days.
 
 #### How do you feel the workshop went overall?
 
@@ -227,3 +241,5 @@ Unfortunately, due to the fact that time zones started clashing with schedules (
 * I know you mentioned there was originally 3 sections, so having the third section going over the writing excercise after it was edited from the first day's feedback would have been cool to see how people use that changes and get info on how best to do that.
 
 ## Takeaways
+
+This was an incredibly fun project from start to finish, and I had a really fun time working with some great (and very respectful!) authors. With their insights, I think they were all able to take something away for each of their stories that they could use moving forward. There are some things that I would change, such as adding some clarity before the workshop starts and also spending a bit more time on introducing the concepts of critique during the first session. While this had been on the schedule for the first session that wound up getting canceled, the participants did mention meeting over video chat beforehand, and we never wound up doing so. I'll be hosting an in-person workshop in January using a similar structure, and I'll be using a lot of the lessons that I learned from this in order to make that one all the better.
