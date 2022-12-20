@@ -1,6 +1,6 @@
 ---
-type: page
 title: Oxfurred Comma Writing Workshop 2022 — MFA Packet
+type: page
 toc: true
 ---
 
