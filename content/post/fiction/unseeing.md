@@ -60,6 +60,8 @@ Only now does he speak his prayers aloud, and by now, he is overflowing with lig
 
 Ýng is with Lyut, and I am as well.
 
+-----
+
 After prayer, Lyut feeds his fire and sits for a while before it to ensure that the sound of the wood burning is just as it should be and no louder and that the heat of the fire is neither too hot nor too cool, for he knows that a hot-burning fire that roared and rushed with the voice of Ýng's anger was one that would at best burn out too soon and he had been taught that at worst it would claim souls as easily as wood.
 
 With the smoke of the fire mingling with that of his incense, with the scent of his devotion lingering in his nose and clinging to his fur and stinging sightless eyes, he takes up his walking stick and pads slowly down the path from his cave to the section of river he calls his own. His feet guide him with soft shuffling. His stick guides him with gentle tapping. His ears guide him with the sounds of the river. Ýng guides him with Their hand on his shoulder.
@@ -92,6 +94,8 @@ For the third and final time, Lyut washes that day, and I revel in the act of hi
 
 Too, this is the time when he makes himself pure before me, though he knows it not. This is the time when he gives thought to the direction his fur is facing. This is the time when he gives thought to any dirt which may cover him. This is the time when he, blind pekania, blind fisher, puts thought, however abstract, into what a watcher may see.
 
+-----
+
 Lyut lives his life in prayer and devotion. It is a life that is lived ascending in a steady spiral of years, for time moves upward and yet is echoed below by the change of days, the change of weeks, the change of seasons. This year, this day, this soft spring is an echo of last soft spring beneath it. It is antipodal to the autumn that will come
 
 Cycles within cycles, spirals within spirals. This morning, too, is an echo of the day beneath it, behind it, in the past. His days are defined by the cycle of incense, prayer, fishing, foraging, meditating. He knows that it is day when he wakes when he feels the warmth from the sun. He knows when it is night when he feels the warmth fade. He knows when it is morning because he hears the birds sing. He knows that it is night when the birdsong of the day settles into the chorus of insects.
@@ -121,6 +125,8 @@ And then it is time for him to remove his simmering broth from the fire and to s
 This, Lyut knows, Lyut relishes, is the cycle of the day, the cycle of the year, and, his Lord promises him, the cycle of his life, for he will surely be reborn when the hours of his life slow to a stop.
 
 In this, Ýng is a liar, but it is a kind lie, a lie of omission, for when Lyut dies, *I* will take him unto me. I will take him and his acts in life together into my bowl and crush and knead and he will rejoice with me and I will rejoice with him and then whatever rest he has now, whatever glory he knows now, whatever elation he may feel shall be pale in comparison to what comes after.
+
+-----
 
 Lyut prays and works for the rest of the day, for today is the day that he makes incense for the town below.
 
@@ -156,6 +162,8 @@ This week, Lyut does not smile kindly to Zita as she collects the amphorae and w
 And the next day, it is truly a fast, for there are no fish in his net, and if there are no fish in his net, he knows that he must not collect the fiddlehead ferns, and instead of savory broth, Lyut drinks only boiled water, hot and cleansed by fire, and he spends the rest of the day in meditation, and he goes to bed hungry.
 
 I watch as he sleeps, fitful, and leave for him two fish in his net for his unknowing devotion to me.
+
+-----
 
 It is the last night of the week of fasting and it is the thirtieth year that Lyut has served Ýng and myself that I have decided to change him and by changing him, change the world, for while I am the god of the water and the god of watching and the god of death, am I not also a trickster god?
 
@@ -230,6 +238,8 @@ He grinds his palms against his eyes and smears his fur with tears and with dirt
 Lyut is silent once more, still once more. He prays. He prays to Ýng with a fervor he has not yet shown in his forty years. Tears stain tracks down his cheeks as he struggles with the sudden, overwhelming sight. Sight, a sense he now possesses.
 
 "Go and prepare for your day, faithful. I am with you."
+
+-----
 
 Lyut is slow to begin moving, and when he does, he walks as though a great dream has come upon him. He lets Ýng guide his movements and I stand apart from the Lord and Their servant.
 
@@ -353,6 +363,8 @@ A slow minute passes as the fisher meditates. At last, he opens his eyes and loo
 
 "That is all we ever ask of our servants, Lyut."
 
+-----
+
 When Zita comes up from the village, bearing an armload of flatbread and a small basket full of spice cakes for Lyut, he had since ceased his conversation with me and had ceased meditating by laying on the ground, and had instead settled for sitting cross-legged in the entrance to his cave looking out. Zita sang as she walked, as she had for the last ten festival weeks that this had been her duty, and so Lyut hears her before he saw her.
 
 He debates for thirty heartbeats whether or not he is willing to keep his eyes open for her arrival. He debates whether or not he is willing to see, to perceive someone with senses other than those he had been born with.
@@ -467,6 +479,8 @@ I let them finish their prayer and bask in the jubilant way that Zita's voice ri
 When they finish, Zita smiles to Lyut and stands once more. "I must go down to the village and tell them of this miracle. Tonight you will see the moon, holy one, and know its beauty and that will be your praise to Týw."
 
 The thought fills me with joy, for the moon is indeed beautiful, and I watch Zita put her arms around Lyut in an embrace---his first in many years---before departing down to the village once more.
+
+-----
 
 Lyut stays up late into the night at the promise of the moon. Night is not day, this he knew, and the subconscious understanding that the sun brought light would mean that the absence of the sun would bring darkness does not surprise him.
 
