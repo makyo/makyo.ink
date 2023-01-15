@@ -1,5 +1,6 @@
 ---
 title: Participant Submissions
+type: page
 ---
 
 ## Departure
