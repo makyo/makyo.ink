@@ -248,6 +248,15 @@ body.impress-mouse-timeout {
   background-position: center;
 }
 
+#Overview p {
+  opacity: 0; 
+}
+
+.impress-on-Overview #Overview p {
+  opacity: 1;
+  text-align: center;
+}
+
 #Introduction, #Michael, #I, #II {
   color: #eeeeee;
 }
