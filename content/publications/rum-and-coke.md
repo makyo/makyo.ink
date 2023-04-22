@@ -6,13 +6,9 @@ ogimg: /assets/img/publications/rum-and-coke.jpg
 
 <img src="/assets/img/publications/rum-and-coke.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%;" />
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-
-<ul class="center-list">
-<li><a class="gumroad-button" href="https://makyo-ink.square.site/product/rum-and-coke-three-short-stories-from-a-furry-convention/2" target="\_blank">Purchase paperback</a><br /><em>All copies ordered direct are signed!</em></li>
-<li><a class="gumroad-button" href="https://gum.co/rnc-furry-ebook" target="\_blank">Purchase  ebook</a></li>
-<li><a href="https://www.amazon.com/dp/B0160RTUWK" target="\_blank">Purchase on Amazon</a></li>
-</ul>
+<div class="buy">
+<p><a href="https://makyo-ink.square.site/product/rum-and-coke-three-short-stories-from-a-furry-convention/2" target="_blank">Purchase paperback</a> <a href="https://makyo.itch.io/rum-and-coke" target="_blank">Purchase ebook</a></p>
+</div>
 
 -----
 
