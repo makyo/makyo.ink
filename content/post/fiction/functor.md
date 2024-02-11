@@ -1,7 +1,7 @@
 ---
 categories:
 - Short Story
-ratings: G
+ratings: R
 date: 2023-12-09
 type: post
 tags:
