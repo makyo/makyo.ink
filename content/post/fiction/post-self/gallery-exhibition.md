@@ -21,6 +21,6 @@ The Simien Fang school of Art and Design is proud to invite you to the opening o
 
 RSVP<!--more-->
 
-## [Play the game](/assets/posts/gallery-exhibition.html)
+## [Play the game](https://qoheleth.post-self.ink/gallery-exhibition)
 
 This entry takes the form of a Twine game. There are choices to be made, and random chance at play. Twine is a form of interactive fiction that you can play in your browser. It requires a modern browser with JavaScript enabled.
