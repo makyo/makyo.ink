@@ -35,7 +35,7 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="/assets/fonts/font-awesome/css/font-awesome.min.css">
     <!-- Styles -->
-    {{ $style := resources.Get "css/main.scss" | resources.ToCSS }}
+    {{ $style := resources.Get "css/main.scss" | css.Sass }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     <link rel="stylesheet" href="/publications/restless-town/main.css" />
 </head>

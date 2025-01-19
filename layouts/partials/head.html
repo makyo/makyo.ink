@@ -32,7 +32,7 @@
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="/assets/fonts/font-awesome/css/font-awesome.min.css">
 	<!-- Styles -->
-    {{ $style := resources.Get "css/main.scss" | resources.ToCSS | resources.Fingerprint "sha256" }}
+    {{ $style := resources.Get "css/main.scss" | css.Sass | resources.Fingerprint "sha256" }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
 	{{ with .Params.extracss }}
 		<link rel="stylesheet" href="{{.}}">
