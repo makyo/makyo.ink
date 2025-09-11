@@ -545,7 +545,7 @@ Dr. R nodded. They watched as the airlock doors bolted shut, thinking.
 
 Abby did her best to smile. "You're really leaving, though?"
 
-"Yeah," he said, chuckling. "An appointment at Central Command is hard to turn down. I'm getting to old for this type of thing. I'm tired of dealing with stab wounds, and glimmer's for the youth."
+"Yeah," he said, chuckling. "An appointment at Central Command is hard to turn down. I'm getting too old for this type of thing. I'm tired of dealing with stab wounds, and glimmer's for the youth."
 
 At this she really did smile. "I don't think it's for anyone but the scientists, honestly."
 
