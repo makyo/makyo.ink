@@ -13,6 +13,10 @@ categories:
 - Short story
 ---
 
+<p style="text-align: center; font-style: italic">As featured on The Voice of Dog, you can <a href="https://thevoice.dog/?episode=the-presence-between-the-pages-by-madison-scott-clary" target="_blank">listen here</a>.</p>
+
+-----
+
 "Every five years we must take down every scroll, stack by stack, and replace the rugs beneath them. We must also unroll the scroll and make note of its condition," the monk rasped. "The latter will not be your responsibility, young one, but we are happy to provide you with a cot in the dormitory, and you will be welcome at the refectory during your stay here. Can you eat our food?"
 
 Belek bowed politely to the monk. "I will eat what I am able, grandfather, and I will work."

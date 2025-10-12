@@ -12,6 +12,10 @@ tags:
 title: Unseeing
 ---
 
+<p style="text-align: center; font-style: italic">As featured on The Voice of Dog, you can listen to part 1 <a href="https://thevoice.dog/?episode=unseeing-by-madison-scott-clary-part-1-of-2-read-by-the-author-herself" target="_blank">here</a> and part 2 <a href="https://thevoice.dog/?episode=unseeing-by-madison-scott-clary-part-2-of-2-read-by-the-author-herself" target="_blank">here</a>.
+
+-----
+
 On the morning of every day, when days are warm and there is no rain, on days when Lyut knows when it is day and when it is night, he will gather his ingredients onto a small board and sit at the entrance to his cave and make his incense for three days hence.
 
 Lyut, blind fisher, blind pekania, works with measured care, for he does not want to injure the pads of his paws nor nick his already-scuffed claws nor shave off any of his fur, nor, Ýng preserve him, damage his carefully honed equipment. He works with measured care and a practiced slowness, with a patience known to one who holds the highest devotion to his labor and to his Lord.
