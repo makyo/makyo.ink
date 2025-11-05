@@ -492,7 +492,7 @@ He remains curious about all things. He marvels at the red and pulsing glow of t
 
 The first night of the week of feasting is the night of the full moon, which Lyut had known but had not understood, but now he does. He understands the moon and its importance when first it creeps into view of his clearing. He understands its beauty, and he weeps. He weeps for my creation, and I am filled with praise unclouded by words. Filled to overflowing as I have never been since Ýng created me at the beginning of all things.
 
-And that night is the night when Ýng comes to me and makes his decision.
+And that night is the night when Ýng comes to me and makes their decision.
 
 The next morning, a second strange occurrence greets Lyut when he opens his eyes. Sitting at the entrance to his cave is a creature very much like him in many ways, but in many ways different. Long and lithe, yes, strong and slender, yes, but shorter, and with fur of the purest white as opposed to the dark brown of his own. A face more slender and ears larger, and on the tip of his tail, the fur is dark black.
 
