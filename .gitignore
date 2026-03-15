@@ -1,8 +1,3 @@
-_site
-.sass-cache
-.jekyll-metadata
-.bundle
-node_modules
-resources
 .hugo_build.lock
 public
+resources/_gen

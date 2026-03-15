@@ -9,7 +9,7 @@ title = "The Writing of Madison Rye Progress"
   series = "series"
 
 [permalinks]
-  post = "/:filename/"
+  post = "/:contentbasename/"
 
 [markup.goldmark.renderer]
   unsafe= true
