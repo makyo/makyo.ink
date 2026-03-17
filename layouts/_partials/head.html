@@ -37,4 +37,5 @@
 	{{ with .Params.extracss }}
 		<link rel="stylesheet" href="{{.}}">
 	{{ end }}
+    {{ partial "analytics.html" . }}
 </head>
