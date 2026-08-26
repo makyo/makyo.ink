@@ -146,7 +146,7 @@ And while the dreamy confusion was mirrored on her face, there was also curiosit
 
 And she had stopped thinking of this Doppelgänger as something other than herself. She was not it. She was she. She was she.
 
-And her hands were her own. She had a hand in their making. Her hand was forced hand in hand with blood on her hands washing her hands of the matter. After all, was a bird in the hand not worth two in the clearing, their beside the stairs where, written on the wall, were the words, "Were lies the strangling fruit that came from the hand of the sinner"?
+And her hands were her own. She had a hand in their making. Her hand was forced hand in hand with blood on her hands washing her hands of the matter. After all, was a bird in the hand not worth two in the clearing, their beside the stairs where, written on the wall, were the words, "Where lies the strangling fruit that came from the hand of the sinner"?
 
 And there she was, and if there had been a transition from her being in her tent to her standing in the clearing, to her moving toward where those stairs bored down into the earth, she missed it, just as she had missed that transition between waking and sleeping.
 
